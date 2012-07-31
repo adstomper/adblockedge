@@ -1,0 +1,66 @@
+/*
+ * This Source Code is subject to the terms of the Mozilla Public License
+ * version 2.0 (the "License"). You can obtain a copy of the License at
+ * http://mozilla.org/MPL/2.0/.
+ */
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+@namespace html url("http://www.w3.org/1999/xhtml");
+
+/*
+ * Force left-to-right everywhere where we are displaying addresses
+ */
+.suggestion > .radio-label-box:-moz-locale-dir(rtl),
+html|*.textbox-input:-moz-locale-dir(rtl)
+{
+  direction: ltr;
+  text-align: end;
+}
+
+#patternGroup {
+  overflow: auto;
+}
+
+#anchorGroup {
+  padding-left: 20px;
+}
+
+#typeGroupLabel {
+  margin-top: 10px;
+}
+
+#typeGroup {
+  overflow: auto;
+  margin-bottom: 10px
+}
+
+:root:not([advancedMode="true"]) #options {
+  display: none;
+}
+
+#disabledWarning, #groupDisabledWarning, #regexpWarning, #shortpatternWarning, #matchWarning {
+  color: #E00000;
+}
+
+#disabledWarning > *, #groupDisabledWarning > * {
+  margin: 0px;
+  font-size: inherit;
+}
+
+.text-link {
+  font-size: 80%;
+  -moz-user-focus: ignore;
+}
+
+.help {
+  color: #0000E0;
+  border-bottom: 1px dotted #0000E0;
+  cursor: help;
+  margin: 0px;
+  padding: 0px;
+}
+
+tooltip {
+  /* Gecko 1.8.1 doesn't support multiline tooltips :-( */
+  max-width: none;
+}

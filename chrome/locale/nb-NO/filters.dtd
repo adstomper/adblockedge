@@ -1,0 +1,18 @@
+<!ENTITY addSubscription.label "Legg til filterabonnement">
+<!ENTITY addSubscriptionOther.label "Legg til abonnement">
+<!ENTITY subscription.lastDownload.label "Siste nedlasting:">
+<!ENTITY subscription.lastDownload.inProgress "Laster ned...">
+<!ENTITY subscription.lastDownload.unknown "Ikke tilgjengelig">
+<!ENTITY subscription.lastDownload.invalidURL "Mislykket, ikke en gyldig adresse">
+<!ENTITY subscription.lastDownload.connectionError "Mislykket, feil i nedlasting">
+<!ENTITY subscription.lastDownload.invalidData "Mislykket, ikke en gyldig filterliste">
+<!ENTITY subscription.lastDownload.success "Vellykket">
+<!ENTITY addFilter.label "Legg til filter">
+<!ENTITY filter.cut.label "Klipp ut">
+<!ENTITY filter.copy.label "Kopier">
+<!ENTITY filter.paste.label "Lim inn">
+<!ENTITY filter.delete.label "Slett">
+<!ENTITY enabled.column "Aktivert">
+<!ENTITY hitcount.column "Treff">
+<!ENTITY lasthit.column "Siste treff">
+<!ENTITY find.label "Søk">

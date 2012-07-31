@@ -1,0 +1,42 @@
+<!ENTITY status.tooltip "Stav:">
+<!ENTITY blocked.tooltip "Blokovať položky na tejto stránke:">
+<!ENTITY filters.tooltip "Najaktívnejšie filtre:">
+<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.accesskey "A">
+<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY context.image.label "Adblock obrázok">
+<!ENTITY context.object.label "Adblock objekt">
+<!ENTITY context.frame.label "Adblock rámec">
+<!ENTITY context.media.label "Adblock Plus: Blokovať audio/video">
+<!ENTITY context.removeWhitelist.label "Adblock Plus: Znovu zapnúť túto stránku">
+<!ENTITY sidebar.title "Blokovateľné položky na aktuálnej stránke">
+<!ENTITY sendReport.label "Ohlásiť problém na tejto stránke">
+<!ENTITY sendReport.accesskey "O">
+<!ENTITY filters.label "Nastavenia filtrov">
+<!ENTITY filters.accesskey "N">
+<!ENTITY opensidebar.label "Otvoriť blokovateľné položky">
+<!ENTITY opensidebar.accesskey "b">
+<!ENTITY closesidebar.label "Zatvoriť blokovateľné položky">
+<!ENTITY closesidebar.accesskey "b">
+<!ENTITY whitelist.site.label "Vypnúť na ?1?">
+<!ENTITY whitelist.page.label "Vypnúť len na tejto stránke">
+<!ENTITY disable.label "Vypnúť všade">
+<!ENTITY options.label "Možnosti">
+<!ENTITY options.accesskey "M">
+<!ENTITY contribute.label "Prispieť na Adblock Plus">
+<!ENTITY showintoolbar.label "Zobraziť v paneli nástrojov">
+<!ENTITY showintoolbar.accesskey "l">
+<!ENTITY showinstatusbar.label "Zobraziť v stavovom riadku">
+<!ENTITY showinstatusbar.accesskey "S">
+<!ENTITY showinaddonbar.label "Zobraziť v paneli doplnkov">
+<!ENTITY showinaddonbar.accesskey "l">
+<!ENTITY objecttabs.label "Zobraziť karty pre Flash a Java">
+<!ENTITY objecttabs.accesskey "F">
+<!ENTITY hideplaceholders.label "Skryť symboly blokovaných prvkov">
+<!ENTITY hideplaceholders.accesskey "r">
+<!ENTITY counthits.label "Počítadlo">
+<!ENTITY counthits.accesskey "o">
+<!ENTITY sync.label "Synchronizovať nastavenia Adblock Plus">
+<!ENTITY sync.accesskey "c">
+<!ENTITY objecttab.title "Blokovať">
+<!ENTITY objecttab.tooltip "Kliknúť sem pre blokovanie tohto objektu s Adblock Plus">

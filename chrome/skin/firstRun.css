@@ -1,0 +1,60 @@
+/*
+ * This Source Code is subject to the terms of the Mozilla Public License
+ * version 2.0 (the "License"). You can obtain a copy of the License at
+ * http://mozilla.org/MPL/2.0/.
+ */
+
+@namespace url("http://www.w3.org/1999/xhtml");
+
+@media not handheld
+{
+  body
+  {
+    font-size: 130%;
+  }
+}
+
+/** This should be unnecessary in Gecko 2.0 and above. */
+*[hidden]
+{
+  display: none;
+}
+
+body
+{
+  background-image: url(abp-icon-big.png);
+  background-repeat: no-repeat;
+  background-position: 95% 5%;
+  font-family: Arial,sans-serif;
+}
+
+.sectionTitle
+{
+  font-weight: bold;
+}
+
+#listNameContainer,
+#listNone
+{
+  margin: 1em 2em;
+}
+
+#listNone
+{
+  font-style: italic;
+}
+
+#acceptableAds
+{
+  font-size: 80%;
+  font-weight: bold;
+}
+#acceptableAds > *
+{
+  font-weight: normal;
+}
+
+.sectionContainer
+{
+  margin: 1em 2em;
+}

@@ -1,0 +1,5 @@
+repo: 3926c055e81d4c11d3249479e18a92ce1bebb5cc
+node: 18328ad4a8be688d8797cc15356bdb957b428355
+branch: default
+latesttag: ADBLOCK_PLUS_2_1_1_RELEASE
+latesttagdistance: 14

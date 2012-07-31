@@ -1,0 +1,25 @@
+<!ENTITY status.tooltip "Status:">
+<!ENTITY blocked.tooltip "Blokkerte elementer på denne siden:">
+<!ENTITY filters.tooltip "Mest aktive filtre:">
+<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.accesskey "B">
+<!ENTITY context.image.label "Adblock Bilde">
+<!ENTITY context.object.label "Adblock Objekt">
+<!ENTITY context.frame.label "Adblock Ramme">
+<!ENTITY sidebar.title "Elementer som kan blokkeres på denne siden">
+<!ENTITY opensidebar.label "Ãpne elementer som kan blokkeres">
+<!ENTITY opensidebar.accesskey "B">
+<!ENTITY closesidebar.label "Lukk elementer som kan blokkeres">
+<!ENTITY closesidebar.accesskey "B">
+<!ENTITY whitelist.site.label "Deaktiver på ?1?">
+<!ENTITY whitelist.page.label "Deaktiver på denne siden">
+<!ENTITY options.label "Valg">
+<!ENTITY options.accesskey "V">
+<!ENTITY showintoolbar.label "Vis i verkøylinje">
+<!ENTITY showintoolbar.accesskey "V">
+<!ENTITY showinstatusbar.label "Vis i statuslinje">
+<!ENTITY showinstatusbar.accesskey "t">
+<!ENTITY objecttabs.label "Vis fliker på Flash og Java">
+<!ENTITY objecttabs.accesskey "f">
+<!ENTITY objecttab.title "Blokkér">
+<!ENTITY objecttab.tooltip "Trykk her for å blokkere dette objektet med Adblock Plus">

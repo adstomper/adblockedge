@@ -1,0 +1,42 @@
+<!ENTITY status.tooltip "Κατάσταση:">
+<!ENTITY blocked.tooltip "Στοιχεία που έχουν φραχθεί σε αυτή τη σελίδα:">
+<!ENTITY filters.tooltip "Φίλτρα με τις περισσότερες επιτυχίες:">
+<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.accesskey "B">
+<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY context.image.label "Adblock Plus: φραγή εικόνας">
+<!ENTITY context.object.label "Adblock Plus: φραγή αντικειμένου">
+<!ENTITY context.frame.label "Adblock Plus: φραγή πλαισίου">
+<!ENTITY context.media.label "Adblock Plus: φραγή ήχου/βίντεο">
+<!ENTITY context.removeWhitelist.label "Adblock Plus: Ενεργοποίηση σ' αυτή την σελίδα">
+<!ENTITY sidebar.title "Στοιχεία προς φιλτράρισμα στην τρέχουσα σελίδα">
+<!ENTITY sendReport.label "Αναφορά προβλήματος σε αυτή την σελίδα">
+<!ENTITY sendReport.accesskey "ρ">
+<!ENTITY filters.label "Προτιμήσεις φίλτρων">
+<!ENTITY filters.accesskey "φ">
+<!ENTITY opensidebar.label "Άνοιγμα των φιλτραρισμένων στοιχείων">
+<!ENTITY opensidebar.accesskey "α">
+<!ENTITY closesidebar.label "Κλείσιμο των φιλτραρισμένων στοιχείων">
+<!ENTITY closesidebar.accesskey "α">
+<!ENTITY whitelist.site.label "Απενεργοποίηση στο ?1?">
+<!ENTITY whitelist.page.label "Απενεργοποίηση σε αυτή τη σελίδα μόνο">
+<!ENTITY disable.label "Απενεργοποίηση παντού">
+<!ENTITY options.label "Επιλογές">
+<!ENTITY options.accesskey "λ">
+<!ENTITY contribute.label "Συνεισφέρετε στο Adblock Plus">
+<!ENTITY showintoolbar.label "Εμφάνιση στην εργαλειοθήκη">
+<!ENTITY showintoolbar.accesskey "θ">
+<!ENTITY showinstatusbar.label "Εμφάνιση στην γραμμή κατάστασης">
+<!ENTITY showinstatusbar.accesskey "κ">
+<!ENTITY showinaddonbar.label "Εμφάνιση στην εργαλειοθήκη προσθέτου">
+<!ENTITY showinaddonbar.accesskey "θ">
+<!ENTITY objecttabs.label "Εμφάνιση ετικέτας σε αντικείμενα Flash και Java">
+<!ENTITY objecttabs.accesskey "α">
+<!ENTITY hideplaceholders.label "Απόκρυψη πλαισίων των φιλτραρισμένων στοιχείων">
+<!ENTITY hideplaceholders.accesskey "ι">
+<!ENTITY counthits.label "Καταμέτρηση επιτυχιών φίλτρων">
+<!ENTITY counthits.accesskey "τ">
+<!ENTITY sync.label "Συγχρονισμός των ρυθμίσεων του Adblock Plus">
+<!ENTITY sync.accesskey "χ">
+<!ENTITY objecttab.title "Φραγή">
+<!ENTITY objecttab.tooltip "Κλικ εδώ για να φιλτράρετε αυτό το αντικείμενο με το Adblock Plus">

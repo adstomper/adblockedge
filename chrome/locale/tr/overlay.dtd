@@ -1,0 +1,42 @@
+<!ENTITY status.tooltip "Durum:">
+<!ENTITY blocked.tooltip "Bu sayfada engellenen öğeler:">
+<!ENTITY filters.tooltip "En etkin süzgeçler:">
+<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.accesskey "A">
+<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY context.image.label "Resmi engelle">
+<!ENTITY context.object.label "Nesneyi engelle">
+<!ENTITY context.frame.label "Çerçeveyi engelle">
+<!ENTITY context.media.label "Adblock Plus: Ses/Video engelle">
+<!ENTITY context.removeWhitelist.label "Adblock Plus: Bu sayfada devreye sok">
+<!ENTITY sidebar.title "Bu sayfadaki engellenebilecek öğeler">
+<!ENTITY sendReport.label "Bu sayfadaki sorunu bildir">
+<!ENTITY sendReport.accesskey "b">
+<!ENTITY filters.label "Süzgeç tercihleri">
+<!ENTITY filters.accesskey "s">
+<!ENTITY opensidebar.label "Engellenebilecek öğeleri göster">
+<!ENTITY opensidebar.accesskey "n">
+<!ENTITY closesidebar.label "Engellenebilecek öğeleri gizle">
+<!ENTITY closesidebar.accesskey "n">
+<!ENTITY whitelist.site.label "?1? sitesinde devre dışı kal">
+<!ENTITY whitelist.page.label "Sadece bu sayfada devre dışı kal">
+<!ENTITY disable.label "Her yerde devre dışı kal">
+<!ENTITY options.label "Seçenekler">
+<!ENTITY options.accesskey "e">
+<!ENTITY contribute.label "Adblock Plus'a katkıda bulun">
+<!ENTITY showintoolbar.label "Araç çubuğunda göster">
+<!ENTITY showintoolbar.accesskey "r">
+<!ENTITY showinstatusbar.label "Durum çubuğunda göster">
+<!ENTITY showinstatusbar.accesskey "D">
+<!ENTITY showinaddonbar.label "Eklenti çubuğunda göster">
+<!ENTITY showinaddonbar.accesskey "r">
+<!ENTITY objecttabs.label "Flash ve Java'yı kulakçıklarla belirt">
+<!ENTITY objecttabs.accesskey "J">
+<!ENTITY hideplaceholders.label "Engellenen öğelerin yer işaretlerini gizle">
+<!ENTITY hideplaceholders.accesskey "l">
+<!ENTITY counthits.label "Süzgeç isabetini say">
+<!ENTITY counthits.accesskey "b">
+<!ENTITY sync.label "Adblock Plus ayarlarını eşitle">
+<!ENTITY sync.accesskey "e">
+<!ENTITY objecttab.title "Engelle">
+<!ENTITY objecttab.tooltip "Bu nesneyi Adblock Plus ile engellemek için buraya tıklayın.">

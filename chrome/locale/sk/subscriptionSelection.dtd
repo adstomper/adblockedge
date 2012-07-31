@@ -1,0 +1,16 @@
+<!ENTITY dialog.title "Odoberanie Add Adblock Plus filtrov">
+<!ENTITY subscriptionSelector.label "Prosím, zvoľte odber zo zoznamu:">
+<!ENTITY viewList.label "Zobraziť filtre">
+<!ENTITY visitHomepage.label "Navštíviť domovskú stránku">
+<!ENTITY addSubscription.label "Pridať odber">
+<!ENTITY list.download.failed "Adblock Plus zlyhal pri získavaní zoznamu odberov.">
+<!ENTITY list.download.retry "Skúsiť znova">
+<!ENTITY list.download.website "Zobraziť webovú stránku">
+<!ENTITY fromWeb.description "Prosím, potvrďte, že chcete pridať tento filter odberu.">
+<!ENTITY title.label "Názov povolenia:">
+<!ENTITY title.accesskey "Z">
+<!ENTITY location.label "Umiestnenie zoznamu filtrov:">
+<!ENTITY location.accesskey "M">
+<!ENTITY supplementMessage "Tento filter odberu je určený pre použitie s filtrom odberu &quot;?1?&quot;ktorý ešte nepoužívate.">
+<!ENTITY addMain.label "Pridať tiež filter odberu &quot;?1?&quot;">
+<!ENTITY addMain.accesskey "o">
