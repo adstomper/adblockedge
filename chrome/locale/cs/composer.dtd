@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Přidat pravidlo filtru Adblock Plus">
+<!ENTITY dialog.title "Přidat pravidlo filtru Adblock Edge">
 <!ENTITY accept.label "Přidat filtr">
 <!ENTITY advanced.label "Rozšířené zobrazení">
 <!ENTITY basic.label "Základní zobrazení">
-<!ENTITY disabled.warning "Adblock Plus je momentálně zakázán. Můžete stále přidávat filtry, ale nebudou aplikovány dokud [link]nepovolíte Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge je momentálně zakázán. Můžete stále přidávat filtry, ale nebudou aplikovány dokud [link]nepovolíte Adblock Edge[/link].">
 <!ENTITY filter.label "Nový filtr:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Zobrazit existující filtry...">

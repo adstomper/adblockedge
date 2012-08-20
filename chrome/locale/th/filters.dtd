@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "ตั้งค่าตัวกรอง Adblock Plus">
+<!ENTITY dialog.title "ตั้งค่าตัวกรอง Adblock Edge">
 <!ENTITY subscriptions.tab.label "นามข้างท้ายตัวกรอง">
 <!ENTITY filters.tab.label "ตัวกรองแบบกำหนดเอง">
 <!ENTITY addSubscription.label "เพิ่มนามข้างท้ายตัวกรอง">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "ยกเลิก">
 <!ENTITY addSubscriptionOther.label "เพิ่มนามข้างท้าย">
 <!ENTITY noSubscriptions.text "
- คุณยังไม่ได้เพิ่มนามข้างท้ายตัวกรองใดๆ Adblock Plus จะไม่บล๊อกเหตุการณ์ใดๆ โดยที่ไม่มีตัวกรอง กรุณาใช้ &quot;เพิ่มนามข้างท้าย&quot; เพื่อ
+ คุณยังไม่ได้เพิ่มนามข้างท้ายตัวกรองใดๆ Adblock Edge จะไม่บล๊อกเหตุการณ์ใดๆ โดยที่ไม่มีตัวกรอง กรุณาใช้ &quot;เพิ่มนามข้างท้าย&quot; เพื่อ
  เพิ่มการดำเนินการ
 ">
 <!ENTITY subscription.homepage.label "โฮมเพจ">
@@ -22,7 +22,7 @@
 <!ENTITY subscription.lastDownload.invalidData "ล้มเหลว ไม่มีรายชื่อตัวกรองที่ถูกต้อง">
 <!ENTITY subscription.lastDownload.checksumMismatch "ล้มเหลว checksum จับผิดคู่">
 <!ENTITY subscription.lastDownload.success "สำเร็จ">
-<!ENTITY subscription.minVersion.warning "การใช้นามข้างท้ายตัวกรองนี้ต้องมี Adblock Plus รุ่นใหม่ที่กว่า คุณควรปรับปรุงเป็น Adblock Plus รุ่นล่าสุด">
+<!ENTITY subscription.minVersion.warning "การใช้นามข้างท้ายตัวกรองนี้ต้องมี Adblock Edge รุ่นใหม่ที่กว่า คุณควรปรับปรุงเป็น Adblock Edge รุ่นล่าสุด">
 <!ENTITY subscription.disabledFilters.warning "บางตัวกรองในการบอกรับสมาชิกนี้ถูกปิดใช้งาน">
 <!ENTITY subscription.disabledFilters.enable "เปิดใช้งาน การปิดใช้งานตัวกรอง">
 <!ENTITY subscription.actions.label "การกระทำ">
@@ -83,10 +83,10 @@
 <!ENTITY backup.complete.title "ตัวกรองและนามข้างท้ายทั้งหมด">
 <!ENTITY backup.custom.title "ตัวกรองแบบกำหนดเองเท่านั้น">
 <!ENTITY backup.error "มีข้อผิดพลาดในการเขียนตัวกรองไปยังไฟล์ ตรวจสอบให้แน่ใจว่า ไฟล์ที่เกี่ยวข้องนี้ไม่ได้ป้องกันการเขียน หรืออยู่ในระหว่างใช้งานโดยโปรแกรมประยุกต์อื่นๆ">
-<!ENTITY restore.error "ไม่สามารถประมวลผลแฟ้มข้อมูล บางทีอาจไม่ใช่แฟ้มสำรองของ Adblock Plus">
+<!ENTITY restore.error "ไม่สามารถประมวลผลแฟ้มข้อมูล บางทีอาจไม่ใช่แฟ้มสำรองของ Adblock Edge">
 <!ENTITY restore.complete.warning "กำหนดลักษณะการกรองของคุณทั้งหมดจะถูกแทนที่ โดยเนื้อหาของไฟล์ที่เลือกไว้ คุณต้องดำเนินการต่อหรือไม่">
 <!ENTITY restore.custom.warning "ตัวกรองแบบกำหนดเองของคุณทั้งหมดจะถูกแทนที่ โดยเนื้อหาของไฟล์ที่เลือกไว้ คุณต้องดำเนินการต่อหรือไม่">
-<!ENTITY restore.minVersion.warning "คำเตือน: ไฟล์ที่ถูกสร้างขึ้นด้วย Adblock Plus เป็นรุ่นใหม่กว่า คุณควรปรับปรุง Adblock Plus ให้เป็นรุ่นล่าสุดก่อนที่จะกู้คืนข้อมูลจากไฟล์นี้">
+<!ENTITY restore.minVersion.warning "คำเตือน: ไฟล์ที่ถูกสร้างขึ้นด้วย Adblock Edge เป็นรุ่นใหม่กว่า คุณควรปรับปรุง Adblock Edge ให้เป็นรุ่นล่าสุดก่อนที่จะกู้คืนข้อมูลจากไฟล์นี้">
 <!ENTITY find.label "ค้นหา">
 <!ENTITY find.accesskey "า">
 <!ENTITY close.label "ปิด">

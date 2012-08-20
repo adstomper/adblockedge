@@ -1,7 +1,7 @@
-<!ENTITY dialog.title               "Adblock Plus installation complete">
+<!ENTITY dialog.title               "Adblock Edge installation complete">
 
 <!ENTITY confirmation               "
-  Thank you for installing Adblock Plus. Ads will be blocked from now on.
+  Thank you for installing Adblock Edge. Ads will be blocked from now on.
   Enjoy!">
 
 <!ENTITY advancedSection            "Advanced options">

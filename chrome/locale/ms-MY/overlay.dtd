@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Item yang disekat pada laman ini:">
 <!ENTITY filters.tooltip "Penapis yang paling aktif:">
-<!ENTITY menuitem.label "Pilihan Adblock Plus">
+<!ENTITY menuitem.label "Pilihan Adblock Edge">
 <!ENTITY menuitem.accesskey "P">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Sekat imej">
-<!ENTITY context.object.label "Adblock Plus: Sekat objek">
-<!ENTITY context.frame.label "Adblock Plus: Sekat bingkai">
-<!ENTITY context.media.label "Adblock Plus: Sekat audio/video">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Aktifkan semula pada laman ini">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Sekat imej">
+<!ENTITY context.object.label "Adblock Edge: Sekat objek">
+<!ENTITY context.frame.label "Adblock Edge: Sekat bingkai">
+<!ENTITY context.media.label "Adblock Edge: Sekat audio/video">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Aktifkan semula pada laman ini">
 <!ENTITY sidebar.title "Item yang boleh disekat pada laman semasa">
 <!ENTITY sendReport.label "Lapor isu pada laman ini">
 <!ENTITY sendReport.accesskey "L">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Nyahaktif di semua tempat">
 <!ENTITY options.label "Pilihan">
 <!ENTITY options.accesskey "n">
-<!ENTITY contribute.label "Sumbang kepada Adblock Plus">
+<!ENTITY contribute.label "Sumbang kepada Adblock Edge">
 <!ENTITY showintoolbar.label "Paparkan di bar alatan">
 <!ENTITY showintoolbar.accesskey "r">
 <!ENTITY showinstatusbar.label "Paparkan di bar status">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "y">
 <!ENTITY counthits.label "Kira kiraan penapis">
 <!ENTITY counthits.accesskey "K">
-<!ENTITY sync.label "Sync tatacara Adblock Plus">
+<!ENTITY sync.label "Sync tatacara Adblock Edge">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Sekat">
-<!ENTITY objecttab.tooltip "Klik di sini untuk menyekat objek ini dengan Adblock Plus">
+<!ENTITY objecttab.tooltip "Klik di sini untuk menyekat objek ini dengan Adblock Edge">

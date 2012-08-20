@@ -2,36 +2,36 @@
 <!ENTITY privacyPolicy.label            "Datenschutzerklärung">
 
 <!ENTITY dataCollector.heading          "Willkommen zum Fehlerberichts-Assistenten">
-<!ENTITY dataCollector.description      "Bitte warten Sie einige Augenblicke, während Adblock Plus die benötigten Daten sammelt.">
+<!ENTITY dataCollector.description      "Bitte warten Sie einige Augenblicke, während Adblock Edge die benötigten Daten sammelt.">
 
 <!-- Please keep typeSelector.heading short - it is shown in the progress bar, not much space there -->
 <!ENTITY typeSelector.heading           "Fehlerart wählen">
 
 <!ENTITY typeSelector.description       "
-  Dieser Assistent wird Sie durch die nötigen Schritte zum Melden eines Adblock Plus-Fehlers
+  Dieser Assistent wird Sie durch die nötigen Schritte zum Melden eines Adblock Edge-Fehlers
   leiten. Zuerst wählen Sie bitte die Art des Fehlers, den Sie auf dieser Seite
   beobachten:
 ">
 
-<!ENTITY typeSelector.falsePositive.label       "Adblock Plus blockiert zu viel">
+<!ENTITY typeSelector.falsePositive.label       "Adblock Edge blockiert zu viel">
 <!ENTITY typeSelector.falsePositive.accesskey   "v">
 <!ENTITY typeSelector.falsePositive.description "
   Wählen Sie diese Option, falls auf der Seite wichtige Inhalte fehlen, die Seite
   falsch angezeigt wird oder nicht korrekt funktioniert. Sie können feststellen,
-  ob Adblock Plus das Problem verursacht, indem Sie es vorübergehend deaktivieren.
+  ob Adblock Edge das Problem verursacht, indem Sie es vorübergehend deaktivieren.
 ">
 
-<!ENTITY typeSelector.falseNegative.label       "Eine Werbeeinblendung wird von Adblock Plus nicht blockiert">
+<!ENTITY typeSelector.falseNegative.label       "Eine Werbeeinblendung wird von Adblock Edge nicht blockiert">
 <!ENTITY typeSelector.falseNegative.accesskey   "W">
 <!ENTITY typeSelector.falseNegative.description "
   Wählen Sie diese Option, falls Werbung auf der Seite angezeigt wird, obwohl
-  Adblock Plus aktiviert ist.
+  Adblock Edge aktiviert ist.
 ">
 
 <!ENTITY typeSelector.other.label               "Anderer Fehler">
 <!ENTITY typeSelector.other.accesskey           "d">
 <!ENTITY typeSelector.other.description         "
-  Wählen Sie diese Option, falls Sie ein Problem mit Adblock Plus selber und nicht
+  Wählen Sie diese Option, falls Sie ein Problem mit Adblock Edge selber und nicht
   mit dessen Filtern vermuten.
 ">
 
@@ -41,7 +41,7 @@
 <!ENTITY recentReports.clear.accesskey          "r">
 
 <!ENTITY update.inProgress.description          "
-  Adblock Plus muss Ihre Filterabonnements aktualisieren, um sicherzustellen,
+  Adblock Edge muss Ihre Filterabonnements aktualisieren, um sicherzustellen,
   dass das Problem nicht bereits gelöst ist. Bitte warten Sie...
 ">
 
@@ -60,26 +60,26 @@
 <!ENTITY update.start.label                     "Aktualisierung starten">
 
 <!ENTITY issues.description                     "
-  Adblock Plus hat Probleme in Ihren Einstellungen gefunden, die für das vorliegende
+  Adblock Edge hat Probleme in Ihren Einstellungen gefunden, die für das vorliegende
   Problem verantwortlich sein könnten oder eine Untersuchung des Problems behindern
   würden.
 ">
 
 <!ENTITY issues.whitelist.description           "
-  Adblock Plus ist derzeit deaktiviert auf der Seite, für die Ihr Bericht gesendet werden
-  soll. Bitte aktivieren Sie Adblock Plus wieder und laden Sie die Seite neu, bevor Sie
+  Adblock Edge ist derzeit deaktiviert auf der Seite, für die Ihr Bericht gesendet werden
+  soll. Bitte aktivieren Sie Adblock Edge wieder und laden Sie die Seite neu, bevor Sie
   den Fehler melden. Das wird die Untersuchung des Problems vereinfachen.
 ">
-<!ENTITY issues.whitelist.remove.label          "Adblock Plus auf dieser Seite wieder aktivieren">
+<!ENTITY issues.whitelist.remove.label          "Adblock Edge auf dieser Seite wieder aktivieren">
 
 <!ENTITY issues.disabled.description            "
-  Adblock Plus ist deaktiviert, in diesem Zustand wird es nichts blockieren.
+  Adblock Edge ist deaktiviert, in diesem Zustand wird es nichts blockieren.
 ">
-<!ENTITY issues.disabled.enable.label           "Adblock Plus aktivieren">
+<!ENTITY issues.disabled.enable.label           "Adblock Edge aktivieren">
 
 <!ENTITY issues.nofilters.description           "
-  Adblock Plus blockiert auf dieser Seite nichts. Das Problem, das Sie sehen, wurde
-  wahrscheinlich nicht von Adblock Plus verursacht.
+  Adblock Edge blockiert auf dieser Seite nichts. Das Problem, das Sie sehen, wurde
+  wahrscheinlich nicht von Adblock Edge verursacht.
 ">
 
 <!ENTITY issues.nosubscriptions.description     "
@@ -124,9 +124,9 @@
 ">
 
 <!ENTITY typeWarning.description                "
-  Sie haben angedeutet, dass Sie ein allgemeines Problem mit Adblock Plus melden wollen
+  Sie haben angedeutet, dass Sie ein allgemeines Problem mit Adblock Edge melden wollen
   und kein Filterproblem. Bitte beachten Sie, dass solche Probleme am besten im
-  [link]Adblock Plus Forum[/link] gemeldet werden sollten. Den Fehlerberichts-Assistenten
+  [link]Adblock Edge Forum[/link] gemeldet werden sollten. Den Fehlerberichts-Assistenten
   sollte man nur als Ergänzung zu einer vorhandenen Diskussion verwenden. Sie müssen
   den Link zu Ihrem Fehlerbericht angeben, weil ihn sonst niemand sehen wird.
   Diesen automatisch generierten Link bekommen Sie nach dem Senden des Berichts.
@@ -185,7 +185,7 @@
 
 <!-- Please keep sendPage.heading short - it is shown in the progress bar, not much space there -->
 <!ENTITY sendPage.heading             "Bericht absenden">
-<!ENTITY sendPage.waitMessage         "Bitte warten Sie, während Adblock Plus Ihren Bericht sendet.">
+<!ENTITY sendPage.waitMessage         "Bitte warten Sie, während Adblock Edge Ihren Bericht sendet.">
 <!ENTITY sendPage.confirmation        "Ihr Bericht wurde gespeichert. Sie können Ihn unter der folgenden Adresse aufrufen:">
 <!ENTITY sendPage.knownIssue          "Das Problem, das Sie berichtet haben, ist möglicherweise bereits bekannt. Zusätzliche Information:">
 
@@ -194,7 +194,7 @@
   Beim Senden des Berichts ist ein Fehler aufgetreten (Fehlercode &quot;?1?&quot;).
   Bitte stellen Sie sicher, dass Sie mit dem Internet verbunden sind, und versuchen
   Sie, den Bericht noch einmal zu senden. Falls das Problem bestehen bleibt, wenden
-  Sie sich an das [link]Adblock Plus Forum[/link].
+  Sie sich an das [link]Adblock Edge Forum[/link].
 ">
 <!ENTITY sendPage.retry.label         "Noch einmal senden">
 

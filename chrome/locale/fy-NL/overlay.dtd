@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Steat:">
 <!ENTITY blocked.tooltip "Blokkearre ûnderdielen:">
 <!ENTITY filters.tooltip "Meast aktive filters:">
-<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.label "Adblock Edge">
 <!ENTITY menuitem.accesskey "A">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Ofbylding blokkearje">
 <!ENTITY context.object.label "Objekt blokkearje">
 <!ENTITY context.frame.label "Dielfinster blokkearje">
-<!ENTITY context.media.label "Adblock Plus: Blokkearje audio/fideo">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: opnij ynskeakelje op dizze side">
+<!ENTITY context.media.label "Adblock Edge: Blokkearje audio/fideo">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: opnij ynskeakelje op dizze side">
 <!ENTITY sidebar.title "Blokkearbere ûnderdelen op dizze side">
 <!ENTITY sendReport.label "Rapportearje probleem op dizze side">
 <!ENTITY sendReport.accesskey "R">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Oeral útskeakelje">
 <!ENTITY options.label "Opsjes">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Donearje oan Adblock Plus">
+<!ENTITY contribute.label "Donearje oan Adblock Edge">
 <!ENTITY showintoolbar.label "Toane yn arkbalke">
 <!ENTITY showintoolbar.accesskey "a">
 <!ENTITY showinstatusbar.label "Toane yn steatbalke">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Tel filterhits">
 <!ENTITY counthits.accesskey "h">
-<!ENTITY sync.label "Sync Adblock Plus opsjes">
+<!ENTITY sync.label "Sync Adblock Edge opsjes">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Blokkearje">
-<!ENTITY objecttab.tooltip "Klik hjir om dit objekt te blokkearjen mei Adblock Plus">
+<!ENTITY objecttab.tooltip "Klik hjir om dit objekt te blokkearjen mei Adblock Edge">

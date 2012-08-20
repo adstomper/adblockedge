@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Zablokowane elementy na tutej stronje:">
 <!ENTITY filters.tooltip "Najaktiwniše filtry:">
-<!ENTITY menuitem.label "Nastajenja Adblock Plus">
+<!ENTITY menuitem.label "Nastajenja Adblock Edge">
 <!ENTITY menuitem.accesskey "s">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Wobraz blokować">
-<!ENTITY context.object.label "Adblock Plus: Objekt blokować">
-<!ENTITY context.frame.label "Adblock Plus: Wobłuk blokować">
-<!ENTITY context.media.label "Adblock Plus: Awdio/Widejo blokować">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Na tutej stronje zaso zmóžnić">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Wobraz blokować">
+<!ENTITY context.object.label "Adblock Edge: Objekt blokować">
+<!ENTITY context.frame.label "Adblock Edge: Wobłuk blokować">
+<!ENTITY context.media.label "Adblock Edge: Awdio/Widejo blokować">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Na tutej stronje zaso zmóžnić">
 <!ENTITY sidebar.title "Blokujomne elementy na aktualnej stronje">
 <!ENTITY sendReport.label "Problem na tutej stronje zdźělić">
 <!ENTITY sendReport.accesskey "P">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Wšudźe znjemóžnić">
 <!ENTITY options.label "Opcije">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "K Adblock Plus přinošować">
+<!ENTITY contribute.label "K Adblock Edge přinošować">
 <!ENTITY showintoolbar.label "W gratowej lajsće pokazać">
 <!ENTITY showintoolbar.accesskey "l">
 <!ENTITY showinstatusbar.label "W statusowej lajsće pokazać">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "M">
 <!ENTITY counthits.label "Filtrowe wotpowědniki ličić">
 <!ENTITY counthits.accesskey "F">
-<!ENTITY sync.label "Nastajenja Adblock Plus synchronizować">
+<!ENTITY sync.label "Nastajenja Adblock Edge synchronizować">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Blokować">
-<!ENTITY objecttab.tooltip "Klikńće sem, zo byšće tutón objekt z pomcu Adblock Plus blokował">
+<!ENTITY objecttab.tooltip "Klikńće sem, zo byšće tutón objekt z pomcu Adblock Edge blokował">

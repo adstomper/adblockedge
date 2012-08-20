@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Adblock Plus szűrőszabály hozzáadása">
+<!ENTITY dialog.title "Adblock Edge szűrőszabály hozzáadása">
 <!ENTITY accept.label "Szűrő hozzáadása">
 <!ENTITY advanced.label "Haladó nézet">
 <!ENTITY basic.label "Alap nézet">
-<!ENTITY disabled.warning "Az Adblock Plus jelenleg le van tiltva. Szűrőket hozzáadhat, de azok nem fognak működni, amíg nem [link]engedélyezi az Adblock Plust[/link].">
+<!ENTITY disabled.warning "Az Adblock Edge jelenleg le van tiltva. Szűrőket hozzáadhat, de azok nem fognak működni, amíg nem [link]engedélyezi az Adblock Edget[/link].">
 <!ENTITY filter.label "Új szűrő:">
 <!ENTITY filter.accesskey "j">
 <!ENTITY preferences.label "Meglévő szűrők megjelenítése...">

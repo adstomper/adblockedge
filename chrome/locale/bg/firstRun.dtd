@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Adblock Plus инсталацията завърши">
+<!ENTITY dialog.title "Adblock Edge инсталацията завърши">
 <!ENTITY confirmation "
-	Благодаря ви че инсталирахте Adblock Plus. Рекламите ще са блокирани от сега нататък.
+	Благодаря ви че инсталирахте Adblock Edge. Рекламите ще са блокирани от сега нататък.
  Успех!">
 <!ENTITY advancedSection "Подробни настройки">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "Няма филтър лист">
 <!ENTITY visitHomepage.label "Посети страницата на листа">
 <!ENTITY acceptableAds2 "
- Adblock Plus е настроен да пропуска някой не натрапчиви реклами.
+ Adblock Edge е настроен да пропуска някой не натрапчиви реклами.
 ">
 <!ENTITY viewList.label "Виж лист">
 <!ENTITY readMore.label "Прочети повече за това">

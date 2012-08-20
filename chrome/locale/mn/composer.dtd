@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Adblock Plus шүүлтүүрийн дүрэм нэмэх">
+<!ENTITY dialog.title "Adblock Edge шүүлтүүрийн дүрэм нэмэх">
 <!ENTITY accept.label "Шүүлтүүр нэмэх">
 <!ENTITY advanced.label "Дэвшмэл харагдац">
 <!ENTITY basic.label "Үндсэн харагдац">
-<!ENTITY disabled.warning "Adblock Plus нь одоогоор хаалттай байна.  Та шүүлтүүр нэмж чадах боловч хэрэгжихгүй байх болно. [link]Adblock Plus-ийг нээх[/link].">
+<!ENTITY disabled.warning "Adblock Edge нь одоогоор хаалттай байна.  Та шүүлтүүр нэмж чадах боловч хэрэгжихгүй байх болно. [link]Adblock Edge-ийг нээх[/link].">
 <!ENTITY filter.label "Шинэ шүүлтүүр:">
 <!ENTITY filter.accesskey "ш">
 <!ENTITY preferences.label "Байгаа шүүлтүүрүүдийг харах...">

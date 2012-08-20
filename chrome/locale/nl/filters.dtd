@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus-filtervoorkeuren">
+<!ENTITY dialog.title "Adblock Edge-filtervoorkeuren">
 <!ENTITY subscriptions.tab.label "Filterabonnementen">
 <!ENTITY filters.tab.label "Aangepaste filters">
 <!ENTITY addSubscription.label "Filterabonnement toevoegen">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Annuleren">
 <!ENTITY addSubscriptionOther.label "Een ander abonnement toevoegen">
 <!ENTITY noSubscriptions.text "
-U hebt nog geen filterabonnementen toegevoegd. Adblock Plus blokkeert niets zonder filters, gebruik ‘Filterabonnement toevoegen’ om er één toe te voegen.
+U hebt nog geen filterabonnementen toegevoegd. Adblock Edge blokkeert niets zonder filters, gebruik ‘Filterabonnement toevoegen’ om er één toe te voegen.
 ">
 <!ENTITY subscription.homepage.label "Startpagina">
 <!ENTITY subscription.external.label "Bijgewerkt door een andere extensie">
@@ -21,7 +21,7 @@ U hebt nog geen filterabonnementen toegevoegd. Adblock Plus blokkeert niets zond
 <!ENTITY subscription.lastDownload.invalidData "Mislukt, geen geldige filterlijst">
 <!ENTITY subscription.lastDownload.checksumMismatch "Mislukt, afwijkend controlecijfer">
 <!ENTITY subscription.lastDownload.success "Gelukt">
-<!ENTITY subscription.minVersion.warning "Dit filterabonnement vereist een nieuwere versie van Adblock Plus, u dient bij te werken naar de nieuwste versie.">
+<!ENTITY subscription.minVersion.warning "Dit filterabonnement vereist een nieuwere versie van Adblock Edge, u dient bij te werken naar de nieuwste versie.">
 <!ENTITY subscription.disabledFilters.warning "Enkele filters in dit abonnement zijn uitgeschakeld.">
 <!ENTITY subscription.disabledFilters.enable "Uitgeschakelde filters inschakelen">
 <!ENTITY subscription.actions.label "Acties">
@@ -82,10 +82,10 @@ U hebt nog geen aangepaste filters.
 <!ENTITY backup.complete.title "Alle filters en abonnementen">
 <!ENTITY backup.custom.title "Alleen aangepaste filters">
 <!ENTITY backup.error "Er is een fout opgetreden bij het wegschrijven van de filters. Zorg ervoor dat het bestand niet tegen schrijven beveiligd is of wordt gebruikt door een andere toepassing.">
-<!ENTITY restore.error "De gegevens in het bestand kunnen niet worden verwerkt, wellicht is het geen back-up-bestand van Adblock Plus?">
+<!ENTITY restore.error "De gegevens in het bestand kunnen niet worden verwerkt, wellicht is het geen back-up-bestand van Adblock Edge?">
 <!ENTITY restore.complete.warning "Al uw filtervoorkeuren worden vervangen door de inhoud van het geselecteerde bestand. Wilt u doorgaan?">
 <!ENTITY restore.custom.warning "Al uw aangepaste filters worden vervangen door de inhoud van het geselecteerde bestand. Wilt u doorgaan?">
-<!ENTITY restore.minVersion.warning "Waarschuwing: het bestand is gemaakt met een nieuwere versie van Adblock Plus. U dient bij te werken naar de laatste versie voordat u kunt herstellen vanuit dit bestand.">
+<!ENTITY restore.minVersion.warning "Waarschuwing: het bestand is gemaakt met een nieuwere versie van Adblock Edge. U dient bij te werken naar de laatste versie voordat u kunt herstellen vanuit dit bestand.">
 <!ENTITY find.label "Zoeken">
 <!ENTITY find.accesskey "o">
 <!ENTITY close.label "Sluiten">

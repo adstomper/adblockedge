@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus -suodatinasetukset">
+<!ENTITY dialog.title "Adblock Edge -suodatinasetukset">
 <!ENTITY subscriptions.tab.label "Suodatintilaukset">
 <!ENTITY filters.tab.label "Omat suodattimet">
 <!ENTITY addSubscription.label "Lisää suodatintilaus">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Peruuta">
 <!ENTITY addSubscriptionOther.label "Lisää jokin muu tilaus">
 <!ENTITY noSubscriptions.text "
- Suodatintilauksia ei ole vielä lisätty. Adblock Plus ei estä mitään
+ Suodatintilauksia ei ole vielä lisätty. Adblock Edge ei estä mitään
  ilman suodattimia. Käytä &quot;Lisää suodatintilaus&quot; -painiketta lisätäksesi 
  joitakin.
 ">
@@ -23,7 +23,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Epäonnistui, kelvoton suodatinlista">
 <!ENTITY subscription.lastDownload.checksumMismatch "Epäonnistui, tarkistussumma ei täsmää">
 <!ENTITY subscription.lastDownload.success "Onnistui">
-<!ENTITY subscription.minVersion.warning "Tämä suodatintilaus vaatii uudemman Adblock Plus -version, on suositeltavaa päivittää uusimpaan Adblock Plussan versioon.">
+<!ENTITY subscription.minVersion.warning "Tämä suodatintilaus vaatii uudemman Adblock Edge -version, on suositeltavaa päivittää uusimpaan Adblock Edgesan versioon.">
 <!ENTITY subscription.disabledFilters.warning "Jotkin tämän suodatintilauksen suodattimista on poistettu käytössä.">
 <!ENTITY subscription.disabledFilters.enable "Ota käytöstä poistetut suodattimet käyttöön">
 <!ENTITY subscription.actions.label "Toiminnot">
@@ -84,10 +84,10 @@
 <!ENTITY backup.complete.title "Kaikki suodattimet ja tilaukset">
 <!ENTITY backup.custom.title "Vain omat suodattimet">
 <!ENTITY backup.error "Tapahtui virhe kirjoitettaessa suodattimia tiedostoon. Varmista että tiedosto ei ole kirjoitussuojattu tai jonkin muun ohjelman käytössä.">
-<!ENTITY restore.error "Tiedoston tietoja ei voida käsitellä. Ehkä tämä ei ole Adblock Plus -varmuuskopiotiedosto?">
+<!ENTITY restore.error "Tiedoston tietoja ei voida käsitellä. Ehkä tämä ei ole Adblock Edge -varmuuskopiotiedosto?">
 <!ENTITY restore.complete.warning "Kaikki suodatinasetukset korvataan valitun tiedoston sisällöllä. Haluatko varmasti jatkaa?">
 <!ENTITY restore.custom.warning "Kaikki omat suodattimet korvataan valitun tiedoston sisällöllä. Haluatko varmasti jatkaa?">
-<!ENTITY restore.minVersion.warning "Varoitus: tiedosto on luotu uudemmalla Adblock Plussan versiolla. Ennen kuin palautat tästä tiedostosta, on suositeltavaa päivittää uusimpaan Adblock Plussan versioon.">
+<!ENTITY restore.minVersion.warning "Varoitus: tiedosto on luotu uudemmalla Adblock Edgesan versiolla. Ennen kuin palautat tästä tiedostosta, on suositeltavaa päivittää uusimpaan Adblock Edgesan versioon.">
 <!ENTITY find.label "Etsi">
 <!ENTITY find.accesskey "E">
 <!ENTITY close.label "Sulje">

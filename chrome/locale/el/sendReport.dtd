@@ -1,32 +1,32 @@
 <!ENTITY wizard.title "Αναφορά ζητήματος">
 <!ENTITY privacyPolicy.label "Πολιτική απορρήτου">
 <!ENTITY dataCollector.heading "Καλώς ήρθατε στον βοηθό αναφοράς ζητήματος">
-<!ENTITY dataCollector.description "Παρακαλώ περιμένετε καθώς το Adblock Plus συλλέγει τα απαραίτητα δεδομένα.">
+<!ENTITY dataCollector.description "Παρακαλώ περιμένετε καθώς το Adblock Edge συλλέγει τα απαραίτητα δεδομένα.">
 <!ENTITY typeSelector.heading "Τύπος ζητήματος">
-<!ENTITY typeSelector.description "Σε αυτό το παράθυρο θα βρείτε βοήθεια για τα βήματα που πρέπει να ακολουθηθούν ώστε να υποβληθεί μια αναφορά για κάποιο ζήτημα που αντιμετωπίζετε σχετικά με το Adblock Plus. Παρακαλώ πρώτα επιλέξτε τον τύπο του ζητήματος που αντιμετωπίζετε σε αυτή την σελίδα:">
-<!ENTITY typeSelector.falsePositive.label "Το Adblock Plus φράζει πάρα πολλά στοιχεία">
+<!ENTITY typeSelector.description "Σε αυτό το παράθυρο θα βρείτε βοήθεια για τα βήματα που πρέπει να ακολουθηθούν ώστε να υποβληθεί μια αναφορά για κάποιο ζήτημα που αντιμετωπίζετε σχετικά με το Adblock Edge. Παρακαλώ πρώτα επιλέξτε τον τύπο του ζητήματος που αντιμετωπίζετε σε αυτή την σελίδα:">
+<!ENTITY typeSelector.falsePositive.label "Το Adblock Edge φράζει πάρα πολλά στοιχεία">
 <!ENTITY typeSelector.falsePositive.accesskey "σ">
-<!ENTITY typeSelector.falsePositive.description "Επιλέξτε αυτό, αν η σελίδα στερείται βασικό περιεχόμενο, εμφανίζεται λαθεμένα ή δεν λειτουργεί σωστά. Για να διαγνώσετε αν το Adblock Plus είναι η αιτία του προβλήματός σας, απενεργοποιήστε το προσωρινά.">
-<!ENTITY typeSelector.falseNegative.label "Το Adblock Plus δεν φράζει μια διαφήμιση">
+<!ENTITY typeSelector.falsePositive.description "Επιλέξτε αυτό, αν η σελίδα στερείται βασικό περιεχόμενο, εμφανίζεται λαθεμένα ή δεν λειτουργεί σωστά. Για να διαγνώσετε αν το Adblock Edge είναι η αιτία του προβλήματός σας, απενεργοποιήστε το προσωρινά.">
+<!ENTITY typeSelector.falseNegative.label "Το Adblock Edge δεν φράζει μια διαφήμιση">
 <!ENTITY typeSelector.falseNegative.accesskey "φ">
-<!ENTITY typeSelector.falseNegative.description "Επιλέξτε αυτό αν μια διαφήμιση εμφανίζεται παρόλο που το Adblock Plus είναι ενεργοποιημένο.">
+<!ENTITY typeSelector.falseNegative.description "Επιλέξτε αυτό αν μια διαφήμιση εμφανίζεται παρόλο που το Adblock Edge είναι ενεργοποιημένο.">
 <!ENTITY typeSelector.other.label "Άλλο ζήτημα">
 <!ENTITY typeSelector.other.accesskey "λ">
-<!ENTITY typeSelector.other.description "Επιλέξτε αυτό αν υποπτεύεστε κάποιο ζήτημα με το Adblock Plus το ίδιο, παρά με τα φίλτρα που χρησιμοποιούνται.">
+<!ENTITY typeSelector.other.description "Επιλέξτε αυτό αν υποπτεύεστε κάποιο ζήτημα με το Adblock Edge το ίδιο, παρά με τα φίλτρα που χρησιμοποιούνται.">
 <!ENTITY showRecentReports.label "Εμφάνιση πρόσφατα υποβληθέντων αναφορών">
 <!ENTITY recentReports.label "Οι αναφορές που υποβάλλατε πρόσφατα">
 <!ENTITY recentReports.clear.label "Αφαίρεση όλων των αναφορών">
 <!ENTITY recentReports.clear.accesskey "Α">
-<!ENTITY update.inProgress.description "Το Adblock Plus θα πρέπει να ενημερώσει τις συνδρομές φίλτρων ώστε να βεβαιωθεί ότι το πρόβλημα δεν έχει ήδη επιλυθεί. Παρακαλώ περιμένετε...">
+<!ENTITY update.inProgress.description "Το Adblock Edge θα πρέπει να ενημερώσει τις συνδρομές φίλτρων ώστε να βεβαιωθεί ότι το πρόβλημα δεν έχει ήδη επιλυθεί. Παρακαλώ περιμένετε...">
 <!ENTITY update.fixed.description "Οι ενημερώσεις στις συνδρομές φίλτρων πιθανώς επιλύουν το πρόβλημα το οποίο αναφέρετε. Παρακαλώ ανανεώστε την σελίδα και προσπαθήστε ξανά. Κάντε μια αναφορά αν το πρόβλημα παραμένει.">
 <!ENTITY outdatedSubscriptions.description "Οι ακόλουθες συνδρομές φίλτρων δεν έχουν ενημερωθεί για δύο τουλάχιστο εβδομάδες. Παρακαλώ ενημερώστε αυτές τις συνδρομές πριν υποβάλετε την αναφορά, μιας και το ζήτημα μπορεί ήδη να έχει επιλυθεί.">
 <!ENTITY update.start.label "Ξεκινήστε την ενημέρωση">
 <!ENTITY issues.description "Εντοπίστηκαν κάποια ζητήματα στις ρυθμίσεις σας που πιθανώς να είναι υπεύθυνες για αυτό το ζήτημα, ή που θα δυσκολέψουν την έρευνα της αναφοράς.">
-<!ENTITY issues.whitelist.description "Το Adblock Plus είναι απενεργοποιημένο στην σελίδα που αναφέρετε. Παρακαλώ ενεργοποιήστε το και ανανεώστε την σελίδα πριν υποβάλλετε την αναφορά.">
-<!ENTITY issues.whitelist.remove.label "Ενεργοποίηση του Adblock Plus σε αυτή την σελίδα">
-<!ENTITY issues.disabled.description "Το Adblock Plus είναι απενεργοποιημένο, δεν θα φιλτράρει τίποτα στην παρούσα κατάσταση.">
-<!ENTITY issues.disabled.enable.label "Ενεργοποίηση του Adblock Plus">
-<!ENTITY issues.nofilters.description "Το Adblock Plus δεν φιλτράρει τίποτα στην τρέχουσα σελίδα. Το ζήτημα το οποίο παρατηρείτε πιθανώς δεν σχετίζεται με το Adblock Plus.">
+<!ENTITY issues.whitelist.description "Το Adblock Edge είναι απενεργοποιημένο στην σελίδα που αναφέρετε. Παρακαλώ ενεργοποιήστε το και ανανεώστε την σελίδα πριν υποβάλλετε την αναφορά.">
+<!ENTITY issues.whitelist.remove.label "Ενεργοποίηση του Adblock Edge σε αυτή την σελίδα">
+<!ENTITY issues.disabled.description "Το Adblock Edge είναι απενεργοποιημένο, δεν θα φιλτράρει τίποτα στην παρούσα κατάσταση.">
+<!ENTITY issues.disabled.enable.label "Ενεργοποίηση του Adblock Edge">
+<!ENTITY issues.nofilters.description "Το Adblock Edge δεν φιλτράρει τίποτα στην τρέχουσα σελίδα. Το ζήτημα το οποίο παρατηρείτε πιθανώς δεν σχετίζεται με το Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "Φαίνεται πως δεν είστε συνδρομητής σε καμιά από τις προεγκατεστημένες λίστες φίλτρων που αυτόματα αφαιρούν ανεπιθύμητο περιεχόμενο από τις σελίδες.">
 <!ENTITY issues.nosubscriptions.add.label "Προσθήκη συνδρομής φίλτρων">
 <!ENTITY issues.subscriptionCount.description "Φαίνεται ότι είστε συνδρομητής σε πάρα πολλές λίστες φίλτρων. Αυτή η επιλογή δεν συνιστάται. Δεν μπορούμε να δεχτούμε την αναφορά προβλήματος διότι δεν είναι σαφές ποιος από τους συγγραφείς των φίλτρων πρέπει να προβεί σε κάποια ενέργεια ώστε να διορθοθεί αυτό. Παρακαλώ αφαιρέστε όλες εκτός από τις απαραίτητες λίστες φίλτρων, και δοκιμάστε πάλι για να εξακριβώσετε αν το πρόβλημα συνεχιστεί.">
@@ -40,7 +40,7 @@
 <!ENTITY issues.override.label "Οι ρυθμίσεις είναι σωστές, συνεχίστε με την αναφορά">
 <!ENTITY issues.override.accesskey "σ">
 <!ENTITY issues.change.description "Οι ρυθμίσεις σας έχουν αλλάξει. Παρακαλώ ανανεώστε την σελίδα για να δοκιμάσετε τις αλλαγές και υποβάλλετε μια αναφορά αν το ζήτημα δεν έχει λυθεί από τις τροποποιήσεις.">
-<!ENTITY typeWarning.description "Δηλώσατε πως θέλετε να αναφέρετε ένα γενικό ζήτημα σχετικά με το Adblock Plus παρά ένα πρόβλημα με τα φίλτρα. Παρακαλώ έχετε στο νου σας ότι τέτοιου είδους ζητήματα ταιριάζουν καλύτερα στο [link]forum του Adblock Plus[/link]. Θα πρέπει να χρησιμοποιείτε την αναφορά ζητήματος επιπρόσθετα μιας υπάρχουσας συζήτησης στο forum, καθώς κανένας δεν θα προσέξει την αναφορά σας εκτός αν περιέχει δεσμό προς την συζήτηση. Ο αυτόματα δημιουργημένος δεσμός θα εμφανιστεί μετά την υποβολή της αναφοράς.">
+<!ENTITY typeWarning.description "Δηλώσατε πως θέλετε να αναφέρετε ένα γενικό ζήτημα σχετικά με το Adblock Edge παρά ένα πρόβλημα με τα φίλτρα. Παρακαλώ έχετε στο νου σας ότι τέτοιου είδους ζητήματα ταιριάζουν καλύτερα στο [link]forum του Adblock Edge[/link]. Θα πρέπει να χρησιμοποιείτε την αναφορά ζητήματος επιπρόσθετα μιας υπάρχουσας συζήτησης στο forum, καθώς κανένας δεν θα προσέξει την αναφορά σας εκτός αν περιέχει δεσμό προς την συζήτηση. Ο αυτόματα δημιουργημένος δεσμός θα εμφανιστεί μετά την υποβολή της αναφοράς.">
 <!ENTITY typeWarning.override.label "Κατανοώ και επιθυμώ να υποβάλω την αναφορά όπως και να έχει">
 <!ENTITY typeWarning.override.accesskey "Κ">
 <!ENTITY reloadButton.label "Ανανέωση σελίδας">
@@ -70,10 +70,10 @@
 <!ENTITY data.label "Δεδομένα αναφοράς">
 <!ENTITY data.accesskey "φ">
 <!ENTITY sendPage.heading "Αποστολή αναφοράς">
-<!ENTITY sendPage.waitMessage "Παρακαλώ περιμένετε καθώς το Adblock Plus υποβάλει την αναφορά.">
+<!ENTITY sendPage.waitMessage "Παρακαλώ περιμένετε καθώς το Adblock Edge υποβάλει την αναφορά.">
 <!ENTITY sendPage.confirmation "Η αναφορά σας έχει αποθηκευτεί. Πρόσβαση σε αυτήν έχετε από την ακόλουθη διεύθυνση:">
 <!ENTITY sendPage.knownIssue "Το ζήτημα που αναφέρατε είναι πιθανώς ήδη γνωστό. Περισσότερες πληροφορίες:">
-<!ENTITY sendPage.errorMessage "Η προσπάθεια αποστολής της αναφοράς απέτυχε με κωδικό λάθους &quot;?1?&quot;. Παρακαλώ βεβαιωθείτε ότι έχετε πρόσβαση στο ίντερνετ και προσπαθήστε ξανά. Εάν το πρόβλημα παραμείνει, παρακαλώ ζητήστε βοήθεια στο [link]forum του Adblock Plus[/link].">
+<!ENTITY sendPage.errorMessage "Η προσπάθεια αποστολής της αναφοράς απέτυχε με κωδικό λάθους &quot;?1?&quot;. Παρακαλώ βεβαιωθείτε ότι έχετε πρόσβαση στο ίντερνετ και προσπαθήστε ξανά. Εάν το πρόβλημα παραμείνει, παρακαλώ ζητήστε βοήθεια στο [link]forum του Adblock Edge[/link].">
 <!ENTITY sendPage.retry.label "Αποστολή ξανά">
 <!ENTITY copyLink.label "Αντιγραφή διεύθυνσης αναφοράς">
 <!ENTITY copyLink.accesskey "Α">

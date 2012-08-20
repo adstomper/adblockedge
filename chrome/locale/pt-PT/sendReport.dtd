@@ -1,32 +1,32 @@
 <!ENTITY wizard.title "Reportador de problemas">
 <!ENTITY privacyPolicy.label "Política de privacidade">
 <!ENTITY dataCollector.heading "Bem-vindo ao reportador de problemas">
-<!ENTITY dataCollector.description "Por favor aguarde um momento enquanto o Adblock Plus reúne a informação necessária.">
+<!ENTITY dataCollector.description "Por favor aguarde um momento enquanto o Adblock Edge reúne a informação necessária.">
 <!ENTITY typeSelector.heading "Seleccione o tipo de problema">
 <!ENTITY typeSelector.description "Esta janela guiá-lo-à através dos passos necessários para submeter um relatório de problemas. Por favor seleccione o tipo de problema que está a experienciar nesta página:">
-<!ENTITY typeSelector.falsePositive.label "O Adblock Plus está a bloquear demasiado">
+<!ENTITY typeSelector.falsePositive.label "O Adblock Edge está a bloquear demasiado">
 <!ENTITY typeSelector.falsePositive.accesskey "m">
-<!ENTITY typeSelector.falsePositive.description "Seleccione esta opção se a página não apresenta conteúdo importante, o apresenta incorrectamente ou se não funciona correctamente. Pode determinar se o Adblock Plus é a causa do problema disabilitando-o temporariamente.">
-<!ENTITY typeSelector.falseNegative.label "O Adblock Plus não bloqueia uma publicidade">
+<!ENTITY typeSelector.falsePositive.description "Seleccione esta opção se a página não apresenta conteúdo importante, o apresenta incorrectamente ou se não funciona correctamente. Pode determinar se o Adblock Edge é a causa do problema disabilitando-o temporariamente.">
+<!ENTITY typeSelector.falseNegative.label "O Adblock Edge não bloqueia uma publicidade">
 <!ENTITY typeSelector.falseNegative.accesskey "q">
-<!ENTITY typeSelector.falseNegative.description "Seleccione esta opção se uma publicidade é mostrada apesar do Adblock Plus estar activo.">
+<!ENTITY typeSelector.falseNegative.description "Seleccione esta opção se uma publicidade é mostrada apesar do Adblock Edge estar activo.">
 <!ENTITY typeSelector.other.label "Outro problema">
 <!ENTITY typeSelector.other.accesskey "t">
-<!ENTITY typeSelector.other.description "Seleccione esta opção se suspeita de um problema no Adblock Plus ao invés de um problema nos filtros.">
+<!ENTITY typeSelector.other.description "Seleccione esta opção se suspeita de um problema no Adblock Edge ao invés de um problema nos filtros.">
 <!ENTITY showRecentReports.label "Mostrar relatórios enviados recentemente">
 <!ENTITY recentReports.label "Os seus relatórios enviados recentemente">
 <!ENTITY recentReports.clear.label "Remover todos os relatórios">
 <!ENTITY recentReports.clear.accesskey "R">
-<!ENTITY update.inProgress.description "O Adblock Plus necessita de actualizar as suas subscrições de filtros para se certificar que o problema não foi resolvido. Por favor aguarde...">
+<!ENTITY update.inProgress.description "O Adblock Edge necessita de actualizar as suas subscrições de filtros para se certificar que o problema não foi resolvido. Por favor aguarde...">
 <!ENTITY update.fixed.description "A actualização dos seus filtros parece ter resolvido o problema que estava a reportar. Por favor recarregue a página e volte a tentar, envie um relatório se o problema persistir.">
 <!ENTITY outdatedSubscriptions.description "As subscrições seguintes não foram actualizadas desde há mais de duas semanas. Por favor actualize as subscrições antes de submeter um relatório, o problema pode já ter sido resolvido.">
 <!ENTITY update.start.label "Iniciar actualização agora">
-<!ENTITY issues.description "O Adblock Plus detectou problemas na sua configuração que poderão ser responsáveis pelo problema ou que poderão dificultar a investigação do relatório.">
-<!ENTITY issues.whitelist.description "O Adblock Plus está, de momento, desactivado na página sobre a qual está a reportar. Por favor reactive-o e actualize a página antes de submeter um relatório para ajudar a investigar este problema.">
-<!ENTITY issues.whitelist.remove.label "Reactivar o Adblock Plus nesta página">
-<!ENTITY issues.disabled.description "O Adblock Plus está desactivado, não bloqueará nada.">
-<!ENTITY issues.disabled.enable.label "Activar o Adblock Plus">
-<!ENTITY issues.nofilters.description "O Adblock Plus não está a bloquear nada na página actual. Provavelmente o problema que está a experienciar não está relacionado com o Adblock Plus.">
+<!ENTITY issues.description "O Adblock Edge detectou problemas na sua configuração que poderão ser responsáveis pelo problema ou que poderão dificultar a investigação do relatório.">
+<!ENTITY issues.whitelist.description "O Adblock Edge está, de momento, desactivado na página sobre a qual está a reportar. Por favor reactive-o e actualize a página antes de submeter um relatório para ajudar a investigar este problema.">
+<!ENTITY issues.whitelist.remove.label "Reactivar o Adblock Edge nesta página">
+<!ENTITY issues.disabled.description "O Adblock Edge está desactivado, não bloqueará nada.">
+<!ENTITY issues.disabled.enable.label "Activar o Adblock Edge">
+<!ENTITY issues.nofilters.description "O Adblock Edge não está a bloquear nada na página actual. Provavelmente o problema que está a experienciar não está relacionado com o Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "Não está a subscrever nenhuma das listas de filtros que removem automaticamente conteúdo indesejado dos websites.">
 <!ENTITY issues.nosubscriptions.add.label "Adicionar subscrição de filtros">
 <!ENTITY issues.subscriptionCount.description "Parece ter subscrito demasiados filtros. Não é aconselhável esta configuração por propiciar problemas. Não podemos aceitar o seu relatório porque não é claro que filtros o autor deve ter em consideração. Por favor todos os filtros excepto os necessários e teste se o problema ainda ocorre.">
@@ -40,7 +40,7 @@
 <!ENTITY issues.override.label "A configuração está correcta, continuar com o relatório">
 <!ENTITY issues.override.accesskey "c">
 <!ENTITY issues.change.description "A configuração foi alterada. Por favor actualize a página para testar as alterações e submeter o relatório no caso do problema não ter sido resolvido pelas alterações.">
-<!ENTITY typeWarning.description "Indicou que pretende relatar um problema geral com o Adblock Plus ao invés de um problema com os filtros. Esse tipo de problemas são reportados mais correctamente no [link]fórum Adblock Plus[/link]. Deve utilizar esta funcionalidade para completar uma discussão existente, ninguém tomará conhecimento do seu relatório se não lhes facilitar o link para o relatório. O link ser-lhe-à fornecido depois de submeter o relatório.">
+<!ENTITY typeWarning.description "Indicou que pretende relatar um problema geral com o Adblock Edge ao invés de um problema com os filtros. Esse tipo de problemas são reportados mais correctamente no [link]fórum Adblock Edge[/link]. Deve utilizar esta funcionalidade para completar uma discussão existente, ninguém tomará conhecimento do seu relatório se não lhes facilitar o link para o relatório. O link ser-lhe-à fornecido depois de submeter o relatório.">
 <!ENTITY typeWarning.override.label "Eu compreendo e pretendo enviar o relatório">
 <!ENTITY typeWarning.override.accesskey "e">
 <!ENTITY reloadButton.label "Actualizar página">
@@ -70,10 +70,10 @@
 <!ENTITY data.label "Informação do relatório:">
 <!ENTITY data.accesskey "f">
 <!ENTITY sendPage.heading "Enviar relatório">
-<!ENTITY sendPage.waitMessage "Por favor aguarde enquanto o Adblock Plus submete o seu relatório.">
+<!ENTITY sendPage.waitMessage "Por favor aguarde enquanto o Adblock Edge submete o seu relatório.">
 <!ENTITY sendPage.confirmation "O seu relatório foi guardado. Pode aceder ao relatório através do seguinte endereço:">
 <!ENTITY sendPage.knownIssue "O problema que reportou já é, provavelmente, conhecido. Mais informação:">
-<!ENTITY sendPage.errorMessage "Uma tentativa para envio do realtório falhou com o código de erro &quot;?1?&quot;. Por favor certifique-se que está ligado à internet e volte a tentar. Se o problema persistir por favor recorra ao [link]fórum Adblock Plus[/link].">
+<!ENTITY sendPage.errorMessage "Uma tentativa para envio do realtório falhou com o código de erro &quot;?1?&quot;. Por favor certifique-se que está ligado à internet e volte a tentar. Se o problema persistir por favor recorra ao [link]fórum Adblock Edge[/link].">
 <!ENTITY sendPage.retry.label "Enviar novamente">
 <!ENTITY copyLink.label "Copiar link do relatório">
 <!ENTITY copyLink.accesskey "C">

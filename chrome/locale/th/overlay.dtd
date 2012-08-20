@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "สถานะ:">
 <!ENTITY blocked.tooltip "สิ่งที่บล็อกในหน้านี้:">
 <!ENTITY filters.tooltip "ตัวกรองที่ใช้งานมากที่สุด:">
-<!ENTITY menuitem.label "ปรับแต่ง Adblock Plus">
+<!ENTITY menuitem.label "ปรับแต่ง Adblock Edge">
 <!ENTITY menuitem.accesskey "ป">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Adblock รูปภาพ">
 <!ENTITY context.object.label "Adblock วัตถุ">
 <!ENTITY context.frame.label "Adblock เฟรม">
-<!ENTITY context.media.label "Adblock Plus: บล็อกเสียง/วีดิทัศน์">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: เปิดใช้งานอีกครั้งในหน้านี้">
+<!ENTITY context.media.label "Adblock Edge: บล็อกเสียง/วีดิทัศน์">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: เปิดใช้งานอีกครั้งในหน้านี้">
 <!ENTITY sidebar.title "รายการที่บล็อกได้ในหน้าล่าสุด">
 <!ENTITY sendReport.label "รายงานปัญหาที่พบในหน้านี้">
 <!ENTITY sendReport.accesskey "ร">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "ปิดการใช้งานทุกที่">
 <!ENTITY options.label "ตัวเลือก">
 <!ENTITY options.accesskey "ว">
-<!ENTITY contribute.label "เข้ามีส่วนร่วมกับ Adblock Plus">
+<!ENTITY contribute.label "เข้ามีส่วนร่วมกับ Adblock Edge">
 <!ENTITY showintoolbar.label "แสดงในแถบเครื่องมือ">
 <!ENTITY showintoolbar.accesskey "ค">
 <!ENTITY showinstatusbar.label "แสดงในแถบสถานะ">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "ต">
 <!ENTITY counthits.label "นับจำนวนตัวกรองฮิต">
 <!ENTITY counthits.accesskey "ก">
-<!ENTITY sync.label "เชื่อมข้อมูลการตั้งค่า Adblock Plus">
+<!ENTITY sync.label "เชื่อมข้อมูลการตั้งค่า Adblock Edge">
 <!ENTITY sync.accesskey "ม">
 <!ENTITY objecttab.title "บล็อก">
-<!ENTITY objecttab.tooltip "คลิกที่นี่เพื่อบล็อกวัตถุนี้ด้วย Adblock Plus">
+<!ENTITY objecttab.tooltip "คลิกที่นี่เพื่อบล็อกวัตถุนี้ด้วย Adblock Edge">

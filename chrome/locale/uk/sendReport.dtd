@@ -1,28 +1,28 @@
 <!ENTITY wizard.title "Повідомити про проблему">
 <!ENTITY privacyPolicy.label "Політика приватності">
 <!ENTITY dataCollector.heading "Ласкаво просимо до звітувача про проблеми">
-<!ENTITY dataCollector.description "Заждіть, Adblock Plus збирає потрібні дані">
+<!ENTITY dataCollector.description "Заждіть, Adblock Edge збирає потрібні дані">
 <!ENTITY typeSelector.heading "Виберіть тип проблеми">
-<!ENTITY typeSelector.description "Це вікно проведе вас по кроках надсилання звіту про проблему з Adblock Plus. Спершу, виберіть тип проблеми з якою ви зіткнулись на цій сторінці:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus блокує забагато">
+<!ENTITY typeSelector.description "Це вікно проведе вас по кроках надсилання звіту про проблему з Adblock Edge. Спершу, виберіть тип проблеми з якою ви зіткнулись на цій сторінці:">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge блокує забагато">
 <!ENTITY typeSelector.falsePositive.accesskey "б">
-<!ENTITY typeSelector.falsePositive.description "Виберіть цей варіант якщо на сторінці відсутня частина вмісту, або якщо вона показується чи функціонує неправильно. Ви можете перевірити, чи був Adblock Plus причиною тимчасово його вимкнувши.">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus не блокує рекламу">
+<!ENTITY typeSelector.falsePositive.description "Виберіть цей варіант якщо на сторінці відсутня частина вмісту, або якщо вона показується чи функціонує неправильно. Ви можете перевірити, чи був Adblock Edge причиною тимчасово його вимкнувши.">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge не блокує рекламу">
 <!ENTITY typeSelector.falseNegative.accesskey "р">
-<!ENTITY typeSelector.falseNegative.description "Виберіть цей варіант якщо реклама показуєть попри те що Adblock Plus увімкнено.">
+<!ENTITY typeSelector.falseNegative.description "Виберіть цей варіант якщо реклама показуєть попри те що Adblock Edge увімкнено.">
 <!ENTITY typeSelector.other.label "Інша проблема">
 <!ENTITY typeSelector.other.accesskey "і">
-<!ENTITY typeSelector.other.description "Виберіть цей варіант якщо ви підозрюєте проблему саме з Adblock Plus ніж з його фільтрами.">
+<!ENTITY typeSelector.other.description "Виберіть цей варіант якщо ви підозрюєте проблему саме з Adblock Edge ніж з його фільтрами.">
 <!ENTITY showRecentReports.label "Показати недавно заслані звіти">
 <!ENTITY recentReports.label "Ваші недавно заслані звіти">
 <!ENTITY recentReports.clear.label "Вилучити всі звіти">
 <!ENTITY recentReports.clear.accesskey "В">
-<!ENTITY issues.description "Adblock Plus знайшов проблеми у ваших налаштуваннях котрі, можливо, спричинили цю проблему, або усладнять розгляд звіту.">
-<!ENTITY issues.whitelist.description "Adblock Plus наразі вимкнений на тій сторінці про яку ви звітуєте. Увімкніть його та перегрузіть сторінку перед надсиланням звіту. Це допоможе в його розгляді.">
-<!ENTITY issues.whitelist.remove.label "Переувімкнути Adblock Plus на цій сторінці">
-<!ENTITY issues.disabled.description "Adblock Plus вимкнено, він не блокуватиме нічого у поточному стані.">
-<!ENTITY issues.disabled.enable.label "Увімкнути Adblock Plus">
-<!ENTITY issues.nofilters.description "Adblock Plus не блокує нічого на поточній сторінці. Маайже напевне, проблема, яку ви бачите, не пов’язана з Adblock Plus.">
+<!ENTITY issues.description "Adblock Edge знайшов проблеми у ваших налаштуваннях котрі, можливо, спричинили цю проблему, або усладнять розгляд звіту.">
+<!ENTITY issues.whitelist.description "Adblock Edge наразі вимкнений на тій сторінці про яку ви звітуєте. Увімкніть його та перегрузіть сторінку перед надсиланням звіту. Це допоможе в його розгляді.">
+<!ENTITY issues.whitelist.remove.label "Переувімкнути Adblock Edge на цій сторінці">
+<!ENTITY issues.disabled.description "Adblock Edge вимкнено, він не блокуватиме нічого у поточному стані.">
+<!ENTITY issues.disabled.enable.label "Увімкнути Adblock Edge">
+<!ENTITY issues.nofilters.description "Adblock Edge не блокує нічого на поточній сторінці. Маайже напевне, проблема, яку ви бачите, не пов’язана з Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "Ви не підписані на жоден з готових списків фільтрування котрі автоматично вилучають небажаний вміст з сайтів.">
 <!ENTITY issues.nosubscriptions.add.label "Додати підписку на фільтри">
 <!ENTITY issues.subscriptionCount.description "
@@ -43,7 +43,7 @@
 <!ENTITY issues.override.label "Налаштування правильні, продовжити звіт">
 <!ENTITY issues.override.accesskey "п">
 <!ENTITY issues.change.description "Ваші налаштування було змінено. Перегрузіть сторінку для перевірки внесених змін та зашліть звіт якщо проблему не вирішено.">
-<!ENTITY typeWarning.description "Ви вказали що хочете повідомити про загальну проблему в Adblock Plus, а не в фільтрах. Зауважте, що про такі проблеми найкраще повідомляти до [link]форуму Adblock Plus[/link]. Майстра звітів слід використовувати лише в додаток до існуючої дискусії, оскільки ніхто не побачить вашого звіту, якщо не поставити на нього посилання. Ви отримаєте автоматично створене посилання після надсилання звіту.">
+<!ENTITY typeWarning.description "Ви вказали що хочете повідомити про загальну проблему в Adblock Edge, а не в фільтрах. Зауважте, що про такі проблеми найкраще повідомляти до [link]форуму Adblock Edge[/link]. Майстра звітів слід використовувати лише в додаток до існуючої дискусії, оскільки ніхто не побачить вашого звіту, якщо не поставити на нього посилання. Ви отримаєте автоматично створене посилання після надсилання звіту.">
 <!ENTITY typeWarning.override.label "Я розумію, та все ж хочу послати звіт">
 <!ENTITY typeWarning.override.accesskey "р">
 <!ENTITY reloadButton.label "Перегрузити сторінку">
@@ -73,10 +73,10 @@
 <!ENTITY data.label "Дані звіту:">
 <!ENTITY data.accesskey "д">
 <!ENTITY sendPage.heading "Надіслати звіт">
-<!ENTITY sendPage.waitMessage "Заждіть доки Adblock Plus надсилає ваш звіт.">
+<!ENTITY sendPage.waitMessage "Заждіть доки Adblock Edge надсилає ваш звіт.">
 <!ENTITY sendPage.confirmation "Звіт було записано. Ви можете переглянути його за посиланням:">
 <!ENTITY sendPage.knownIssue "Проблема про яку ви повідомили вже відома. Детальніше:">
-<!ENTITY sendPage.errorMessage "Помилка відправки звіту: «?1?». Упевніться що ви під’єднані до інтернету та спробуйте ще раз. Якщо проблема не зникає, будь ласка пошукайте допомоги на [link]форумі Adblock Plus[/link].">
+<!ENTITY sendPage.errorMessage "Помилка відправки звіту: «?1?». Упевніться що ви під’єднані до інтернету та спробуйте ще раз. Якщо проблема не зникає, будь ласка пошукайте допомоги на [link]форумі Adblock Edge[/link].">
 <!ENTITY sendPage.retry.label "Надіслати ще раз">
 <!ENTITY copyLink.label "Скопіювати посилання звіту">
 <!ENTITY copyLink.accesskey "к">

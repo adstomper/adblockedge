@@ -1,25 +1,25 @@
 <!ENTITY wizard.title "Configurazione guidata per segnalare problemi in una pagina web">
 <!ENTITY privacyPolicy.label "Informativa sulla privacy">
 <!ENTITY dataCollector.heading "Benvenuti alla configurazione guidata per segnalare problemi in una pagina web">
-<!ENTITY dataCollector.description "Attendere mentre vengono raccolti i dati necessari per la segnalazione di Adblock Plus di problemi in una pagina web">
+<!ENTITY dataCollector.description "Attendere mentre vengono raccolti i dati necessari per la segnalazione di Adblock Edge di problemi in una pagina web">
 <!ENTITY typeSelector.heading "Selezione del problema">
 <!ENTITY typeSelector.description "
 		La configurazione guidata permette passo a passo di raccogliere ed inviare i dati necessari per effettuare la
-		segnalazione di Adblock Plus di problemi in una pagina web. Come primo passo, selezionare il tipo di problema
+		segnalazione di Adblock Edge di problemi in una pagina web. Come primo passo, selezionare il tipo di problema
 		che si è verificato
 ">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus sta bloccando troppi elementi">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge sta bloccando troppi elementi">
 <!ENTITY typeSelector.falsePositive.accesskey "P">
 <!ENTITY typeSelector.falsePositive.description "
 		Selezionare questa opzione se nella pagina web manca parte del contenuto importante, se la pagina web viene
-		visualizzata non correttamente oppure se non funziona come dovrebbe. È possibile determinare se sia Adblock Plus 
+		visualizzata non correttamente oppure se non funziona come dovrebbe. È possibile determinare se sia Adblock Edge 
 		la causa del problema disattivando temporaneamente l&apos;estensione
 ">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus non sta bloccando alcun elemento">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge non sta bloccando alcun elemento">
 <!ENTITY typeSelector.falseNegative.accesskey "n">
 <!ENTITY typeSelector.falseNegative.description "
 		Selezionare questa opzione se nella pagina web vengono visualizzati banner e/o pubblicità nonostante
-		Adblock Plus sia attiva
+		Adblock Edge sia attiva
 ">
 <!ENTITY typeSelector.other.label "Si è verificato un problema di altro tipo">
 <!ENTITY typeSelector.other.accesskey "S">
@@ -36,22 +36,22 @@
 <!ENTITY outdatedSubscriptions.description "Le seguenti sottoscrizioni di filtri non sono state aggiornate per almeno due settimane. Aggiornarle prima di segnalare il problema, in quanto esso potrebbe essere già stato risolto">
 <!ENTITY update.start.label "Avvia l'aggiornamento ora">
 <!ENTITY issues.description "
-		Sono stati rilevati dei problemi con le impostazioni di Adblock Plus che potrebbero essere responsabili
+		Sono stati rilevati dei problemi con le impostazioni di Adblock Edge che potrebbero essere responsabili
 		del problema da segnalare oppure potrebbero rendere difficile rinvenirne le cause
 ">
 <!ENTITY issues.whitelist.description "
-		Adblock Plus è attualmente disattivata per la pagina web che si sta segnalando. Riattivare
+		Adblock Edge è attualmente disattivata per la pagina web che si sta segnalando. Riattivare
 		l&apos;estensione e ricaricare la pagina prima di inviare la segnalazione del problema per  
 		rinvenirne le cause
 ">
-<!ENTITY issues.whitelist.remove.label "Riattiva Adblock Plus nella pagina attuale">
+<!ENTITY issues.whitelist.remove.label "Riattiva Adblock Edge nella pagina attuale">
 <!ENTITY issues.disabled.description "
-		Adblock Plus è attualmente disattivata e quindi non bloccherà alcun elemento
+		Adblock Edge è attualmente disattivata e quindi non bloccherà alcun elemento
 ">
-<!ENTITY issues.disabled.enable.label "Attiva Adblock Plus">
+<!ENTITY issues.disabled.enable.label "Attiva Adblock Edge">
 <!ENTITY issues.nofilters.description "
-		Adblock Plus attualmente non sta bloccando alcun elemento. Il problema che si è
-		verificato è più probabile che non sia relativo ad Adblock Plus
+		Adblock Edge attualmente non sta bloccando alcun elemento. Il problema che si è
+		verificato è più probabile che non sia relativo ad Adblock Edge
 ">
 <!ENTITY issues.nosubscriptions.description "
 		Non sembra essere attiva alcuna sottoscrizione di filtri che permette l&apos;eliminazione
@@ -66,7 +66,7 @@
 	tutte le sottoscrizioni superflue lasciando solo quella necessaria e verificare
 	se il problema persiste ancora
 ">
-<!ENTITY issues.openPreferences.label "Apri la finestra di &apos;Gestione dei filtri di Adblock Plus&apos;…">
+<!ENTITY issues.openPreferences.label "Apri la finestra di &apos;Gestione dei filtri di Adblock Edge&apos;…">
 <!ENTITY issues.ownfilters.description "
 		Alcuni dei filtri che vengono applicati nella pagina web attuale sono personalizzati;
 		disattivare tali filtri che potrebbero essere la causa del seguente problema:
@@ -81,16 +81,16 @@
 		I filtri sono stati disattivati, ma potrebbero avere effetto nella seguente pagina web:
 ">
 <!ENTITY issues.disabledfilters.enable.label "Attiva i filtri">
-<!ENTITY issues.override.label "Le impostazioni di Adblock Plus sono corrette, proseguire con la raccolta dei dati per la segnalazione">
+<!ENTITY issues.override.label "Le impostazioni di Adblock Edge sono corrette, proseguire con la raccolta dei dati per la segnalazione">
 <!ENTITY issues.override.accesskey "L">
 <!ENTITY issues.change.description "
-		Le impostazioni di Adblock Plus sono state modificate. Ricaricare la pagina web per testare le 
+		Le impostazioni di Adblock Edge sono state modificate. Ricaricare la pagina web per testare le 
 		modifiche e se il problema dovesse persistere inviare la segnalazione
 ">
 <!ENTITY typeWarning.description "
 		È stato indicato che si vuole segnalare un problema generico relativo all&apos;estensione
 		stessa piuttosto che ai suoi filtri. Poiché tali problemi sono riportati meglio sul
-		[link]forum di Adblock Plus[/link], si suggerisce di utilizzare la segnalazione di
+		[link]forum di Adblock Edge[/link], si suggerisce di utilizzare la segnalazione di
 		problemi solo come integrazione di una discussione già esistente, visto che nessuno noterà
 		una segnalazione priva di relativo link alla pagina web dove si verifica appunto il problema.
 		Il link generato automaticamente verrà fornito dopo l&apos;invio della segnalazione
@@ -134,13 +134,13 @@
 <!ENTITY data.label "Dati della segnalazione:">
 <!ENTITY data.accesskey "D">
 <!ENTITY sendPage.heading "Invio della segnalazione">
-<!ENTITY sendPage.waitMessage "Attendere mentre la segnalazione di Adblock Plus viene inviata">
+<!ENTITY sendPage.waitMessage "Attendere mentre la segnalazione di Adblock Edge viene inviata">
 <!ENTITY sendPage.confirmation "Segnalazione inviata correttamente, per visualizzarne i dati fare clic sul seguente link:">
 <!ENTITY sendPage.knownIssue "Problema segnalato precedentemente noto. Ulteriori informazioni:">
 <!ENTITY sendPage.errorMessage "
 		Il tentativo di inviare la segnalazione non è riuscito a causa del seguente errore: &quot;?1?&quot;. 
 		Accertarsi di essere collegati ad internet e riprovare. Se il problema persiste inviare una richiesta
-		di assistenza nel [link]forum di Adblock Plus[/link]
+		di assistenza nel [link]forum di Adblock Edge[/link]
 ">
 <!ENTITY sendPage.retry.label "Riprova ad inviare">
 <!ENTITY copyLink.label "Copia il link della segnalazione">

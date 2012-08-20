@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Aldoni filtrilregulon al Adblock Plus">
+<!ENTITY dialog.title "Aldoni filtrilregulon al Adblock Edge">
 <!ENTITY accept.label "Aldoni filtrilon">
 <!ENTITY advanced.label "Detala vido">
 <!ENTITY basic.label "Baza vido">
-<!ENTITY disabled.warning "Addblock Plus estas nun malebligita. Vi povas ankoraŭ aldoni filtrilojn, sed ili ne estos aplikataj, escepte, se vi [link]ebligas Adblock Plus[/link].">
+<!ENTITY disabled.warning "Addblock Plus estas nun malebligita. Vi povas ankoraŭ aldoni filtrilojn, sed ili ne estos aplikataj, escepte, se vi [link]ebligas Adblock Edge[/link].">
 <!ENTITY filter.label "Nova filtrilo:">
 <!ENTITY filter.accesskey "v">
 <!ENTITY preferences.label "Montri ekzistantajn filtrilojn…">
@@ -13,8 +13,8 @@
 <!ENTITY type.whitelist.accesskey "c">
 <!ENTITY pattern.label "Serĉi modelon">
 <!ENTITY pattern.explanation "La modelo povas esti parto de la adreso; asteriskoj (*) funkcias kiel ĵokeroj. La filtrilo estos nur aplikata al adresoj, kiuj konformas kun la specifita modelo.">
-<!ENTITY regexp.warning "La modelo, kiun vi enigis, estos interpretata kiel regula esprimo, kiu ne povas esti traktata oer Adblock Plus kaj povas malrapidigi vian retumadon. Se vi ne intencas uzi regulan esprimon, aldonu asteriskon (*) al la fino de la modelo.">
-<!ENTITY shortpattern.warning "La modelo, kiun vi enigis, estas tro mallonga por optimigo kaj povas malrapidigi vian retumadon. Rekomendiĝas, ke vi elektas pli longan signoĉenon por ĉi tiu filtrilo por permesi Adblock Plus trakti la filtrilon pli efike.">
+<!ENTITY regexp.warning "La modelo, kiun vi enigis, estos interpretata kiel regula esprimo, kiu ne povas esti traktata oer Adblock Edge kaj povas malrapidigi vian retumadon. Se vi ne intencas uzi regulan esprimon, aldonu asteriskon (*) al la fino de la modelo.">
+<!ENTITY shortpattern.warning "La modelo, kiun vi enigis, estas tro mallonga por optimigo kaj povas malrapidigi vian retumadon. Rekomendiĝas, ke vi elektas pli longan signoĉenon por ĉi tiu filtrilo por permesi Adblock Edge trakti la filtrilon pli efike.">
 <!ENTITY match.warning "La modelo, kiun vi enigis, ne plu konformas kun la adreso, kiu estu blokata/transprenata en la blankan liston kaj ne havos efikon al ĝi.">
 <!ENTITY custom.pattern.label "Propraj:">
 <!ENTITY custom.pattern.accesskey "P">

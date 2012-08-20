@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "状态:">
 <!ENTITY blocked.tooltip "该页上已过滤的项目:">
 <!ENTITY filters.tooltip "最活跃过滤规则:">
-<!ENTITY menuitem.label "Adblock Plus 首选项">
+<!ENTITY menuitem.label "Adblock Edge 首选项">
 <!ENTITY menuitem.accesskey "b">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "过滤图片(Adblock Plus)">
-<!ENTITY context.object.label "过滤对象(Adblock Plus)">
-<!ENTITY context.frame.label "过滤帧(Adblock Plus)">
-<!ENTITY context.media.label "过滤视频/音频(Adblock Plus)">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: 在此页面上重新启用">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "过滤图片(Adblock Edge)">
+<!ENTITY context.object.label "过滤对象(Adblock Edge)">
+<!ENTITY context.frame.label "过滤帧(Adblock Edge)">
+<!ENTITY context.media.label "过滤视频/音频(Adblock Edge)">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: 在此页面上重新启用">
 <!ENTITY sidebar.title "本页可过滤的项目">
 <!ENTITY sendReport.label "报告该页面上的问题">
 <!ENTITY sendReport.accesskey "R">
@@ -18,12 +18,12 @@
 <!ENTITY opensidebar.accesskey "b">
 <!ENTITY closesidebar.label "关闭可过滤项目">
 <!ENTITY closesidebar.accesskey "b">
-<!ENTITY whitelist.site.label "在 ?1? 禁用 Adblock Plus">
-<!ENTITY whitelist.page.label "仅在本页禁用 Adblock Plus">
+<!ENTITY whitelist.site.label "在 ?1? 禁用 Adblock Edge">
+<!ENTITY whitelist.page.label "仅在本页禁用 Adblock Edge">
 <!ENTITY disable.label "完全禁用">
 <!ENTITY options.label "选项">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "助力 Adblock Plus">
+<!ENTITY contribute.label "助力 Adblock Edge">
 <!ENTITY showintoolbar.label "在工具栏显示">
 <!ENTITY showintoolbar.accesskey "b">
 <!ENTITY showinstatusbar.label "在状态栏显示">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "统计过滤规则生效次数">
 <!ENTITY counthits.accesskey "h">
-<!ENTITY sync.label "同步 Adblock Plus 设置">
+<!ENTITY sync.label "同步 Adblock Edge 设置">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "屏蔽">
-<!ENTITY objecttab.tooltip "点击这里用 Adblock Plus 屏蔽该对象">
+<!ENTITY objecttab.tooltip "点击这里用 Adblock Edge 屏蔽该对象">

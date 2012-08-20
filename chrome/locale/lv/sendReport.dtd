@@ -1,28 +1,28 @@
 <!ENTITY wizard.title "Problēmu ziņotājs">
 <!ENTITY privacyPolicy.label "Privātuma politika">
 <!ENTITY dataCollector.heading "Laipni lūdzu problēmu ziņotājā">
-<!ENTITY dataCollector.description "Uzgaidiet pāris mirkļus, kamēr Adblock Plus apkopo nepieciešamos datus.">
+<!ENTITY dataCollector.description "Uzgaidiet pāris mirkļus, kamēr Adblock Edge apkopo nepieciešamos datus.">
 <!ENTITY typeSelector.heading "Izvēlieties problēmas tipu">
-<!ENTITY typeSelector.description "Šis log Jūs vedīs cauri nepieciešamajiem soļiem, lai nosūtītu Adblock Plus problēmu ziņojumu. Vispirms, lūdzu izvēlieties tipu problēmai, ko Jūs pieredzat šajā lapā:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus bloķē pārāk daudz">
+<!ENTITY typeSelector.description "Šis log Jūs vedīs cauri nepieciešamajiem soļiem, lai nosūtītu Adblock Edge problēmu ziņojumu. Vispirms, lūdzu izvēlieties tipu problēmai, ko Jūs pieredzat šajā lapā:">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge bloķē pārāk daudz">
 <!ENTITY typeSelector.falsePositive.accesskey "d">
-<!ENTITY typeSelector.falsePositive.description "Izvēlaties šo opciju, ja lai trūkst svarīga saturam tā tiek nepareizi attēlota vai nefunkcionē pareizi. Jūs varat noteikt vai to izraisa Adblock Plus, to īslaicīgi atslēdzot.">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus nebloķē reklāmu">
+<!ENTITY typeSelector.falsePositive.description "Izvēlaties šo opciju, ja lai trūkst svarīga saturam tā tiek nepareizi attēlota vai nefunkcionē pareizi. Jūs varat noteikt vai to izraisa Adblock Edge, to īslaicīgi atslēdzot.">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge nebloķē reklāmu">
 <!ENTITY typeSelector.falseNegative.accesskey "r">
-<!ENTITY typeSelector.falseNegative.description "Izvēlaties šo opciju ja reklāma tiek attēlota neskatoties uz to ka Adblock Plus ir ieslēgts.">
+<!ENTITY typeSelector.falseNegative.description "Izvēlaties šo opciju ja reklāma tiek attēlota neskatoties uz to ka Adblock Edge ir ieslēgts.">
 <!ENTITY typeSelector.other.label "Cita problēma">
 <!ENTITY typeSelector.other.accesskey "c">
-<!ENTITY typeSelector.other.description "Izvēlaties šo opciju ja Jūs nojaušat problēmu ar pašu Adblock Plus nevis tā filtriem.">
+<!ENTITY typeSelector.other.description "Izvēlaties šo opciju ja Jūs nojaušat problēmu ar pašu Adblock Edge nevis tā filtriem.">
 <!ENTITY showRecentReports.label "Parādīt nesen nosūtītos ziņojumus">
 <!ENTITY recentReports.label "Jūsu nesen nosūtītie ziņojumi">
 <!ENTITY recentReports.clear.label "Noņemt visus ziņojumus">
 <!ENTITY recentReports.clear.accesskey "N">
-<!ENTITY issues.description "Adblock Plus ir atradis problēmu Jūsu konfigurācijā, kas varētu būt atbildīga par šo problēmu vai arī apgrūtinās ziņojuma izmeklēšanu.">
-<!ENTITY issues.whitelist.description "Adblock Plus pašreiz ir atslēgt lapā par kuru Jūs ziņojat. Lai palīdzētu problēmas izmeklēšanā, pirms ziņojuma sūtīšanas lūdzu ieslēdziet to un atsvaidziniet lapu.">
-<!ENTITY issues.whitelist.remove.label "Iespējot Adblock Plus šajā lapā">
-<!ENTITY issues.disabled.description "Adblock Plus ir atspējots, pašreizējā stāvoklī tas nebloķēs neko.">
-<!ENTITY issues.disabled.enable.label "Iespējot Adblock Plus">
-<!ENTITY issues.nofilters.description "Pašreizējā lapā Adblock Plus neko nebloķē. Problēma, ko Jūs pieredzat visticamāk ir nesaistīta ar Adblock Plus.">
+<!ENTITY issues.description "Adblock Edge ir atradis problēmu Jūsu konfigurācijā, kas varētu būt atbildīga par šo problēmu vai arī apgrūtinās ziņojuma izmeklēšanu.">
+<!ENTITY issues.whitelist.description "Adblock Edge pašreiz ir atslēgt lapā par kuru Jūs ziņojat. Lai palīdzētu problēmas izmeklēšanā, pirms ziņojuma sūtīšanas lūdzu ieslēdziet to un atsvaidziniet lapu.">
+<!ENTITY issues.whitelist.remove.label "Iespējot Adblock Edge šajā lapā">
+<!ENTITY issues.disabled.description "Adblock Edge ir atspējots, pašreizējā stāvoklī tas nebloķēs neko.">
+<!ENTITY issues.disabled.enable.label "Iespējot Adblock Edge">
+<!ENTITY issues.nofilters.description "Pašreizējā lapā Adblock Edge neko nebloķē. Problēma, ko Jūs pieredzat visticamāk ir nesaistīta ar Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "Izskatās, ka Jūs neabonējat nevienu no gatavajiem sarakstiem, kuri automātiski noņem nevajadzīgo saturu no mājas lapām.">
 <!ENTITY issues.nosubscriptions.add.label "Pievienot filtru abonementu">
 <!ENTITY issues.subscriptionCount.description "Izskatās, ka Jūs abonējat pārāk daudz abonementu. Šāda konfigurācija netiek rekomendēta, jo tas palielina problēmu iespējamību. Mēs nespējam pieņemt ziņojumu, jo nav skaidrs kuram filtru abonementam ir jārīkojas. Lūdzu noņemiet visu izņemot tiešām nepieciešamos abonementus un pārbaudiet vai problēma joprojām pastāv.">
@@ -36,7 +36,7 @@
 <!ENTITY issues.override.label "Konfigurācija ir pareiza, varat turpināt ziņojumu">
 <!ENTITY issues.override.accesskey "K">
 <!ENTITY issues.change.description "Jūsu konfigurācija ir izmanīta. Lūdzu pārlādējiet lapu, lai pārbaudītu izmaiņas un nosūtītu ziņojumu, ja izmaiņas nav novērsušas problēmu.">
-<!ENTITY typeWarning.description "Jūs norādījāt, ka vēlaties ziņot par vispārēju Adblock Plus problēmu nevis problēmu ar filtriem. Par šādām problēmām vislabāk ir paziņot [link]Adblock Plus forumā[/link]. Šo problēmu ziņotāju vajadzētu izmantot tikai lai papildinātu esošu diskusiju, jo neviens neredzēs Jūsu ziņojumu, ja Jūs nenodrošinās viņus ar saiti uz to. Automātiski ģenerētā saite tiks nodrošināta pēc ziņojuma nosūtīšanas.">
+<!ENTITY typeWarning.description "Jūs norādījāt, ka vēlaties ziņot par vispārēju Adblock Edge problēmu nevis problēmu ar filtriem. Par šādām problēmām vislabāk ir paziņot [link]Adblock Edge forumā[/link]. Šo problēmu ziņotāju vajadzētu izmantot tikai lai papildinātu esošu diskusiju, jo neviens neredzēs Jūsu ziņojumu, ja Jūs nenodrošinās viņus ar saiti uz to. Automātiski ģenerētā saite tiks nodrošināta pēc ziņojuma nosūtīšanas.">
 <!ENTITY typeWarning.override.label "Es saprotu un vienalga vēlos nosūtīt ziņojumu">
 <!ENTITY typeWarning.override.accesskey "s">
 <!ENTITY reloadButton.label "Pārlādēt lapu">
@@ -66,10 +66,10 @@
 <!ENTITY data.label "Ziņojuma dati:">
 <!ENTITY data.accesskey "Z">
 <!ENTITY sendPage.heading "Sūtīt ziņojumu">
-<!ENTITY sendPage.waitMessage "Lūdzu uzgaidiet kamēr Adblock Plus sūta Jūsu ziņojumu.">
+<!ENTITY sendPage.waitMessage "Lūdzu uzgaidiet kamēr Adblock Edge sūta Jūsu ziņojumu.">
 <!ENTITY sendPage.confirmation "Jūsu ziņojums ir saglabāts. Jūs tam varat piekļūt sekojošajā adresē:">
 <!ENTITY sendPage.knownIssue "Jūsu nosūtītais problēma iespējams jau ir zināma. Vairāk informācija:">
-<!ENTITY sendPage.errorMessage "Mēģinājums sūtīt ziņojumu neizdevās. Kļūdas kods &quot;?1?&quot;. Lūdzu pārliecinieties, ka Jums ir savienojums ar internetu un mēģiniet vēlreiz. Ja problēma atkārtojas, lūdzu prasiet palīdzību [link]Adblock Plus forumā[/link].">
+<!ENTITY sendPage.errorMessage "Mēģinājums sūtīt ziņojumu neizdevās. Kļūdas kods &quot;?1?&quot;. Lūdzu pārliecinieties, ka Jums ir savienojums ar internetu un mēģiniet vēlreiz. Ja problēma atkārtojas, lūdzu prasiet palīdzību [link]Adblock Edge forumā[/link].">
 <!ENTITY sendPage.retry.label "Sūtīt vēlreiz">
 <!ENTITY copyLink.label "Kopēt ziņojuma saiti">
 <!ENTITY copyLink.accesskey "K">

@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Estado:">
 <!ENTITY blocked.tooltip "Elementos bloqueados en esta pagina:">
 <!ENTITY filters.tooltip "Filtros mas activos:">
-<!ENTITY menuitem.label "Preferencias de Adblock Plus">
+<!ENTITY menuitem.label "Preferencias de Adblock Edge">
 <!ENTITY menuitem.accesskey "e">
-<!ENTITY toolbarbutton.label "Adblock plus">
-<!ENTITY context.image.label "Adblock Plus: Bloquear imagen">
-<!ENTITY context.object.label "Adblock Plus: Bloquear objeto">
-<!ENTITY context.frame.label "Adblock Plus: Bloquear marco">
-<!ENTITY context.media.label "Adblock Plus: Bloquear sonido/video">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Re-habilitar en esta pagina">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Bloquear imagen">
+<!ENTITY context.object.label "Adblock Edge: Bloquear objeto">
+<!ENTITY context.frame.label "Adblock Edge: Bloquear marco">
+<!ENTITY context.media.label "Adblock Edge: Bloquear sonido/video">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Re-habilitar en esta pagina">
 <!ENTITY sidebar.title "Elementos bloqueables en la pagina actual">
 <!ENTITY sendReport.label "Reportar problema en esta pagina">
 <!ENTITY sendReport.accesskey "a">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Desactvado en cualquier lugar">
 <!ENTITY options.label "Opciones">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Desactivar con Adblock Plus">
+<!ENTITY contribute.label "Desactivar con Adblock Edge">
 <!ENTITY showintoolbar.label "Mostrar barra de complementos">
 <!ENTITY showintoolbar.accesskey "c">
 <!ENTITY showinstatusbar.label "Mostrar en la barra de estado">
@@ -39,4 +39,4 @@
 <!ENTITY sync.label "Sincronizar configuración de Adblck Plus">
 <!ENTITY sync.accesskey "S">
 <!ENTITY objecttab.title "Bloquear">
-<!ENTITY objecttab.tooltip "Clické aquí para bloquear este objecto con Adblock Plus">
+<!ENTITY objecttab.tooltip "Clické aquí para bloquear este objecto con Adblock Edge">

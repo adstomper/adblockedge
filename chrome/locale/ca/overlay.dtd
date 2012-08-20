@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Estat:">
 <!ENTITY blocked.tooltip "Elements bloquejats en aquesta pàgina:">
 <!ENTITY filters.tooltip "Filtres més actius:">
-<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.label "Adblock Edge">
 <!ENTITY menuitem.accesskey "B">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Adblock imatge">
 <!ENTITY context.object.label "Adblock Objecte">
 <!ENTITY context.frame.label "Adblock Marc">
-<!ENTITY context.media.label "Adblock Plus: Bloqueja àudio/vídeo">
-<!ENTITY context.removeWhitelist.label "Adblock Plus:Rehabilita aquesta pàgina">
+<!ENTITY context.media.label "Adblock Edge: Bloqueja àudio/vídeo">
+<!ENTITY context.removeWhitelist.label "Adblock Edge:Rehabilita aquesta pàgina">
 <!ENTITY sidebar.title "Elements bloquejables a la pàgina actual">
 <!ENTITY sendReport.label "Informa sobre la pàgina">
 <!ENTITY sendReport.accesskey "I">
@@ -18,12 +18,12 @@
 <!ENTITY opensidebar.accesskey "B">
 <!ENTITY closesidebar.label "Tanca elements bloquejables">
 <!ENTITY closesidebar.accesskey "B">
-<!ENTITY whitelist.site.label "Desactiva Adblock Plus a ?1?">
+<!ENTITY whitelist.site.label "Desactiva Adblock Edge a ?1?">
 <!ENTITY whitelist.page.label "Desactiva només en aquesta pàgina">
 <!ENTITY disable.label "Deshabilita-ho a tots llocs">
 <!ENTITY options.label "Opcions">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Contribueix a Adblock Plus">
+<!ENTITY contribute.label "Contribueix a Adblock Edge">
 <!ENTITY showintoolbar.label "Mostra a la barra d&apos;eines">
 <!ENTITY showintoolbar.accesskey "B">
 <!ENTITY showinstatusbar.label "Mostra a la barra d&apos;estat">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Compta els cops que funciona el filtre">
 <!ENTITY counthits.accesskey "p">
-<!ENTITY sync.label "Sincronitza la configuració d'AdBlock Plus">
+<!ENTITY sync.label "Sincronitza la configuració d'Adblock Edge">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Bloqueja">
-<!ENTITY objecttab.tooltip "Clica aquí per bloquejar aquest objecte amb Adblock Plus">
+<!ENTITY objecttab.tooltip "Clica aquí per bloquejar aquest objecte amb Adblock Edge">

@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Thêm quy tắc lọc Adblock Plus">
+<!ENTITY dialog.title "Thêm quy tắc lọc Adblock Edge">
 <!ENTITY accept.label "Thêm bộ lọc">
 <!ENTITY advanced.label "Hiển thị nâng cao">
 <!ENTITY basic.label "Hiển thị cơ bản">
-<!ENTITY disabled.warning "Adblock Plus hiện đang bị vô hiệu hóa. Bạn vẫn có thể thêm các bộ lọc nhưng chúng sẽ không được áp dụng trừ khi bạn [link]kích hoạt Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge hiện đang bị vô hiệu hóa. Bạn vẫn có thể thêm các bộ lọc nhưng chúng sẽ không được áp dụng trừ khi bạn [link]kích hoạt Adblock Edge[/link].">
 <!ENTITY filter.label "Bộ lọc mới:">
 <!ENTITY filter.accesskey "l">
 <!ENTITY preferences.label "Hiện các bộ lọc đang có...">

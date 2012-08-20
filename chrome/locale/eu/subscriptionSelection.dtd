@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Gehitu Adblock Plus iragazki harpidetza">
+<!ENTITY dialog.title "Gehitu Adblock Edge iragazki harpidetza">
 <!ENTITY subscriptionSelector.label "Mesedez aukeratu iragazki harpidetza bat zerrendatik:">
 <!ENTITY viewList.label "Ikusi iragazkiak">
 <!ENTITY visitHomepage.label "Bisitatu hasiera orria">
 <!ENTITY addSubscription.label "Gehitu harpidetza">
-<!ENTITY list.download.failed "Adblock Plusek ezin izan du harpidetza zerrenda eskuratu">
+<!ENTITY list.download.failed "Adblock Edgeek ezin izan du harpidetza zerrenda eskuratu">
 <!ENTITY list.download.retry "Berriz saiatu">
 <!ENTITY list.download.website "Ikusi webgunea">
 <!ENTITY fromWeb.description "Mesedez berretsi iragazki harpidetza hau gehitu nahi duzula. Harpidetza izenburua eta kokagunea aldatu ditzakezu gehitu aurretik.">

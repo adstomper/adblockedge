@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Tatarajah Penapis Adblock Plus">
+<!ENTITY dialog.title "Tatarajah Penapis Adblock Edge">
 <!ENTITY subscriptions.tab.label "Langganan penapis">
 <!ENTITY filters.tab.label "Penapis khas">
 <!ENTITY addSubscription.label "Tambah langganan penapis">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Batal">
 <!ENTITY addSubscriptionOther.label "Tambah langganan lain">
 <!ENTITY noSubscriptions.text "
- Anda belum menambah langganan penapis. Adblock Plus tidak akan menapis 
+ Anda belum menambah langganan penapis. Adblock Edge tidak akan menapis 
  apa-apa tanpa penapis, sila guna &quot;Tambah langganan penapis&quot; untuk menambah.
 ">
 <!ENTITY subscription.homepage.label "Laman rumah">
@@ -22,7 +22,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Gagal, bukan senarai penapis yang sah">
 <!ENTITY subscription.lastDownload.checksumMismatch "Gagal, checksum tidak sepadan">
 <!ENTITY subscription.lastDownload.success "Berjaya">
-<!ENTITY subscription.minVersion.warning "Langganan penapis ini memerlukan versi Adblock Plus terbaru, anda perlu mendapatkan versi Adblock Plus terbaru.">
+<!ENTITY subscription.minVersion.warning "Langganan penapis ini memerlukan versi Adblock Edge terbaru, anda perlu mendapatkan versi Adblock Edge terbaru.">
 <!ENTITY subscription.disabledFilters.warning "Sesetengah penapis dalam langganan ini telah dinyahaktifkan.">
 <!ENTITY subscription.disabledFilters.enable "Aktifkan penapis yang telah dinyaktifkan.">
 <!ENTITY subscription.actions.label "Aksi-aksi">
@@ -83,10 +83,10 @@
 <!ENTITY backup.complete.title "Semua penapis dan langganan">
 <!ENTITY backup.custom.title "Penapis khas sahaja">
 <!ENTITY backup.error "Terdapat ralat semasa menulis penapis pada fail. Sila pastikan fail tidak write protected atau digunakan oleh aplikasi lain.">
-<!ENTITY restore.error "Data fail tidak dapat diprosese, mungkin ini bukan fail backup Adblock Plus?">
+<!ENTITY restore.error "Data fail tidak dapat diprosese, mungkin ini bukan fail backup Adblock Edge?">
 <!ENTITY restore.complete.warning "Semua pilihan penapis anda akan digantikan dengan kandungan fail yang dipilih. Adakah anda pasti?">
 <!ENTITY restore.custom.warning "Semua penapis khas anda akan digantikan dengan kandungan fail yang dipilih. Adakah anda pasti?">
-<!ENTITY restore.minVersion.warning "Amaran: fail ini dibuat menggunakan versi Adblock Plus terbaru. Anda harus mendapatkan versi Adblock Plus terbaru sebelum anda restore dari fail ini.">
+<!ENTITY restore.minVersion.warning "Amaran: fail ini dibuat menggunakan versi Adblock Edge terbaru. Anda harus mendapatkan versi Adblock Edge terbaru sebelum anda restore dari fail ini.">
 <!ENTITY find.label "Cari">
 <!ENTITY find.accesskey "C">
 <!ENTITY close.label "Tutup">

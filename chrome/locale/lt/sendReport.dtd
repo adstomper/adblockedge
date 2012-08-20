@@ -1,41 +1,41 @@
 <!ENTITY wizard.title "Klaidos pranešimas">
 <!ENTITY privacyPolicy.label "Privatumo politika">
 <!ENTITY dataCollector.heading "Sveiki atvykę į klaidų pranešėją">
-<!ENTITY dataCollector.description "Palaukite kelias akimirkas, kol Adblock Plus surinks reikalingus duomenis.">
+<!ENTITY dataCollector.description "Palaukite kelias akimirkas, kol Adblock Edge surinks reikalingus duomenis.">
 <!ENTITY typeSelector.heading "Pasirinkite tipą">
-<!ENTITY typeSelector.description "Šis langas padės įvykdyti kelis žingsnius kurie reikalingi pranešti apie Adblock Plus 
+<!ENTITY typeSelector.description "Šis langas padės įvykdyti kelis žingsnius kurie reikalingi pranešti apie Adblock Edge 
 problemą. Pirmiausia, šiame puslapyje, pasirinkite problemos su kuria susidūrėte
 tipą:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus blokuoja per daug">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge blokuoja per daug">
 <!ENTITY typeSelector.falsePositive.accesskey "d">
 <!ENTITY typeSelector.falsePositive.description "Pasirinkite šią pasirinkty jei puslapyje trūksta svarbaus turinio, jei atvaizduojama netinkamai ar
-puslapis nefunkcionuoja taip kaip turėtų. Norėdami įsitikinti jog problemą sukėlė Adblock Plus galite
-trumpam išjungti Adblock Plus.">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus neblokuoja reklamų">
+puslapis nefunkcionuoja taip kaip turėtų. Norėdami įsitikinti jog problemą sukėlė Adblock Edge galite
+trumpam išjungti Adblock Edge.">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge neblokuoja reklamų">
 <!ENTITY typeSelector.falseNegative.accesskey "r">
 <!ENTITY typeSelector.falseNegative.description "Pasirinkite šią pasirinkty jei reklama rodoma, net ir
-įjungus Adblock Plus.">
+įjungus Adblock Edge.">
 <!ENTITY typeSelector.other.label "Kita bėda">
 <!ENTITY typeSelector.other.accesskey "t">
-<!ENTITY typeSelector.other.description "Pasirinkite šią pasirinkty jei manote jog tai pačio Adblock Plus bėda, o ne filtrų.">
+<!ENTITY typeSelector.other.description "Pasirinkite šią pasirinkty jei manote jog tai pačio Adblock Edge bėda, o ne filtrų.">
 <!ENTITY showRecentReports.label "Rodyti nesenai praneštas problemas">
 <!ENTITY recentReports.label "Jūsų nesenai praneštos problemos">
 <!ENTITY recentReports.clear.label "Pašalinti visus pranešimus">
 <!ENTITY recentReports.clear.accesskey "P">
-<!ENTITY update.inProgress.description "Adblock Plus turi atnaujinti jūsų filtrų prenumeratas ir įsitikinti jog problema dar neišspręsta. Palaukite...">
+<!ENTITY update.inProgress.description "Adblock Edge turi atnaujinti jūsų filtrų prenumeratas ir įsitikinti jog problema dar neišspręsta. Palaukite...">
 <!ENTITY update.fixed.description "Atnaujinimai greičiausiai išsprendė bėdą apie kurią jūs norėjote pranešti. Įkraukite puslapį iš naujo, jei problema vis dar yra paspauskite „Pranešti“.">
 <!ENTITY outdatedSubscriptions.description "Šios filtrų prenumeratos nebuvo atnaujintos bent dvi savaites. Prieš siųsdami pranešimą atnaujinkite šias prenumeratas, gali būti jog problema jau išspręsta.">
 <!ENTITY update.start.label "Pradėti atnaujinimą">
-<!ENTITY issues.description "Adblock Plus nustatė klaidų jūsų konfigūracijoje kurios gali būti atsakingos 
+<!ENTITY issues.description "Adblock Edge nustatė klaidų jūsų konfigūracijoje kurios gali būti atsakingos 
 dėl šios problemos arba gali apsunkinti problemų sprendimą.">
-<!ENTITY issues.whitelist.description "Šiuo metu, šiame puslapyje Adblock Plus yra išjungtas. Prašau įjungti jį
+<!ENTITY issues.whitelist.description "Šiuo metu, šiame puslapyje Adblock Edge yra išjungtas. Prašau įjungti jį
 ir perkrauti puslapį prieš pranešant apie problemą kuriai
 spręsti norite pagalbos.">
-<!ENTITY issues.whitelist.remove.label "Šiame puslapyje pakartotinai įjungti Adblock Plus">
-<!ENTITY issues.disabled.description "Adblock Plus yra išjungtas, tokioje būsenoje jis nieko neužblokuos.">
-<!ENTITY issues.disabled.enable.label "Įjungti Adblock Plus">
-<!ENTITY issues.nofilters.description "Adblock Plus dabartiniame puslapyje nieko neblokuoja. Problema kurią matote 
-tikriausiai nėra susijusi su Adblock Plus.">
+<!ENTITY issues.whitelist.remove.label "Šiame puslapyje pakartotinai įjungti Adblock Edge">
+<!ENTITY issues.disabled.description "Adblock Edge yra išjungtas, tokioje būsenoje jis nieko neužblokuos.">
+<!ENTITY issues.disabled.enable.label "Įjungti Adblock Edge">
+<!ENTITY issues.nofilters.description "Adblock Edge dabartiniame puslapyje nieko neblokuoja. Problema kurią matote 
+tikriausiai nėra susijusi su Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "Atrodo jūs neprenumeruojate jokių sukurtų filtrų sąrašų kurie automatiškai 
 šalintų nepageidaujamą turinį iš puslapių.">
 <!ENTITY issues.nosubscriptions.add.label "Pridėti filtro prenumeratą">
@@ -58,9 +58,9 @@ turėti įtakos šiam puslapiui:">
 <!ENTITY issues.override.accesskey "g">
 <!ENTITY issues.change.description "Jūsų konfigūracija pakeista. Perkraukite puslapį ir išbandykite keitimus
 ir jei problema neišsisprendė praneškite apie ją.">
-<!ENTITY typeWarning.description "Jūs pareiškėte jog problemą sukėlė Adblock Plus, o ne filtrai. 
+<!ENTITY typeWarning.description "Jūs pareiškėte jog problemą sukėlė Adblock Edge, o ne filtrai. 
 Turėkite omeny jog tokias problemas geriausia pranešti 
-[link]Adblock Plus forume[/link]. Šį problemų pranešėją turėtumėte naudoti
+[link]Adblock Edge forume[/link]. Šį problemų pranešėją turėtumėte naudoti
 tik papildyti esamas diskusijas, niekas nepastebės jūsų pranešimo
 nebent duosite nuorodą į jį. Automatiškai sukurta nuoroda
 bus parodyta kai išsiųsite pranešimą.">
@@ -99,12 +99,12 @@ Taipogi galite peržiūrėti pranešimą prieš jį siunčiant.">
 <!ENTITY data.label "Pranešimo duomenys:">
 <!ENTITY data.accesskey "i">
 <!ENTITY sendPage.heading "Siųsti pranešimą">
-<!ENTITY sendPage.waitMessage "Palaukite kol Adblock Plus siunčia jūsų pranešimą.">
+<!ENTITY sendPage.waitMessage "Palaukite kol Adblock Edge siunčia jūsų pranešimą.">
 <!ENTITY sendPage.confirmation "Jūsų pranešimas išsaugotas. Jį pasiekti galite šiuo adresu:">
 <!ENTITY sendPage.knownIssue "Pranešta klaida turbūt žinoma. Daugiau informacijos:">
 <!ENTITY sendPage.errorMessage "  Bandymas išsiųsti pranešimą nepavyko, buvo gauta klaida &quot;?1?&quot;. Įsitikinkite jog 
 esate prisijungę prie interneto ir bandykite dar kartą. Jei problema vis dar yra paprašykite
-pagalbos forume [link]Adblock Plus forumas[/link].">
+pagalbos forume [link]Adblock Edge forumas[/link].">
 <!ENTITY sendPage.retry.label "Siųsti dar kartą">
 <!ENTITY copyLink.label "Kopijuoti pranešimo nuorodą">
 <!ENTITY copyLink.accesskey "K">

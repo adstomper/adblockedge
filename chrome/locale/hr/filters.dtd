@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus postavke filtera">
+<!ENTITY dialog.title "Adblock Edge postavke filtera">
 <!ENTITY subscriptions.tab.label "Pretplate filtera">
 <!ENTITY filters.tab.label "Prilagođeni filteri">
 <!ENTITY addSubscription.label "Dodaj pretplatu filtera">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Dodaj">
 <!ENTITY addSubscriptionCancel.label "Poništi">
 <!ENTITY addSubscriptionOther.label "Dodaj drugu pretplatu">
-<!ENTITY noSubscriptions.text "Još niste dodali nijednu pretplatu filtera. Adblock Plus neće blokirati
+<!ENTITY noSubscriptions.text "Još niste dodali nijednu pretplatu filtera. Adblock Edge neće blokirati
 	ništa bez filtera, molim koristite &quot;Dodaj pretplatu filtera&quot; za
 	dodavanje filtera.">
 <!ENTITY subscription.homepage.label "Početna stranica">
@@ -21,7 +21,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Neuspješno, neispravan popis filtera">
 <!ENTITY subscription.lastDownload.checksumMismatch "Neuspješno, neusklađenost checksum-a.">
 <!ENTITY subscription.lastDownload.success "Uspješno">
-<!ENTITY subscription.minVersion.warning "Ova pretplata filtera zahtijeva noviju inačicu Adblock Plus-a, ažurirajte na posljednju Adblock Plus inačicu.">
+<!ENTITY subscription.minVersion.warning "Ova pretplata filtera zahtijeva noviju inačicu Adblock Edge-a, ažurirajte na posljednju Adblock Edge inačicu.">
 <!ENTITY subscription.disabledFilters.warning "Neki filteri u ovoj pretplati su onemogućeni.">
 <!ENTITY subscription.disabledFilters.enable "Omogući onemogućene filtere">
 <!ENTITY subscription.actions.label "Radnje">
@@ -80,10 +80,10 @@
 <!ENTITY backup.complete.title "Svi filteri i pretplate">
 <!ENTITY backup.custom.title "Samo prilagođeni filteri">
 <!ENTITY backup.error "Dogodila se greška pri zapisivanja filtera u datoteku. Pobrinite se da datoteka nije  postavljena na -samo čitanje- ili ju koristi druga aplikacija.">
-<!ENTITY restore.error "Podaci datoteka ne mogu biti obrađeni, možda to nije Adblock Plus datoteka sigurnosne kopije?">
+<!ENTITY restore.error "Podaci datoteka ne mogu biti obrađeni, možda to nije Adblock Edge datoteka sigurnosne kopije?">
 <!ENTITY restore.complete.warning "Sve vaše postavke filtera biti će zamijenjene sadržajem odabrane datoteke. Želite li nastaviti?">
 <!ENTITY restore.custom.warning "Svi vaši prilagođeni filteri biti će zamijenjene sadržajem odabrane datoteke. Želite li nastaviti?">
-<!ENTITY restore.minVersion.warning "Upozorenje: datoteka je stvorena novijom inačicom Adblock Plus-a. Trebali biste ažurirati na posljednju inačicu Adblock Plus-a prije vraćanja ove datoteke.">
+<!ENTITY restore.minVersion.warning "Upozorenje: datoteka je stvorena novijom inačicom Adblock Edge-a. Trebali biste ažurirati na posljednju inačicu Adblock Edge-a prije vraćanja ove datoteke.">
 <!ENTITY find.label "Traži">
 <!ENTITY find.accesskey "t">
 <!ENTITY close.label "Zatvori">

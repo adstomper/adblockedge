@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Installazione/aggiornamento di Adblock Plus effettuato con successo">
+<!ENTITY dialog.title "Installazione/aggiornamento di Adblock Edge effettuato con successo">
 <!ENTITY confirmation "
-		Grazie di aver installato/aggiornato Adblock Plus. Banner e pubblicità indesiderati verranno bloccati 
+		Grazie di aver installato/aggiornato Adblock Edge. Banner e pubblicità indesiderati verranno bloccati 
 	a partire da adesso">
 <!ENTITY advancedSection "Opzioni avanzate">
 <!ENTITY listSelection1 "
@@ -15,5 +15,5 @@
 <!ENTITY readMore.label "Visualizza ulteriori informazioni relative a questa opzione">
 <!ENTITY listSelection2 "
 		È possibile attivare/disattivare la visualizzazione di pubblicità non inopportuna in qualsiasi momento nella finestra di
-	[link]Gestione dei filtri di Adblock Plus[/link] selezionando/deselezionando &apos;Permetti alcune pubblicità non inopportune&apos;
+	[link]Gestione dei filtri di Adblock Edge[/link] selezionando/deselezionando &apos;Permetti alcune pubblicità non inopportune&apos;
 	">

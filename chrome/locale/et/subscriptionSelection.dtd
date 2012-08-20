@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Lisa Adblock Plus filtrite tellimus">
+<!ENTITY dialog.title "Lisa Adblock Edge filtrite tellimus">
 <!ENTITY subscriptionSelector.label "Vali nimekirjast sobiv filtrite tellimus:">
 <!ENTITY viewList.label "Vaata filtreid">
 <!ENTITY visitHomepage.label "Külasta kodulehte">
 <!ENTITY addSubscription.label "Lisa tellimus">
-<!ENTITY list.download.failed "Adblock Plusil ei õnnestunud alla laadida tellimuste nimekirja.">
+<!ENTITY list.download.failed "Adblock Edgeil ei õnnestunud alla laadida tellimuste nimekirja.">
 <!ENTITY list.download.retry "Proovi uuesti">
 <!ENTITY list.download.website "Külasta kodulehte">
 <!ENTITY fromWeb.description "Palun kinnita, et soovid lisada selle filtrite tellimuse. Enne lisamist saad muuta tellimuse pealkirja või asukohta.">

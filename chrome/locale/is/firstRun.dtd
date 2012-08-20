@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Adblock Plus uppsetningu lokið">
+<!ENTITY dialog.title "Adblock Edge uppsetningu lokið">
 <!ENTITY confirmation "
-	Takk fyrir að setja inn Adblock Plus. Lokað verður á auglýsingar í framtíðinni.
+	Takk fyrir að setja inn Adblock Edge. Lokað verður á auglýsingar í framtíðinni.
 	Njóttu vel!">
 <!ENTITY advancedSection "Ítarlegar stillingar">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "Enginn síulisti">
 <!ENTITY visitHomepage.label "Heimsækja heimasíðu lista">
 <!ENTITY acceptableAds2 "
-	Adblock Plus hefur verið stilltur til að leyfa auglýsingar sem eru ekki uppáþrengjandi.
+	Adblock Edge hefur verið stilltur til að leyfa auglýsingar sem eru ekki uppáþrengjandi.
 ">
 <!ENTITY viewList.label "Skoða lista">
 <!ENTITY readMore.label "Lesa meira um þetta">

@@ -1,7 +1,7 @@
-<!ENTITY dialog.title               "Установка Adblock Plus завершена">
+<!ENTITY dialog.title               "Установка Adblock Edge завершена">
 
 <!ENTITY confirmation               "
-  Спасибо, что установили Adblock Plus. Реклама теперь будет блокироваться.
+  Спасибо, что установили Adblock Edge. Реклама теперь будет блокироваться.
   Успехов!">
 
 <!ENTITY advancedSection            "Расширенные настройки">
@@ -14,7 +14,7 @@
 <!ENTITY visitHomepage.label        "Посетить домашнюю страницу">
 
 <!ENTITY acceptableAds2             "
-  Adblock Plus также был настроен, чтобы разрешать некоторую ненавязчивую рекламу.
+  Adblock Edge также был настроен, чтобы разрешать некоторую ненавязчивую рекламу.
 ">
 
 <!ENTITY viewList.label             "Открыть список">

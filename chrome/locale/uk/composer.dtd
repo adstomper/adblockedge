@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Додати правило фільтрування Adblock Plus">
+<!ENTITY dialog.title "Додати правило фільтрування Adblock Edge">
 <!ENTITY accept.label "Додати фільтр">
 <!ENTITY advanced.label "Складний вигляд">
 <!ENTITY basic.label "Простий вигляд">
-<!ENTITY disabled.warning "Adblock Plus наразі вимкнений. Ви все одно можете додавати фільтри, але вони не застосуються. Хіба що ви можете [link]увімкнути Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge наразі вимкнений. Ви все одно можете додавати фільтри, але вони не застосуються. Хіба що ви можете [link]увімкнути Adblock Edge[/link].">
 <!ENTITY filter.label "Новий фільтр:">
 <!ENTITY filter.accesskey "ф">
 <!ENTITY preferences.label "Показати існуючі фільтри…">

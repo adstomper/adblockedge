@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Add Adblock Plus – ustawienia filtrów">
+<!ENTITY dialog.title "Add Adblock Edge – ustawienia filtrów">
 <!ENTITY subscriptions.tab.label "Zestawy filtrów">
 <!ENTITY filters.tab.label "Własne filtry">
 <!ENTITY addSubscription.label "Dodaj zestaw filtrów">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Dodaj">
 <!ENTITY addSubscriptionCancel.label "Anuluj">
 <!ENTITY addSubscriptionOther.label "Wybierz inny zestaw">
-<!ENTITY noSubscriptions.text "Jeszcze nie dodano żadnego zestawu filtrów. Adblock Plus nie może nic blokować bez filtrów. Naciśnij przycisk „Dodaj zestaw filtrów…”, by dodać jakiś filtr.">
+<!ENTITY noSubscriptions.text "Jeszcze nie dodano żadnego zestawu filtrów. Adblock Edge nie może nic blokować bez filtrów. Naciśnij przycisk „Dodaj zestaw filtrów…”, by dodać jakiś filtr.">
 <!ENTITY subscription.homepage.label "Strona domowa">
 <!ENTITY subscription.external.label "Zaktualizowany przez inne rozszerzenie">
 <!ENTITY subscription.source.label "Zawartość zestawu">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Nie powiodło się – nieprawidłowy zestaw filtrów">
 <!ENTITY subscription.lastDownload.checksumMismatch "Nie powiodło się – niepoprawna suma kontrolna">
 <!ENTITY subscription.lastDownload.success "Zakończono pomyślnie">
-<!ENTITY subscription.minVersion.warning "Ten zestaw filtrów działa z najnowszą wersją Adblock Plusa. Zaktualizuj Adblock Plusa.">
+<!ENTITY subscription.minVersion.warning "Ten zestaw filtrów działa z najnowszą wersją Adblock Edgea. Zaktualizuj Adblock Edgea.">
 <!ENTITY subscription.disabledFilters.warning "Niektóre filtry w tym zestawie są wyłączone.">
 <!ENTITY subscription.disabledFilters.enable "Włącz wyłączone filtry">
 <!ENTITY subscription.actions.label "Czynności">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Wszystkie filtry i zestawy">
 <!ENTITY backup.custom.title "Tylko własne filtry">
 <!ENTITY backup.error "W trakcie zapisu filtrów wystąpił błąd. Sprawdź, czy czasami plik nie ma zabezpieczenia przed zapisem lub nie jest używany przez inną aplikację.">
-<!ENTITY restore.error "Nie można przetworzyć danych filtru. Może to nie jest plik kopii zapasowej Adblock Plusa?">
+<!ENTITY restore.error "Nie można przetworzyć danych filtru. Może to nie jest plik kopii zapasowej Adblock Edgea?">
 <!ENTITY restore.complete.warning "Wszystkie ustawienia filtrów zostaną zastąpione zawartością wybranego pliku. Czy chcesz kontynuować?">
 <!ENTITY restore.custom.warning "Wszystkie własne filtry zostaną zastąpione zawartością wybranego pliku. Czy chcesz kontynuować?">
-<!ENTITY restore.minVersion.warning "Ostrzeżenie! Plik został utworzony za pomocą najnowszej wersji Adblock Plusa. Przed odtworzeniem zawartości tego pliku, należy zainstalować najnowszą wersję Adblock Plusa.">
+<!ENTITY restore.minVersion.warning "Ostrzeżenie! Plik został utworzony za pomocą najnowszej wersji Adblock Edgea. Przed odtworzeniem zawartości tego pliku, należy zainstalować najnowszą wersję Adblock Edgea.">
 <!ENTITY find.label "Znajdź">
 <!ENTITY find.accesskey "N">
 <!ENTITY close.label "Zamknij">

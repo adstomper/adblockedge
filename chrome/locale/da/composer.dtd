@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Tilføj Adblock Plus filterregel">
+<!ENTITY dialog.title "Tilføj Adblock Edge filterregel">
 <!ENTITY accept.label "Tilføj filter">
 <!ENTITY advanced.label "Avanceret visning">
 <!ENTITY basic.label "Enkel visning">
-<!ENTITY disabled.warning "Adblock Plus er deaktiveret. Du kan stadig tilføje filtre men disse vil ikke anvendes med mindre du [link]aktiverer Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge er deaktiveret. Du kan stadig tilføje filtre men disse vil ikke anvendes med mindre du [link]aktiverer Adblock Edge[/link].">
 <!ENTITY filter.label "Nyt filter:">
 <!ENTITY filter.accesskey "N">
 <!ENTITY preferences.label "Vis eksisterende filtre...">

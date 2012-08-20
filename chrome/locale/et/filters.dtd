@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus filtrite sätted">
+<!ENTITY dialog.title "Adblock Edge filtrite sätted">
 <!ENTITY subscriptions.tab.label "Filtrite tellimused">
 <!ENTITY filters.tab.label "Isetehtud filtrid">
 <!ENTITY addSubscription.label "Lisa filtrite tellimus">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Lisa">
 <!ENTITY addSubscriptionCancel.label "Loobu">
 <!ENTITY addSubscriptionOther.label "Lisa muu tellimus">
-<!ENTITY noSubscriptions.text "Sa ei ole veel lisanud ühtegi filtrite tellimust. Adblock Plus ei blokeeri midagi ilma filtriteta. Filtrite tellimiseks klõpsa nupul &quot;Lisa filtrite tellimus&quot;.">
+<!ENTITY noSubscriptions.text "Sa ei ole veel lisanud ühtegi filtrite tellimust. Adblock Edge ei blokeeri midagi ilma filtriteta. Filtrite tellimiseks klõpsa nupul &quot;Lisa filtrite tellimus&quot;.">
 <!ENTITY subscription.homepage.label "Koduleht">
 <!ENTITY subscription.external.label "Uuendatud mingi teise lisa poolt">
 <!ENTITY subscription.source.label "Filtrite loetelu">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Nurjus, vale filtrite nimekiri">
 <!ENTITY subscription.lastDownload.checksumMismatch "Nurjus, kontrollsumma ei klapi">
 <!ENTITY subscription.lastDownload.success "Õnnestus">
-<!ENTITY subscription.minVersion.warning "See filtrite tellimus nõuab uuemat Adblock Plus versiooni. Sa peaksid uuendama Adblock Plus'i.">
+<!ENTITY subscription.minVersion.warning "See filtrite tellimus nõuab uuemat Adblock Edge versiooni. Sa peaksid uuendama Adblock Edge'i.">
 <!ENTITY subscription.disabledFilters.warning "Mõned selle tellimuse filtrid on keelatud.">
 <!ENTITY subscription.disabledFilters.enable "Luba keelatud filtrid">
 <!ENTITY subscription.actions.label "Tegevused">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Kõik filtrid ja tellimused">
 <!ENTITY backup.custom.title "Ainult isetehtud filtrid">
 <!ENTITY backup.error "Viga filtrite faili kirjutamisel. Kontrolli, et fail ei oleks avatud mingi teise rakenduse poolt ja et fail ei oleks kirjutuskaitstud.">
-<!ENTITY restore.error "Faili andmeid ei õnnestu töödelda. Kas see on ikka Adblock Plus varundusfail?">
+<!ENTITY restore.error "Faili andmeid ei õnnestu töödelda. Kas see on ikka Adblock Edge varundusfail?">
 <!ENTITY restore.complete.warning "Kõik filtrite sätted asendatakse valitud faili sisuga. Kas soovid jätkata?">
 <!ENTITY restore.custom.warning "Kõik su isetehtud filtrid asendatakse valitud faili sisuga. Kas soovid jätkata?">
-<!ENTITY restore.minVersion.warning "Hoiatus: see fail on loodud uuema Adblock Plus versiooniga. Enne selle taastamist peaksid sa Adblock Plus'i uuendama viimasele versioonile.">
+<!ENTITY restore.minVersion.warning "Hoiatus: see fail on loodud uuema Adblock Edge versiooniga. Enne selle taastamist peaksid sa Adblock Edge'i uuendama viimasele versioonile.">
 <!ENTITY find.label "Otsi">
 <!ENTITY find.accesskey "O">
 <!ENTITY close.label "Sulge">

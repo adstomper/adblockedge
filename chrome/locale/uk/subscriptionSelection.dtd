@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Додати підписку на фільтри Adblock Plus">
+<!ENTITY dialog.title "Додати підписку на фільтри Adblock Edge">
 <!ENTITY subscriptionSelector.label "Будь ласка виберіть фільтрову підписку з переліку:">
 <!ENTITY viewList.label "Глянути фільтри">
 <!ENTITY visitHomepage.label "Відвідати домашню сторінку">
 <!ENTITY addSubscription.label "Додати підписку">
-<!ENTITY list.download.failed "Adblock Plus не зміг отримати перелік підписок">
+<!ENTITY list.download.failed "Adblock Edge не зміг отримати перелік підписок">
 <!ENTITY list.download.retry "Спробувати ще раз">
 <!ENTITY list.download.website "Глянути сайт">
 <!ENTITY fromWeb.description "Будь ласка підтвердіть що ви бажаєте додати цю фільтрову підписку. Ви можете змінити назву чи знаходження перед додаванням.">

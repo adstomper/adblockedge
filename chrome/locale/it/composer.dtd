@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Nuovo filtro di Adblock Plus">
+<!ENTITY dialog.title "Nuovo filtro di Adblock Edge">
 <!ENTITY accept.label "Aggiungi filtro">
 <!ENTITY advanced.label "Avanzate &gt;&gt;">
 <!ENTITY basic.label "&lt;&lt; Generali">
-<!ENTITY disabled.warning "Adblock Plus è attualmente disattivata. È comunque possibile aggiungere filtri, ma questi verranno applicati solo dopo la [link]riattivazione di Adblock Plus[/link]">
+<!ENTITY disabled.warning "Adblock Edge è attualmente disattivata. È comunque possibile aggiungere filtri, ma questi verranno applicati solo dopo la [link]riattivazione di Adblock Edge[/link]">
 <!ENTITY filter.label "Nuovo filtro:">
 <!ENTITY filter.accesskey "N">
 <!ENTITY preferences.label "Mostra i filtri esistenti…">

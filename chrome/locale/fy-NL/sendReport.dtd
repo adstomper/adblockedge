@@ -1,28 +1,28 @@
 <!ENTITY wizard.title "Probleemrapportearder">
 <!ENTITY privacyPolicy.label "Privacybelied">
 <!ENTITY dataCollector.heading "Wolkome by de probleemrapportearder">
-<!ENTITY dataCollector.description "In amerijke wylst Adblock Plus de nedige gegevens sammelt.">
+<!ENTITY dataCollector.description "In amerijke wylst Adblock Edge de nedige gegevens sammelt.">
 <!ENTITY typeSelector.heading "Selektearje probleemtype">
-<!ENTITY typeSelector.description "Dit finster sil jo begeliede troch de stappen nedich foar it yntsjinjen fan in Adblock Plus probleemrapport. Earst, selektearje it type probleem wat jo tsjinkommen binne op dizze side:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus blokkearret te folle">
+<!ENTITY typeSelector.description "Dit finster sil jo begeliede troch de stappen nedich foar it yntsjinjen fan in Adblock Edge probleemrapport. Earst, selektearje it type probleem wat jo tsjinkommen binne op dizze side:">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge blokkearret te folle">
 <!ENTITY typeSelector.falsePositive.accesskey "f">
-<!ENTITY typeSelector.falsePositive.description "Selektearje dizze opsje as de side wichtige ynhâld mist, net goed toant wurd of net goed funksjonearret. Jo kinne útfine oft Adblock Plus de oarsaak is fan it probleem troch it tydlik út te skeakeljen.">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus blokkearret in advertinsje net">
+<!ENTITY typeSelector.falsePositive.description "Selektearje dizze opsje as de side wichtige ynhâld mist, net goed toant wurd of net goed funksjonearret. Jo kinne útfine oft Adblock Edge de oarsaak is fan it probleem troch it tydlik út te skeakeljen.">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge blokkearret in advertinsje net">
 <!ENTITY typeSelector.falseNegative.accesskey "v">
-<!ENTITY typeSelector.falseNegative.description "Selektearje dizze opsje as in advertinsje toant wurd wylst Adblock Plus ynskeakele is.">
+<!ENTITY typeSelector.falseNegative.description "Selektearje dizze opsje as in advertinsje toant wurd wylst Adblock Edge ynskeakele is.">
 <!ENTITY typeSelector.other.label "Oar probleem">
 <!ENTITY typeSelector.other.accesskey "a">
-<!ENTITY typeSelector.other.description "Selektearje dizze opsje as jo tinke dat it in probleem mei Adblock Plus sels is yn stee fan syn filters.">
+<!ENTITY typeSelector.other.description "Selektearje dizze opsje as jo tinke dat it in probleem mei Adblock Edge sels is yn stee fan syn filters.">
 <!ENTITY showRecentReports.label "Toan resint ynstjoerde rapporten">
 <!ENTITY recentReports.label "Jo resint ynstjoerde rapporten">
 <!ENTITY recentReports.clear.label "Smyt alle rapporten fuort">
 <!ENTITY recentReports.clear.accesskey "S">
-<!ENTITY issues.description "Adblock Plus hat problemen ûntdekt mei jo konfiguraasje dy't miskien ferantwurdlik binne foar dit probleem of sil it sier meitsje om it te ûndersykjen.">
-<!ENTITY issues.whitelist.description "Adblock Plus is no útskeakele op de side dy't jo rapportearje. Skeakel it yn en laad de side op 'e nij eardat it rapport ynstjoerd wurd om it ûndersyk fan dit probleem te helpen.">
-<!ENTITY issues.whitelist.remove.label "Skeakel Adblock Plus op dizze side wer yn">
-<!ENTITY issues.disabled.description "Adblock Plus is útskeakele, it sil no neat blokkearje.">
-<!ENTITY issues.disabled.enable.label "Adblock Plus ynskeakelje">
-<!ENTITY issues.nofilters.description "Adblock Plus blokkearret no neat op dizze side. It probleem dat jo sjogge hat wierskienlik neat fan dwaan mei Adblock Plus.">
+<!ENTITY issues.description "Adblock Edge hat problemen ûntdekt mei jo konfiguraasje dy't miskien ferantwurdlik binne foar dit probleem of sil it sier meitsje om it te ûndersykjen.">
+<!ENTITY issues.whitelist.description "Adblock Edge is no útskeakele op de side dy't jo rapportearje. Skeakel it yn en laad de side op 'e nij eardat it rapport ynstjoerd wurd om it ûndersyk fan dit probleem te helpen.">
+<!ENTITY issues.whitelist.remove.label "Skeakel Adblock Edge op dizze side wer yn">
+<!ENTITY issues.disabled.description "Adblock Edge is útskeakele, it sil no neat blokkearje.">
+<!ENTITY issues.disabled.enable.label "Adblock Edge ynskeakelje">
+<!ENTITY issues.nofilters.description "Adblock Edge blokkearret no neat op dizze side. It probleem dat jo sjogge hat wierskienlik neat fan dwaan mei Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "It liket der op dat jo net abonnearre binne op ien fan de yn-it-foar makke filterlisten dy't automatysk net-winske ynhâld fan websteeën fuortsmyt.">
 <!ENTITY issues.nosubscriptions.add.label "Foegje filterabonnemint ta">
 <!ENTITY issues.subscriptionCount.description "It liket as jo abonnearre binne op te folle filters. Dizze opset is net oanrikkemandearre omdat it wierskienlik faker problemen feroarsaakje kin. Wy kinne ek jo probleemrapport net akseptearje omdat it net dúdlik is hokker filterabonnemint auteur aksje ûndernimme moat. Helje alle net needsaaklike filters fuort en test oft de problemen wer barre.">
@@ -36,7 +36,7 @@
 <!ENTITY issues.override.label "De konfiguraasje is korrekt, fierder mei it rapport">
 <!ENTITY issues.override.accesskey "k">
 <!ENTITY issues.change.description "Jo konfiguraasje is wizige. Laad de side op 'e nij om de wizigings te testen en in rapport te stjoeren as it probleem net oplost is.">
-<!ENTITY typeWarning.description "Jo hawwe oanjûn dat jo in algemien probleem mei Adblock Plus rapportearej wolle yn stee fan in probleem mei de filters. It is it bêste dat jo soksoartige fan problemen rapportearje yn it [link]Adblock Plus foarum[/link]. Jo soene allinnich dizze rapportearder brûke moatte as tafoeging oan in besteande diskusje, oars sil net ien jo rapport sjen útsein as jo in keppeling opjouwe. De automatysk generearre keppeling sil jûn wurde as it rapport ynstjoerd is.">
+<!ENTITY typeWarning.description "Jo hawwe oanjûn dat jo in algemien probleem mei Adblock Edge rapportearej wolle yn stee fan in probleem mei de filters. It is it bêste dat jo soksoartige fan problemen rapportearje yn it [link]Adblock Edge foarum[/link]. Jo soene allinnich dizze rapportearder brûke moatte as tafoeging oan in besteande diskusje, oars sil net ien jo rapport sjen útsein as jo in keppeling opjouwe. De automatysk generearre keppeling sil jûn wurde as it rapport ynstjoerd is.">
 <!ENTITY typeWarning.override.label "Ik begryp it en wol it rapport dochs ynstjoere">
 <!ENTITY typeWarning.override.accesskey "b">
 <!ENTITY reloadButton.label "Side op 'e nij  lade">
@@ -66,10 +66,10 @@
 <!ENTITY data.label "Rapportgegevens:">
 <!ENTITY data.accesskey "R">
 <!ENTITY sendPage.heading "Ferstjoer rapport">
-<!ENTITY sendPage.waitMessage "Wachtsje wylst Adblock Plus jo rapport ynstjoerd.">
+<!ENTITY sendPage.waitMessage "Wachtsje wylst Adblock Edge jo rapport ynstjoerd.">
 <!ENTITY sendPage.confirmation "Jo rapport is bewarre. Jo kinne it besjen op it folgjende adres:">
 <!ENTITY sendPage.knownIssue "It probleem dat jo rapportearre hawwe is miskien al bekend. Mear ynformaasje:">
-<!ENTITY sendPage.errorMessage "It is net slagge om it rapport te ferstjoeren, flaterkoade &quot;?1?&quot;. Wês wis dat jo ferbûn binne mei it ynternet en probearje nochris. As it probleem bliuwt freegje dan assistinsje yn it [link]Adblock Plus foarum[/link].">
+<!ENTITY sendPage.errorMessage "It is net slagge om it rapport te ferstjoeren, flaterkoade &quot;?1?&quot;. Wês wis dat jo ferbûn binne mei it ynternet en probearje nochris. As it probleem bliuwt freegje dan assistinsje yn it [link]Adblock Edge foarum[/link].">
 <!ENTITY sendPage.retry.label "Ferstjoer op 'e nij">
 <!ENTITY copyLink.label "Kopiearje rapportkeppeling">
 <!ENTITY copyLink.accesskey "K">

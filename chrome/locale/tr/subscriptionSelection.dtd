@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Adblock Plus süzgeç aboneliği ekle">
+<!ENTITY dialog.title "Adblock Edge süzgeç aboneliği ekle">
 <!ENTITY subscriptionSelector.label "Lütfen listeden bir süzgeç aboneliği seçin:">
 <!ENTITY viewList.label "Süzgeçlere bak">
 <!ENTITY visitHomepage.label "Ana sayfaya git">
 <!ENTITY addSubscription.label "Abone ol">
-<!ENTITY list.download.failed "Adblock Plus abonelik listesini alamadı">
+<!ENTITY list.download.failed "Adblock Edge abonelik listesini alamadı">
 <!ENTITY list.download.retry "Yeniden dene">
 <!ENTITY list.download.website "Siteye git">
 <!ENTITY fromWeb.description "Lütfen bu süzgeç aboneliğini eklemek istediğinizi teyit edin. Eklemeden önce abonelik adını ve konumunu değiştirebilirsiniz.">

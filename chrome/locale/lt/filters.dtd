@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus filtrų nustatymai">
+<!ENTITY dialog.title "Adblock Edge filtrų nustatymai">
 <!ENTITY subscriptions.tab.label "Filtrų prenumeratos">
 <!ENTITY filters.tab.label "Pasirinktiniai filtrai">
 <!ENTITY addSubscription.label "Pridėti filtro prenumeratą">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Pridėti">
 <!ENTITY addSubscriptionCancel.label "Atšaukti">
 <!ENTITY addSubscriptionOther.label "Pridėti kitą prenumeratą">
-<!ENTITY noSubscriptions.text "  Kol kas jūs nepridėjote jokių filtrų prenumeratų. Be filtrų Adblock Plus nieko neblokuos,
+<!ENTITY noSubscriptions.text "  Kol kas jūs nepridėjote jokių filtrų prenumeratų. Be filtrų Adblock Edge nieko neblokuos,
 norėdami pridėti kelis naudokite 
 &quot;Pridėti filtrų prenumeratą&quot;.">
 <!ENTITY subscription.homepage.label "Namų puslapis">
@@ -21,7 +21,7 @@ norėdami pridėti kelis naudokite
 <!ENTITY subscription.lastDownload.invalidData "Nepavyko, netinkamas filtrų sąrašas">
 <!ENTITY subscription.lastDownload.checksumMismatch "Nepavyko, bloga kontrolinė suma">
 <!ENTITY subscription.lastDownload.success "Sėkmingai">
-<!ENTITY subscription.minVersion.warning "Ši filtrų prenumerata reikalauja naujesnės Adblock Plus versijos, turėtume atsinaujinti savo Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Ši filtrų prenumerata reikalauja naujesnės Adblock Edge versijos, turėtume atsinaujinti savo Adblock Edge.">
 <!ENTITY subscription.disabledFilters.warning "Kai kurie filtrai, šioje prenumeratoje, išjungti.">
 <!ENTITY subscription.disabledFilters.enable "Įjungti išjungtus filtrus">
 <!ENTITY subscription.actions.label "Veiksmai">
@@ -80,10 +80,10 @@ norėdami pridėti kelis naudokite
 <!ENTITY backup.complete.title "Visi filtrai ir prenumeratos">
 <!ENTITY backup.custom.title "Tik pasirinktiniai filtrai">
 <!ENTITY backup.error "Įvyko klaida rašant filtrus į failą. Įsitikinkite jog tas failas neapsaugotas nuo rašymo ir jo nenaudoja kita programa.">
-<!ENTITY restore.error "Neįmanoma panaudoti failo duomenų, gal tai ne Adblock PLus atsarginės kopijos failas?">
+<!ENTITY restore.error "Neįmanoma panaudoti failo duomenų, gal tai ne Adblock Edge atsarginės kopijos failas?">
 <!ENTITY restore.complete.warning "Visi jūsų filtrų nustatymai bus pakeisti pasirinkto failo turiniu. Ar norite tęsti?">
 <!ENTITY restore.custom.warning "Visi jūsų pasirinktiniai filtrai bus pakeisti pasirinkto failo turiniu. Ar norite tęsti?">
-<!ENTITY restore.minVersion.warning "Įspėjimas: failas sukurtas naudojant naujesnę Adblock Plus versiją. Prieš atstatant iš šio failo, turėtumėte atnaujinti savo Adblock Plus iki naujausios versijos.">
+<!ENTITY restore.minVersion.warning "Įspėjimas: failas sukurtas naudojant naujesnę Adblock Edge versiją. Prieš atstatant iš šio failo, turėtumėte atnaujinti savo Adblock Edge iki naujausios versijos.">
 <!ENTITY find.label "Rasti">
 <!ENTITY find.accesskey "s">
 <!ENTITY close.label "Užverti">

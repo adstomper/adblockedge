@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Blokitaj elementoj sur ĉi tiu paĝo:">
 <!ENTITY filters.tooltip "Plej aktivaj filtriloj:">
-<!ENTITY menuitem.label "Agordoj de Adblock Plus">
+<!ENTITY menuitem.label "Agordoj de Adblock Edge">
 <!ENTITY menuitem.accesskey "a">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Bloki bildon">
-<!ENTITY context.object.label "Adblock Plus: Bloki objekton">
-<!ENTITY context.frame.label "Adblock Plus: Bloki kadron">
-<!ENTITY context.media.label "Adblock Plus: Bloki aŭdion/videon">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Reebligi sur ĉi tiu paĝo">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Bloki bildon">
+<!ENTITY context.object.label "Adblock Edge: Bloki objekton">
+<!ENTITY context.frame.label "Adblock Edge: Bloki kadron">
+<!ENTITY context.media.label "Adblock Edge: Bloki aŭdion/videon">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Reebligi sur ĉi tiu paĝo">
 <!ENTITY sidebar.title "Blokeblaj elementoj sur la nuna paĝo">
 <!ENTITY sendReport.label "Raporti problemon pri ĉi tiu paĝo">
 <!ENTITY sendReport.accesskey "R">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Ĉie malebligi">
 <!ENTITY options.label "Opcioj">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Kontribuu al Adblock Plus">
+<!ENTITY contribute.label "Kontribuu al Adblock Edge">
 <!ENTITY showintoolbar.label "Vidigi en ilobreto">
 <!ENTITY showintoolbar.accesskey "V">
 <!ENTITY showinstatusbar.label "Vidigi en statstrio">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Nombri filtriltrafojn">
 <!ENTITY counthits.accesskey "N">
-<!ENTITY sync.label "Sinkronigi agordojn de Adblock Plus">
+<!ENTITY sync.label "Sinkronigi agordojn de Adblock Edge">
 <!ENTITY sync.accesskey "S">
 <!ENTITY objecttab.title "Bloki">
-<!ENTITY objecttab.tooltip "Klaku ĉi tien por bloki ĉi tiun objekton per Adblock Plus">
+<!ENTITY objecttab.tooltip "Klaku ĉi tien por bloki ĉi tiun objekton per Adblock Edge">

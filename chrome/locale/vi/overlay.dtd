@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Trạng thái:">
 <!ENTITY blocked.tooltip "Các mục bị chặn trong trang này:">
 <!ENTITY filters.tooltip "Các bộ lọc có hiệu lực nhất:">
-<!ENTITY menuitem.label "Tùy chọn Adblock Plus">
+<!ENTITY menuitem.label "Tùy chọn Adblock Edge">
 <!ENTITY menuitem.accesskey "P">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Chặn Ảnh">
-<!ENTITY context.object.label "Adblock Plus: Chặn Đối Tượng">
-<!ENTITY context.frame.label "Adblock Plus: Chặn Khung">
-<!ENTITY context.media.label "Adblock Plus: Chặn nhạc/phim">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Kích Hoạt Lại trên Trang Này">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Chặn Ảnh">
+<!ENTITY context.object.label "Adblock Edge: Chặn Đối Tượng">
+<!ENTITY context.frame.label "Adblock Edge: Chặn Khung">
+<!ENTITY context.media.label "Adblock Edge: Chặn nhạc/phim">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Kích Hoạt Lại trên Trang Này">
 <!ENTITY sidebar.title "Các mục bị chặn trên trang hiện tại">
 <!ENTITY sendReport.label "Báo cáo vấn đề trên trang này">
 <!ENTITY sendReport.accesskey "B">
@@ -27,7 +27,7 @@
 <!ENTITY showinstatusbar.accesskey "r">
 <!ENTITY objecttabs.label "Hiện thẻ trên Flash và Java">
 <!ENTITY objecttabs.accesskey "t">
-<!ENTITY sync.label "Đồng bộ thiết lập Adblock Plus">
+<!ENTITY sync.label "Đồng bộ thiết lập Adblock Edge">
 <!ENTITY sync.accesskey "o">
 <!ENTITY objecttab.title "Chặn">
-<!ENTITY objecttab.tooltip "Nhấn vào đây để chặn đối tượng này với Adblock Plus">
+<!ENTITY objecttab.tooltip "Nhấn vào đây để chặn đối tượng này với Adblock Edge">

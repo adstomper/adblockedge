@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Aldoni filtrilabonon de Adblock Plus">
+<!ENTITY dialog.title "Aldoni filtrilabonon de Adblock Edge">
 <!ENTITY subscriptionSelector.label "Bonvolu elekti filtrilabonon el la listo:">
 <!ENTITY viewList.label "Rigardi filtrilojn">
 <!ENTITY visitHomepage.label "Viziti hejmpaĝon">
 <!ENTITY addSubscription.label "Redakti abonon">
-<!ENTITY list.download.failed "Adblock Plus malsukcesis akiri la liston de abonoj.">
+<!ENTITY list.download.failed "Adblock Edge malsukcesis akiri la liston de abonoj.">
 <!ENTITY list.download.retry "Ankoraŭfoje provi">
 <!ENTITY list.download.website "Rigardi retejon">
 <!ENTITY fromWeb.description "Bonvolu konfirmi, ke vi volas aldoni ĉi tiun filtrilabonon. Vi povas ŝanĝi la abonan titolon aŭ lokon antaŭ ol vi aldonas ĝin.">

@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Filterinställningar för Adblock Plus">
+<!ENTITY dialog.title "Filterinställningar för Adblock Edge">
 <!ENTITY subscriptions.tab.label "Filterprenumerationer">
 <!ENTITY filters.tab.label "Egna filter">
 <!ENTITY addSubscription.label "Lägg till filterprenumeration">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Lägg till">
 <!ENTITY addSubscriptionCancel.label "Avbryt">
 <!ENTITY addSubscriptionOther.label "Lägg till en ny prenumeration">
-<!ENTITY noSubscriptions.text "Du har inte lagt till några filterprenumerationer än. Adblock Plus kommer inte blockera någonting utan filter. Använd &quot;Lägg till filterprenumeration&quot; för att lägga till några.">
+<!ENTITY noSubscriptions.text "Du har inte lagt till några filterprenumerationer än. Adblock Edge kommer inte blockera någonting utan filter. Använd &quot;Lägg till filterprenumeration&quot; för att lägga till några.">
 <!ENTITY subscription.homepage.label "Webbplats">
 <!ENTITY subscription.external.label "Uppdateras av ett annat tillägg">
 <!ENTITY subscription.source.label "Filterlista">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Fel vid validering av filter">
 <!ENTITY subscription.lastDownload.checksumMismatch "Fel kontrollsumma">
 <!ENTITY subscription.lastDownload.success "Klart">
-<!ENTITY subscription.minVersion.warning "Denna filterprenumeration kräver en nyare version av Adblock Plus, du bör uppdatera till den senaste Adblock Plus-versionen.">
+<!ENTITY subscription.minVersion.warning "Denna filterprenumeration kräver en nyare version av Adblock Edge, du bör uppdatera till den senaste Adblock Edge-versionen.">
 <!ENTITY subscription.disabledFilters.warning "Vissa filter i denna prenumeration är inaktiverade.">
 <!ENTITY subscription.disabledFilters.enable "Aktivera inaktiverade filter">
 <!ENTITY subscription.actions.label "Åtgärder">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Alla filter och prenumerationer">
 <!ENTITY backup.custom.title "Endast egna filter">
 <!ENTITY backup.error "Det uppstod ett fel vid skrivning av filter till filen. Säkerställ att filen inte är skrivskyddad eller används av ett annat program.">
-<!ENTITY restore.error "Filens data kunde inte bearbetas. Kanske är det här inte en Adblock Plus-säkerhetskopiefil?">
+<!ENTITY restore.error "Filens data kunde inte bearbetas. Kanske är det här inte en Adblock Edge-säkerhetskopiefil?">
 <!ENTITY restore.complete.warning "Alla dina filterinställningar kommer att ersättas av innehållet i den valda filen. Vill du fortsätta?">
 <!ENTITY restore.custom.warning "Alla dina egna filter kommer att ersättas av innehållet i den valda filen. Vill du fortsätta?">
-<!ENTITY restore.minVersion.warning "Varning: Filen har skapats med en nyare version av Adblock Plus. Du bör uppdatera till den senaste Adblock Plus-versionen innan du återställer från denna fil.">
+<!ENTITY restore.minVersion.warning "Varning: Filen har skapats med en nyare version av Adblock Edge. Du bör uppdatera till den senaste Adblock Edge-versionen innan du återställer från denna fil.">
 <!ENTITY find.label "Sök">
 <!ENTITY find.accesskey "k">
 <!ENTITY close.label "Stäng">

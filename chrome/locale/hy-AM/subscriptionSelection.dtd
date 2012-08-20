@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Բարի գալուստ Adblock Plus">
+<!ENTITY dialog.title "Բարի գալուստ Adblock Edge">
 <!ENTITY subscriptionSelector.label "Ընտրեք ֆիլտրի բաժանարդոգրություն ցուցակից`">
 <!ENTITY viewList.label "Նայել ֆիլտրերը">
 <!ENTITY visitHomepage.label "Այցելել կայք">
 <!ENTITY addSubscription.label "Ավելացնել բաժանորդագրություն">
-<!ENTITY list.download.failed "«Adblock Plus»-ը չկարողացավ բեռնել ֆիլտրերի բաժանարդոգրությունների ցուցակը">
+<!ENTITY list.download.failed "«Adblock Edge»-ը չկարողացավ բեռնել ֆիլտրերի բաժանարդոգրությունների ցուցակը">
 <!ENTITY list.download.retry "Կրկին Փորձել">
 <!ENTITY list.download.website "Այցելել կայք">
 <!ENTITY fromWeb.description "Հաստատեք որ ցանկանում եք ավելացնել բաժանորդագրություն: Դուք կարող եք փողել բաժանորդագրության վերնագիրը կամ հասցեն միչև ավելացնելը:">

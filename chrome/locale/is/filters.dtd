@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus síu stillingar">
+<!ENTITY dialog.title "Adblock Edge síu stillingar">
 <!ENTITY subscriptions.tab.label "Síu áskriftir">
 <!ENTITY filters.tab.label "Sérsniðnar síur">
 <!ENTITY addSubscription.label "Bæta við síuáskrift">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Hætta við">
 <!ENTITY addSubscriptionOther.label "Bæta við öðruvísi áskrift">
 <!ENTITY noSubscriptions.text "
-	Þú hefur ekki ennþá bætt við áskrift að síu. Adblock Plus virkar ekki
+	Þú hefur ekki ennþá bætt við áskrift að síu. Adblock Edge virkar ekki
 	án þess að vera með síur, notaðu &quot;Bæta við síuáskrift&quot; til
 	að bæta við síuáskrift.
 ">
@@ -23,7 +23,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Mistókst, ekki gildur síulisti">
 <!ENTITY subscription.lastDownload.checksumMismatch "Mistókst, prófsumma stemmir ekki">
 <!ENTITY subscription.lastDownload.success "Tókst">
-<!ENTITY subscription.minVersion.warning "Þessi síuáskrift þarfnast nýrri útáfu af Adblock Plus, þú ættir að uppfæra í nýjustu útgáfu.">
+<!ENTITY subscription.minVersion.warning "Þessi síuáskrift þarfnast nýrri útáfu af Adblock Edge, þú ættir að uppfæra í nýjustu útgáfu.">
 <!ENTITY subscription.disabledFilters.warning "Sumar síur í þessari áskrift eru óvirkar.">
 <!ENTITY subscription.disabledFilters.enable "Virkja óvirkar síur">
 <!ENTITY subscription.actions.label "Aðgerðir">
@@ -84,10 +84,10 @@
 <!ENTITY backup.complete.title "Allar síur og áskriftir">
 <!ENTITY backup.custom.title "Aðeins sérsniðnar síur">
 <!ENTITY backup.error "Upp kom villa við að skrifa síur í skránna. Gakktu úr skugga um að skráin sé ekki ritvarin eða í notkun af öðru forriti.">
-<!ENTITY restore.error "Ekki tókst að lesa skráargögn, kannski er skráin ekki Adblock Plus afritunarskrá?">
+<!ENTITY restore.error "Ekki tókst að lesa skráargögn, kannski er skráin ekki Adblock Edge afritunarskrá?">
 <!ENTITY restore.complete.warning "Allar síustillingar verða yfirskrifaðar af skrá. Viltu halda áfram?">
 <!ENTITY restore.custom.warning "Allar sérsniðnar síur verða yfirskrifaðar af skrá. Viltu halda áfram?">
-<!ENTITY restore.minVersion.warning "Aðvörun: skráin var búin til að nýrri útgáfu af Adblock Plus. Þú ættir að uppfæra í nýjustu útgáfu af Adblock Plus áður en þú endurheimtir þessa skrá.">
+<!ENTITY restore.minVersion.warning "Aðvörun: skráin var búin til að nýrri útgáfu af Adblock Edge. Þú ættir að uppfæra í nýjustu útgáfu af Adblock Edge áður en þú endurheimtir þessa skrá.">
 <!ENTITY find.label "Leita">
 <!ENTITY find.accesskey "L">
 <!ENTITY close.label "Loka">

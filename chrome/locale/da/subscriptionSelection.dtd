@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Tilføj Adblock Plus filterabonnement">
+<!ENTITY dialog.title "Tilføj Adblock Edge filterabonnement">
 <!ENTITY subscriptionSelector.label "Vælg et filterabonnement fra listen:">
 <!ENTITY viewList.label "Vis filtre">
 <!ENTITY visitHomepage.label "Besøg hjemmeside">
 <!ENTITY addSubscription.label "Tilføj abonnement">
-<!ENTITY list.download.failed "Adblock Plus kunne ikke hente abonnementslisten.">
+<!ENTITY list.download.failed "Adblock Edge kunne ikke hente abonnementslisten.">
 <!ENTITY list.download.retry "Prøv igen">
 <!ENTITY list.download.website "Se hjemmeside">
 <!ENTITY fromWeb.description "Bekræft tilføjelsen af dette abonnement. Du kan ændre titel eller placering på abonnementet før det tilføjes.">

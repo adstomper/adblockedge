@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Συνδρομές φίλτρων του Adblock Plus">
+<!ENTITY dialog.title "Συνδρομές φίλτρων του Adblock Edge">
 <!ENTITY subscriptionSelector.label "Παρακαλώ επιλέξτε μια συνδρομή σε φίλτρα από την λίστα:">
 <!ENTITY viewList.label "Προβολή φίλτρων">
 <!ENTITY visitHomepage.label "Ιστοσελίδα της συνδρομής">
 <!ENTITY addSubscription.label "Προσθήκη συνδρομής">
-<!ENTITY list.download.failed "Το Adblock Plus απέτυχε να λάβει την λίστα με τις συνδρομές.">
+<!ENTITY list.download.failed "Το Adblock Edge απέτυχε να λάβει την λίστα με τις συνδρομές.">
 <!ENTITY list.download.retry "Προσπαθήστε ξανά">
 <!ENTITY list.download.website "Προβολή της ιστοσελίδας">
 <!ENTITY fromWeb.description "Παρακαλώ επιβεβαιώστε ότι θέλετε να προσθέσετε αυτή την λίστα φίλτρων. Μπορείτε να τροποποιήσετε τον τίτλο ή την τοποθεσία πριν την προσθήκη.">

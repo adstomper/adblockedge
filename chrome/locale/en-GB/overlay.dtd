@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Blocked items on this page:">
 <!ENTITY filters.tooltip "Most active filters:">
-<!ENTITY menuitem.label "Adblock Plus Preferences">
+<!ENTITY menuitem.label "Adblock Edge Preferences">
 <!ENTITY menuitem.accesskey "B">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Block image">
-<!ENTITY context.object.label "Adblock Plus: Block object">
-<!ENTITY context.frame.label "Adblock Plus: Block frame">
-<!ENTITY context.media.label "Adblock Plus: Block audio/video">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Re-enable on this page">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Block image">
+<!ENTITY context.object.label "Adblock Edge: Block object">
+<!ENTITY context.frame.label "Adblock Edge: Block frame">
+<!ENTITY context.media.label "Adblock Edge: Block audio/video">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Re-enable on this page">
 <!ENTITY sidebar.title "Blockable items on current page">
 <!ENTITY sendReport.label "Report issue on this page">
 <!ENTITY sendReport.accesskey "R">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Disable everywhere">
 <!ENTITY options.label "Options">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Contribute to Adblock Plus">
+<!ENTITY contribute.label "Contribute to Adblock Edge">
 <!ENTITY showintoolbar.label "Show in toolbar">
 <!ENTITY showintoolbar.accesskey "b">
 <!ENTITY showinstatusbar.label "Show in status bar">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Count filter hits">
 <!ENTITY counthits.accesskey "h">
-<!ENTITY sync.label "Synchronise Adblock Plus settings">
+<!ENTITY sync.label "Synchronise Adblock Edge settings">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Block">
-<!ENTITY objecttab.tooltip "Block this object with Adblock Plus">
+<!ENTITY objecttab.tooltip "Block this object with Adblock Edge">

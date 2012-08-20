@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Lisää Adblock Plus -suodatusehto">
+<!ENTITY dialog.title "Lisää Adblock Edge -suodatusehto">
 <!ENTITY accept.label "Lisää suodatin">
 <!ENTITY advanced.label "Näytä lisää">
 <!ENTITY basic.label "Näytä vähemmän">
-<!ENTITY disabled.warning "Adblock Plus on tällä hetkellä poistettu käytöstä. Voit silti lisätä suodattimia mutta ne otetaan käyttöön vasta kun, [link]otat Adblockin Plussan käyttöön[/link].">
+<!ENTITY disabled.warning "Adblock Edge on tällä hetkellä poistettu käytöstä. Voit silti lisätä suodattimia mutta ne otetaan käyttöön vasta kun, [link]otat Adblockin Plussan käyttöön[/link].">
 <!ENTITY filter.label "Uusi suodatin:">
 <!ENTITY filter.accesskey "U">
 <!ENTITY preferences.label "Näytä nykyiset suodattimet...">

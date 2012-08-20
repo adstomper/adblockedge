@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Pridėti „Adblock Plus“ filtro prenumeratą">
+<!ENTITY dialog.title "Pridėti „Adblock Edge“ filtro prenumeratą">
 <!ENTITY subscriptionSelector.label "Pasirinkite filtro prenumeratą iš šio sąrašo:">
 <!ENTITY viewList.label "Rodyti filtrus">
 <!ENTITY visitHomepage.label "Aplankyti tinklalapį">
 <!ENTITY addSubscription.label "Pridėti prenumeratą">
-<!ENTITY list.download.failed "Adblock Plus nepavyko gauti prenumeratų sąrašo.">
+<!ENTITY list.download.failed "Adblock Edge nepavyko gauti prenumeratų sąrašo.">
 <!ENTITY list.download.retry "Bandykite dar kartą">
 <!ENTITY list.download.website "Rodyti tinklalapį">
 <!ENTITY fromWeb.description "Patvirtinkite jog norite pridėti šią prenumeratą. Prieš įdedant prenumeratą jūs galite pakeisti jos pavadinimą ar vietą.">

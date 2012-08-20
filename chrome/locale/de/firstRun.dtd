@@ -1,7 +1,7 @@
-<!ENTITY dialog.title               "Installation von Adblock Plus abgeschlossen">
+<!ENTITY dialog.title               "Installation von Adblock Edge abgeschlossen">
 
 <!ENTITY confirmation               "
-  Danke für die Installation von Adblock Plus. Werbung wird von nun an blockiert.
+  Danke für die Installation von Adblock Edge. Werbung wird von nun an blockiert.
   Viel Spaß!">
 
 <!ENTITY advancedSection            "Erweiterte Optionen">
@@ -14,7 +14,7 @@
 <!ENTITY visitHomepage.label        "Webseite öffnen">
 
 <!ENTITY acceptableAds2             "
-  Adblock Plus wurde außerdem konfiguriert, um einige nicht aufdringliche Werbung zuzulassen.
+  Adblock Edge wurde außerdem konfiguriert, um einige nicht aufdringliche Werbung zuzulassen.
 ">
 
 <!ENTITY viewList.label             "Liste öffnen">

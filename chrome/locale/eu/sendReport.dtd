@@ -1,44 +1,44 @@
 <!ENTITY wizard.title "Arazoaren txostena bidali da">
 <!ENTITY privacyPolicy.label "Pribatutasun politika">
 <!ENTITY dataCollector.heading "Ongi etorri arazoen txosten bidalketara">
-<!ENTITY dataCollector.description "Mesedez itxaron Adblock Plusek beharrezko informazioa jaso bitartean">
+<!ENTITY dataCollector.description "Mesedez itxaron Adblock Edgeek beharrezko informazioa jaso bitartean">
 <!ENTITY typeSelector.heading "Aukeratu arazo mota">
 <!ENTITY typeSelector.description "
-	Leiho honek Adblock Plus arazo txosten bat bidaltzeko beharrezkoak diren urratsetan zehar gidatuko zaitu. Hasteko, mesedez aukeratu orri honetan pairatzen duzun arazo mota aukeratu:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plusek behar baino gehiago blokeatzen du">
+	Leiho honek Adblock Edge arazo txosten bat bidaltzeko beharrezkoak diren urratsetan zehar gidatuko zaitu. Hasteko, mesedez aukeratu orri honetan pairatzen duzun arazo mota aukeratu:">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edgeek behar baino gehiago blokeatzen du">
 <!ENTITY typeSelector.falsePositive.accesskey "m">
 <!ENTITY typeSelector.falsePositive.description "
 	Aukeratu hau orrian informazio garrantzitsua falta bada, gaizki ikusten bada edo ez badabil behar bezala . 
- Adblock Plus une batez desgaituz erruduna den egiaztatu dezakezu.
+ Adblock Edge une batez desgaituz erruduna den egiaztatu dezakezu.
 ">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plusek ez du publizitatea blokeatzen.Your configuration has been changed. Please reload the page to test the changes
+<!ENTITY typeSelector.falseNegative.label "Adblock Edgeek ez du publizitatea blokeatzen.Your configuration has been changed. Please reload the page to test the changes
 	and submit a report if the issue hasn't been resolved by the alterations">
 <!ENTITY typeSelector.falseNegative.accesskey "v">
 <!ENTITY typeSelector.falseNegative.description "
-	Aukeratu hau publizitatea agertzen bada Adblock Plus gaituta egonda ere.
+	Aukeratu hau publizitatea agertzen bada Adblock Edge gaituta egonda ere.
 ">
 <!ENTITY typeSelector.other.label "Beste zerbait">
 <!ENTITY typeSelector.other.accesskey "t">
 <!ENTITY typeSelector.other.description "
-	Aukeratu hau arazoa Adblock Plus berak duela uste baduzu, eta ez iragazkiek.
+	Aukeratu hau arazoa Adblock Edge berak duela uste baduzu, eta ez iragazkiek.
 ">
 <!ENTITY showRecentReports.label "Erakutsiorain dela gutxi bidalitako txostenak">
 <!ENTITY recentReports.label "Orain dela gutxi bidalitako txostenak">
 <!ENTITY recentReports.clear.label "Ezabatu txosten guztiak">
 <!ENTITY recentReports.clear.accesskey "R">
 <!ENTITY issues.description "
-	Adblock Plusek arazo honen errudun izan daitezken edo txosten hau ikerkertzea zaildu dezaketen arazoak aurkitu ditu zure konfigurazioan.
+	Adblock Edgeek arazo honen errudun izan daitezken edo txosten hau ikerkertzea zaildu dezaketen arazoak aurkitu ditu zure konfigurazioan.
 ">
 <!ENTITY issues.whitelist.description "
-	Adblock Plus orain desgaituta dago txosnenaren orrian. Mesedez berriz gaitu eta orria birkargatu txostena bidali aurretik arazoaren ikerketa errazteko.
+	Adblock Edge orain desgaituta dago txosnenaren orrian. Mesedez berriz gaitu eta orria birkargatu txostena bidali aurretik arazoaren ikerketa errazteko.
 ">
-<!ENTITY issues.whitelist.remove.label "Gaitu Adblock Plus orri honetan">
+<!ENTITY issues.whitelist.remove.label "Gaitu Adblock Edge orri honetan">
 <!ENTITY issues.disabled.description "
-	Adblock Plus ezgaituta dago, ez du ezer blokeatuko oraingo egoeran.
+	Adblock Edge ezgaituta dago, ez du ezer blokeatuko oraingo egoeran.
 ">
-<!ENTITY issues.disabled.enable.label "Gaitu Adblock Plus">
+<!ENTITY issues.disabled.enable.label "Gaitu Adblock Edge">
 <!ENTITY issues.nofilters.description "
-	Adblock Plus ez dago ezer blokeatzen oraingo orrian. Ikusten duzun arazoa ziurrenez ez du Adblock Plusekin erlaziorik.
+	Adblock Edge ez dago ezer blokeatzen oraingo orrian. Ikusten duzun arazoa ziurrenez ez du Adblock Edgeekin erlaziorik.
 ">
 <!ENTITY issues.nosubscriptions.description "
 	Antza denez ez zara harpidetu webguneetatik nahi ez dituzun edukiak automatikoki ezabatzen duten aurrez egindako zerrendetara.
@@ -66,7 +66,7 @@
 	Zure konfigurazioa aldatu da. Mesedez birkargatu orria aldaketak egiaztatzeko eta bidali txostena arazoa konpondu ez bada.
 ">
 <!ENTITY typeWarning.description "
-	Adblock Plusen arazo orokor, baten txostena egin nahi duzula esan duzu, ez iragazkiena. Jabetu zaitez arazo horien berri emateko hobe dela [link]Adblock Plus forum[/link] foroa erabiltza. Arazoen txosten bidalketa erabili soilik badagoen eztabaida bati eransteko, inork ez duelako zure txostena ikusiko lotura bat ematen ez baduzu. Automatikoki sortutako lotura bat emango zaizu txostena bidali eta gero.
+	Adblock Edgeen arazo orokor, baten txostena egin nahi duzula esan duzu, ez iragazkiena. Jabetu zaitez arazo horien berri emateko hobe dela [link]Adblock Edge forum[/link] foroa erabiltza. Arazoen txosten bidalketa erabili soilik badagoen eztabaida bati eransteko, inork ez duelako zure txostena ikusiko lotura bat ematen ez baduzu. Automatikoki sortutako lotura bat emango zaizu txostena bidali eta gero.
 ">
 <!ENTITY typeWarning.override.label "Ulertzen dut eta txostena bidali nahi dut hala ere">
 <!ENTITY typeWarning.override.accesskey "s">
@@ -103,11 +103,11 @@
 <!ENTITY data.label "Txostenaren informazioa:">
 <!ENTITY data.accesskey "p">
 <!ENTITY sendPage.heading "Bidali txostena">
-<!ENTITY sendPage.waitMessage "Mesedez itxaron Adblock Plus zure txostena bidaltzen duen bitartean.">
+<!ENTITY sendPage.waitMessage "Mesedez itxaron Adblock Edge zure txostena bidaltzen duen bitartean.">
 <!ENTITY sendPage.confirmation "Zure txostena gorde da">
 <!ENTITY sendPage.knownIssue "Aipatu duzun arazoa ziur aski ezaguna da jada. Informazio gehiago:">
 <!ENTITY sendPage.errorMessage "
-	Txostena bidaltzeko saiakerak kale egin du hurrengo errore kodearekin &quot;?1?&quot;. Mesedez egaiaztatu Internetera konektatuta zaudela eta berriz saiatu. Arazoa ez bada konpontzen eskatu laguntza  [link]Adblock Plus forum[/link] foroan.
+	Txostena bidaltzeko saiakerak kale egin du hurrengo errore kodearekin &quot;?1?&quot;. Mesedez egaiaztatu Internetera konektatuta zaudela eta berriz saiatu. Arazoa ez bada konpontzen eskatu laguntza  [link]Adblock Edge forum[/link] foroan.
 ">
 <!ENTITY sendPage.retry.label "Berriro bidali">
 <!ENTITY copyLink.label "Kopiatu txostenaren lotura">

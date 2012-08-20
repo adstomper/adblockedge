@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Stad :">
 <!ENTITY blocked.tooltip "Eflennoù stanket war ar bajenn :">
 <!ENTITY filters.tooltip "Siloù ar muiañ implijet :">
-<!ENTITY menuitem.label "Dibaboù Adblock Plus">
+<!ENTITY menuitem.label "Dibaboù Adblock Edge">
 <!ENTITY menuitem.accesskey "b">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Stankañ ar skeudenn gant Adblock">
 <!ENTITY context.object.label "Stankañ an elfenn gant Adblock">
 <!ENTITY context.frame.label "Stankañ ar framm gant Adblock">
 <!ENTITY context.media.label "Stankañ videoù/son gant Adblock">
-<!ENTITY context.removeWhitelist.label "Adblock Plus : Gweredekaat adnevez evit ar bajenn-se">
+<!ENTITY context.removeWhitelist.label "Adblock Edge : Gweredekaat adnevez evit ar bajenn-se">
 <!ENTITY sidebar.title "Elfennoù silabl er bajenn a-vremañ">
 <!ENTITY opensidebar.label "Digeriñ al listenn elfennoù silabl">
 <!ENTITY opensidebar.accesskey "b">
@@ -25,4 +25,4 @@
 <!ENTITY objecttabs.label "Diskouez un tikedenn evit Flash ha Java">
 <!ENTITY objecttabs.accesskey "t">
 <!ENTITY objecttab.title "Stankañ">
-<!ENTITY objecttab.tooltip "Klikañ amañ hag Adblock Plus a stanko an elfenn-se">
+<!ENTITY objecttab.tooltip "Klikañ amañ hag Adblock Edge a stanko an elfenn-se">

@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "הוספת הרשמות מסננים לAdblock Plus">
+<!ENTITY dialog.title "הוספת הרשמות מסננים לAdblock Edge">
 <!ENTITY subscriptionSelector.label "יש לבחור הרשמת מסנן מהרשימה:">
 <!ENTITY viewList.label "הצגת מסננים">
 <!ENTITY visitHomepage.label "ביקור באתר הבית">
 <!ENTITY addSubscription.label "הוספת הרשמה">
-<!ENTITY list.download.failed "Adblock Plus נכשל באיחזור רשימת ההרשמות.">
+<!ENTITY list.download.failed "Adblock Edge נכשל באיחזור רשימת ההרשמות.">
 <!ENTITY list.download.retry "נסה שנית">
 <!ENTITY list.download.website "הצגת האתר">
 <!ENTITY fromWeb.description "יש לוודא הוספת מסנן הרשמה זה. ניתן לשנות את כותרת או מיקום ההרשמה לפני הוספתה.">

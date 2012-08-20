@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Adblock Plus のインストール完了">
+<!ENTITY dialog.title "Adblock Edge のインストール完了">
 <!ENTITY confirmation "
-Adblock Plus をインストールいただきありがとうございます。今から広告はブロックされます。
+Adblock Edge をインストールいただきありがとうございます。今から広告はブロックされます。
 Enjoy!">
 <!ENTITY advancedSection "詳細設定">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@ Enjoy!">
 <!ENTITY noList "フィルタリストなし">
 <!ENTITY visitHomepage.label "リストのホームページを表示">
 <!ENTITY acceptableAds2 "
- Adblock Plus は控えめな広告を許可するようにも設定されました。
+ Adblock Edge は控えめな広告を許可するようにも設定されました。
 ">
 <!ENTITY viewList.label "設定内容を参照">
 <!ENTITY readMore.label "更に詳しい説明">

@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Προσθήκη κανόνα φίλτρου του Adblock Plus">
+<!ENTITY dialog.title "Προσθήκη κανόνα φίλτρου του Adblock Edge">
 <!ENTITY accept.label "Προσθήκη φίλτρου">
 <!ENTITY advanced.label "Για προχωρημένους">
 <!ENTITY basic.label "Βασική προβολή">
-<!ENTITY disabled.warning "Το Adblock Plus είναι απενεργοποιημένο. Μπορείτε να προσθέσετε φίλτρα αλλά αυτά θα εφαρμοστούν μόλις [link]ενεργοποιήσετε το Adblock Plus[/link].">
+<!ENTITY disabled.warning "Το Adblock Edge είναι απενεργοποιημένο. Μπορείτε να προσθέσετε φίλτρα αλλά αυτά θα εφαρμοστούν μόλις [link]ενεργοποιήσετε το Adblock Edge[/link].">
 <!ENTITY filter.label "Νέο φίλτρο:">
 <!ENTITY filter.accesskey "φ">
 <!ENTITY preferences.label "Προβολή υπαρχόντων φίλτρων...">

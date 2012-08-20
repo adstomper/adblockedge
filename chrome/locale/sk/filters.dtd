@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Zrušiť">
 <!ENTITY addSubscriptionOther.label "Pridať iné odoberania">
 <!ENTITY noSubscriptions.text "
- Ziataľ nie sú pridané žiadne odbery filtrov. Adblock Plus nebude blokovať
+ Ziataľ nie sú pridané žiadne odbery filtrov. Adblock Edge nebude blokovať
  nič bez filtrov, použite, prosím &quot;Pridať odber filtra&quot; pre
  pridanie.
 ">
@@ -23,7 +23,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Zlyhanie, neplatný zoznam filtrov">
 <!ENTITY subscription.lastDownload.checksumMismatch "Zlyhalo, chybné prispôsobenie kontrolného súčtu">
 <!ENTITY subscription.lastDownload.success "Úspešné">
-<!ENTITY subscription.minVersion.warning "Odoberanie tohto filtra vyžaduje novšiu verziu Adblock Olus, môžete aktualizovať na ostatnú verziu Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Odoberanie tohto filtra vyžaduje novšiu verziu Adblock Olus, môžete aktualizovať na ostatnú verziu Adblock Edge.">
 <!ENTITY subscription.disabledFilters.warning "Niektoré filtre tohto odberu sú vypnuté.">
 <!ENTITY subscription.disabledFilters.enable "Zapnúť vypnuté filtre">
 <!ENTITY subscription.actions.label "Úlohy">
@@ -84,10 +84,10 @@
 <!ENTITY backup.complete.title "Všetky filtre a odbery">
 <!ENTITY backup.custom.title "Len vlastné filtre">
 <!ENTITY backup.error "Pri zápise filtra do súboru sa vyskytla chyba. Uistite sa, že súbor nie je chránený proti zapisovaniu alebo nie je používaný inou aplikáciou.">
-<!ENTITY restore.error "Údaje súborov nemôžu byť spacované, možno to nie zálohovací súbor Adblock Plus?">
+<!ENTITY restore.error "Údaje súborov nemôžu byť spacované, možno to nie zálohovací súbor Adblock Edge?">
 <!ENTITY restore.complete.warning "Všetky nastavenia filtrov budú nahradené obsahom zo zvoleného súboru. Prajete si pokračovať?">
 <!ENTITY restore.custom.warning "Všetky vaše vlastné filtre budú nahradené obsahom zo zvoleného súboru. Prajete si pokračovať?">
-<!ENTITY restore.minVersion.warning "Upozornenie: súbor bol vytvorený novšou verziuo Adblock Plus. Mali by ste aktualizovať na novšiu verziu predtým, než obnovíte z tohto súboru.">
+<!ENTITY restore.minVersion.warning "Upozornenie: súbor bol vytvorený novšou verziuo Adblock Edge. Mali by ste aktualizovať na novšiu verziu predtým, než obnovíte z tohto súboru.">
 <!ENTITY find.label "Nájsť">
 <!ENTITY find.accesskey "s">
 <!ENTITY close.label "Zatvoriť">

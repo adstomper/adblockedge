@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Filtrowe prawidło Adblock Plus přidać">
+<!ENTITY dialog.title "Filtrowe prawidło Adblock Edge přidać">
 <!ENTITY accept.label "Filter přidać">
 <!ENTITY advanced.label "Rozšěrjeny napohlad">
 <!ENTITY basic.label "Zakładny napohlad">
-<!ENTITY disabled.warning "Adblock Plus je tuchwilu znjemóžnjeny. Móžeće hišće filtry přidać, ale njebudu so nałožować, chibazo [link]zmóžnjeće Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge je tuchwilu znjemóžnjeny. Móžeće hišće filtry přidać, ale njebudu so nałožować, chibazo [link]zmóžnjeće Adblock Edge[/link].">
 <!ENTITY filter.label "Nowy filter:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Eksistowace filtry pokazać…">
@@ -13,8 +13,8 @@
 <!ENTITY type.whitelist.accesskey "u">
 <!ENTITY pattern.label "Muster pytać">
 <!ENTITY pattern.explanation "Muster móže dźěl adresy być; hwěžki (*) funguja jako zastupowace symbole. Filter budźe so jenož na adresy nałožować, kotrež podatemu mustrej wotpowěduja.">
-<!ENTITY regexp.warning "Muster, kotryž sće zapodał, budźe so jako regularny wuraz interpretować, kotryž njehodźi so přez Adblock Plus skutkownje předźěłać a móhł waš wobhladowak spomałšić. Jeli nochceće regularny wuraz wužiwać, přidajće hwěžku (*) ke kóncej mustra.">
-<!ENTITY shortpattern.warning "Muster, kotryž sće zapodał, je za optimowanje překrótko a móhł waš wobhladowak spomałšić. Poruča so, zo wubjerjeće dlěši znamješkowy rjećazk za tutón filter, zo byšće Adblock Plus dowolił, filter bóle skutkownje předźěłał.">
+<!ENTITY regexp.warning "Muster, kotryž sće zapodał, budźe so jako regularny wuraz interpretować, kotryž njehodźi so přez Adblock Edge skutkownje předźěłać a móhł waš wobhladowak spomałšić. Jeli nochceće regularny wuraz wužiwać, přidajće hwěžku (*) ke kóncej mustra.">
+<!ENTITY shortpattern.warning "Muster, kotryž sće zapodał, je za optimowanje překrótko a móhł waš wobhladowak spomałšić. Poruča so, zo wubjerjeće dlěši znamješkowy rjećazk za tutón filter, zo byšće Adblock Edge dowolił, filter bóle skutkownje předźěłał.">
 <!ENTITY match.warning "Muster, kotryž sće zapodał, wjace adresy njewotpowěduje, kotraž ma so blokować/do běłeje lisćiny přewzać a njezměje žadyn wuskutk na nju.">
 <!ENTITY custom.pattern.label "Swójski:">
 <!ENTITY custom.pattern.accesskey "S">

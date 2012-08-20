@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Estado:">
 <!ENTITY blocked.tooltip "Elementos bloqueados en esta página:">
 <!ENTITY filters.tooltip "Filtros más activos:">
-<!ENTITY menuitem.label "Preferencias de Adblock Plus">
+<!ENTITY menuitem.label "Preferencias de Adblock Edge">
 <!ENTITY menuitem.accesskey "P">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: bloquear imagen">
-<!ENTITY context.object.label "Adblock Plus: bloquear objeto">
-<!ENTITY context.frame.label "Adblock Plus: bloquear marco">
-<!ENTITY context.media.label "Adblock Plus: Bloquear audio/video">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: rehabilitar en esta página">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: bloquear imagen">
+<!ENTITY context.object.label "Adblock Edge: bloquear objeto">
+<!ENTITY context.frame.label "Adblock Edge: bloquear marco">
+<!ENTITY context.media.label "Adblock Edge: Bloquear audio/video">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: rehabilitar en esta página">
 <!ENTITY sidebar.title "Elementos bloqueables en la página actual">
 <!ENTITY sendReport.label "Informar de problemas en esta página">
 <!ENTITY sendReport.accesskey "r">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Deshabilitar en todos lados">
 <!ENTITY options.label "Opciones">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Contribuí a Adblock Plus">
+<!ENTITY contribute.label "Contribuí a Adblock Edge">
 <!ENTITY showintoolbar.label "Mostrar en la barra de herramientas">
 <!ENTITY showintoolbar.accesskey "h">
 <!ENTITY showinstatusbar.label "Mostrar en la barra de estado">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Veces usado">
 <!ENTITY counthits.accesskey "u">
-<!ENTITY sync.label "Sincronizar la configuración de Adblock Plus">
+<!ENTITY sync.label "Sincronizar la configuración de Adblock Edge">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Bloquear">
-<!ENTITY objecttab.tooltip "Clic acá para bloquear este objeto con Adblock Plus">
+<!ENTITY objecttab.tooltip "Clic acá para bloquear este objeto con Adblock Edge">

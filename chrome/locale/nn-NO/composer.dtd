@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Legg til regel for Adblock Plus filter">
+<!ENTITY dialog.title "Legg til regel for Adblock Edge filter">
 <!ENTITY accept.label "Legg til filter">
 <!ENTITY advanced.label "Avansert vising">
 <!ENTITY basic.label "Grunnleggjande vising">
-<!ENTITY disabled.warning "Adblock Plus er kopla ut. Du kan like vel leggje til filtre, men desse vil ikkje bli tekne i bruk dersom du ikkje [link]koplar inn Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge er kopla ut. Du kan like vel leggje til filtre, men desse vil ikkje bli tekne i bruk dersom du ikkje [link]koplar inn Adblock Edge[/link].">
 <!ENTITY filter.label "Nytt filter:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Syn filter...">

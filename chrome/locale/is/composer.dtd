@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Bæta við Adblock Plus síureglu">
+<!ENTITY dialog.title "Bæta við Adblock Edge síureglu">
 <!ENTITY accept.label "Bæta við síu">
 <!ENTITY advanced.label "Ítarleg sýn">
 <!ENTITY basic.label "Einföld sýn">
-<!ENTITY disabled.warning "Adblock Plus er óvirkt eins og er. Þú getur samt bætt við síum en síurnar munu ekki vera virkar nema þú [link]virkjir Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge er óvirkt eins og er. Þú getur samt bætt við síum en síurnar munu ekki vera virkar nema þú [link]virkjir Adblock Edge[/link].">
 <!ENTITY filter.label "Ný sía:">
 <!ENTITY filter.accesskey "s">
 <!ENTITY preferences.label "Sýna núverandi síur...">

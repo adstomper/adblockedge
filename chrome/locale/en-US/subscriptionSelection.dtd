@@ -1,4 +1,4 @@
-<!ENTITY dialog.title               "Add Adblock Plus filter subscription">
+<!ENTITY dialog.title               "Add Adblock Edge filter subscription">
 
 <!ENTITY subscriptionSelector.label "Please choose a filter subscription from the list:">
 
@@ -7,7 +7,7 @@
 
 <!ENTITY addSubscription.label      "Add subscription">
 
-<!ENTITY list.download.failed       "Adblock Plus failed to retrieve the list of subscriptions.">
+<!ENTITY list.download.failed       "Adblock Edge failed to retrieve the list of subscriptions.">
 <!ENTITY list.download.retry        "Try again">
 <!ENTITY list.download.website      "View website">
 

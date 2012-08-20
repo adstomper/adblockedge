@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Filtrowy abonement Adblock Plus přidać">
+<!ENTITY dialog.title "Filtrowy abonement Adblock Edge přidać">
 <!ENTITY subscriptionSelector.label "Prošu wubjerće filtrowy abonement z lisćiny:">
 <!ENTITY viewList.label "Filtry sej wobhladać">
 <!ENTITY visitHomepage.label "Startowu stronu wopytać">
 <!ENTITY addSubscription.label "Abonement přidać">
-<!ENTITY list.download.failed "Adblock Plus njemóžeše lisćiny abonementow wotwołać.">
+<!ENTITY list.download.failed "Adblock Edge njemóžeše lisćiny abonementow wotwołać.">
 <!ENTITY list.download.retry "Hišće raz spytać">
 <!ENTITY list.download.website "Websydło sej wobhladać">
 <!ENTITY fromWeb.description "Prošu wobkrućće, zo chceće tutón filtrowy abonement přidać. Móžeće titul abo městno abonementa změnić, prjedy hač jón přidaće.">

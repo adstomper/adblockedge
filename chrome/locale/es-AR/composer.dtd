@@ -2,7 +2,7 @@
 <!ENTITY accept.label "Agregar filtro">
 <!ENTITY advanced.label "Vista avanzada">
 <!ENTITY basic.label "Vista básica">
-<!ENTITY disabled.warning "Adblock Plus está deshabilitado. Podés seguir agregando filtros, pero no se aplicarán hasta que no actives los [link]filtros de Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge está deshabilitado. Podés seguir agregando filtros, pero no se aplicarán hasta que no actives los [link]filtros de Adblock Edge[/link].">
 <!ENTITY filter.label "Nuevo filtro:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Mostrar filtros existentes...">

@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "העדפות סינון Adblock Plus">
+<!ENTITY dialog.title "העדפות סינון Adblock Edge">
 <!ENTITY subscriptions.tab.label "הרשמות מסננים">
 <!ENTITY filters.tab.label "מסננים מותאמים">
 <!ENTITY addSubscription.label "הוספת הרשמת מסננים">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "הוספה">
 <!ENTITY addSubscriptionCancel.label "ביטול">
 <!ENTITY addSubscriptionOther.label "הוספת הרשמה אחרת">
-<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Adblock Plus לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
+<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Adblock Edge לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
 <!ENTITY subscription.homepage.label "עמוד בית">
 <!ENTITY subscription.external.label "התעדכן על ידי הרחבה אחרת">
 <!ENTITY subscription.source.label "רשימת מסננים">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "כשל, רשימת המסננים לא חוקית">
 <!ENTITY subscription.lastDownload.checksumMismatch "כשל, ביקורת הסיכום לתקינות לא התאימה בצורה טובה">
 <!ENTITY subscription.lastDownload.success "הצליח">
-<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Adblock Plus, צריך לשדרג לגרסה האחרונה של Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Adblock Edge, צריך לשדרג לגרסה האחרונה של Adblock Edge.">
 <!ENTITY subscription.disabledFilters.warning "כמה מהמסננים בהרשמה זאת מנוטרלים.">
 <!ENTITY subscription.disabledFilters.enable "אפשר מסננים מנוטרלים">
 <!ENTITY subscription.actions.label "פעולות">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "כל המסננים וההרשמות">
 <!ENTITY backup.custom.title "מסננים מותאמים בלבד">
 <!ENTITY backup.error "אירעה שגיאה ברשימת המסננים לקובץ. יש לוודא כי הקובץ לא מוגן לכתיבה או בשימוש על-ידי יישום אחר.">
-<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Adblock Plus?">
+<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Adblock Edge?">
 <!ENTITY restore.complete.warning "כל הגדרות המסננים שלך יוחלפו בקובץ הנבחר. האם להמשיך?">
 <!ENTITY restore.custom.warning "כל המסננים האישיים שלך יוחלפו בקובץ. האם להמשיך?">
-<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Adblock Plus. כדי לשדרג לגרסה האחרונה של Adblock Plus לפני שחזור מקובץ זה.">
+<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Adblock Edge. כדי לשדרג לגרסה האחרונה של Adblock Edge לפני שחזור מקובץ זה.">
 <!ENTITY find.label "חיפוש">
 <!ENTITY find.accesskey "ח">
 <!ENTITY close.label "סגירה">

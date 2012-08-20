@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Tambah peraturan penapis Adblock Plus">
+<!ENTITY dialog.title "Tambah peraturan penapis Adblock Edge">
 <!ENTITY accept.label "Tambah penapis">
 <!ENTITY advanced.label "Paparan mahir">
 <!ENTITY basic.label "Paparan biasa">
-<!ENTITY disabled.warning "Adblock Plus telah dinyahaktifkan. Anda masih boleh menambah penapis tetapi ia tidak akan aktif sehingga anda [link]aktifkan Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge telah dinyahaktifkan. Anda masih boleh menambah penapis tetapi ia tidak akan aktif sehingga anda [link]aktifkan Adblock Edge[/link].">
 <!ENTITY filter.label "Penapis baru:">
 <!ENTITY filter.accesskey "b">
 <!ENTITY preferences.label "Papar penapis sedia ada...">

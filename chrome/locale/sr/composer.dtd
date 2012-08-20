@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Додавање Adblock Plus филтера">
+<!ENTITY dialog.title "Додавање Adblock Edge филтера">
 <!ENTITY accept.label "Додај филтер">
 <!ENTITY advanced.label "Напредни изглед">
 <!ENTITY basic.label "Основни изглед">
-<!ENTITY disabled.warning "Adblock Plus је тренутно искључен. И даље можете додавати филтере, али ће они бити примењени тек по [link]укључивању Adblock Plus-а[/link].">
+<!ENTITY disabled.warning "Adblock Edge је тренутно искључен. И даље можете додавати филтере, али ће они бити примењени тек по [link]укључивању Adblock Edge-а[/link].">
 <!ENTITY filter.label "Нови филтер">
 <!ENTITY filter.accesskey "ф">
 <!ENTITY preferences.label "Прикажи постојеће филтере...">

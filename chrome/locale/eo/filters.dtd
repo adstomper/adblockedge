@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Filtrilaj agordoj de Adblock Plus">
+<!ENTITY dialog.title "Filtrilaj agordoj de Adblock Edge">
 <!ENTITY subscriptions.tab.label "Filtrilabonoj">
 <!ENTITY filters.tab.label "Propraj filtriloj">
 <!ENTITY addSubscription.label "Aldoni filtrilabonon">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Aldoni">
 <!ENTITY addSubscriptionCancel.label "Nuligi">
 <!ENTITY addSubscriptionOther.label "Aldoni alian abonon">
-<!ENTITY noSubscriptions.text "Vi ankoraŭ ne aldonis filtrilabonojn. Adblock Plus blokos enion sen filtriloj, bonvolu uzu &quot;Aldoni filtrilabonon&quot; por aldoni abonon.">
+<!ENTITY noSubscriptions.text "Vi ankoraŭ ne aldonis filtrilabonojn. Adblock Edge blokos enion sen filtriloj, bonvolu uzu &quot;Aldoni filtrilabonon&quot; por aldoni abonon.">
 <!ENTITY subscription.homepage.label "Hejmpaĝo">
 <!ENTITY subscription.external.label "Ĝisdatigita per alia etendaĵo">
 <!ENTITY subscription.source.label "Filtrila listo">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Malsukcesis, tio ne estas listo de validaj filtriloj">
 <!ENTITY subscription.lastDownload.checksumMismatch "Malsukcesis, kontrolsuma miskongruo">
 <!ENTITY subscription.lastDownload.success "Sukceso">
-<!ENTITY subscription.minVersion.warning "Ĉi tiu filtrilabono bezonas pli novan version de Adblock Plus, vi ĝisdatigu al la plej nova versio de Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Ĉi tiu filtrilabono bezonas pli novan version de Adblock Edge, vi ĝisdatigu al la plej nova versio de Adblock Edge.">
 <!ENTITY subscription.disabledFilters.warning "Kelkaj filtriloj en ĉi tiu abono estas malebligitaj.">
 <!ENTITY subscription.disabledFilters.enable "Ebligi malebligitajn filtrilojn">
 <!ENTITY subscription.actions.label "Agoj">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Ĉiuj filtriloj kaj abonoj">
 <!ENTITY backup.custom.title "Nur propraj filtriloj">
 <!ENTITY backup.error "Okazis eraro dum skribado de filtriloj en dosieron. Kontrolu, ke la dosiero ne estas kontraŭskribe protektita aŭ uzate per alia aplikaĵo.">
-<!ENTITY restore.error "La dosieraj datumoj ne povis traktitaj, ĉu tio eble ne estas sekurkopia dosiero de Adblock Plus?">
+<!ENTITY restore.error "La dosieraj datumoj ne povis traktitaj, ĉu tio eble ne estas sekurkopia dosiero de Adblock Edge?">
 <!ENTITY restore.complete.warning "Ĉiuj viaj filtrilaj agordoj estos anstataŭigataj per la enhavo de la elektita dosiero. Ĉu vi volas daŭrigi?">
 <!ENTITY restore.custom.warning "Ĉiuj viaj propraj filtriloj estos anstataŭigataj per la enhavo de la elektita dosiero. Ĉu vi volas daŭrigi?">
-<!ENTITY restore.minVersion.warning "Averto: la dosiero estas kreita per pli nova versio de Adblock Plus. Vi ĝisdatigu al la plej nova versio de Adblock Plus antaŭ ol vi restaŭri ion el ĉi tiu dosiero.">
+<!ENTITY restore.minVersion.warning "Averto: la dosiero estas kreita per pli nova versio de Adblock Edge. Vi ĝisdatigu al la plej nova versio de Adblock Edge antaŭ ol vi restaŭri ion el ĉi tiu dosiero.">
 <!ENTITY find.label "Serĉi">
 <!ENTITY find.accesskey "S">
 <!ENTITY close.label "Fermi">

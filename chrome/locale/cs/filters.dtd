@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Přidat">
 <!ENTITY addSubscriptionCancel.label "Zrušit">
 <!ENTITY addSubscriptionOther.label "Přidat další sadu cizích filtrů">
-<!ENTITY noSubscriptions.text "Zatím jste nezačali odebírat žádnou sadu cizích filtrů. Adblock Plus nebude blokovat nic bez nastavených filtrů, použijte prosím &quot;Přidat cizí filtry&quot;, abyste nějaké přidali.">
+<!ENTITY noSubscriptions.text "Zatím jste nezačali odebírat žádnou sadu cizích filtrů. Adblock Edge nebude blokovat nic bez nastavených filtrů, použijte prosím &quot;Přidat cizí filtry&quot;, abyste nějaké přidali.">
 <!ENTITY subscription.homepage.label "Domovská stránka">
 <!ENTITY subscription.external.label "Aktualizováno jiným rozšířením">
 <!ENTITY subscription.source.label "Seznam filtrů">
@@ -16,7 +16,7 @@
 <!ENTITY subscription.lastDownload.unknown "neznámo">
 <!ENTITY subscription.lastDownload.invalidURL "Chyba, toto je nekorektní adresa.">
 <!ENTITY subscription.lastDownload.connectionError "Chyba, nepodařilo se stáhnout soubor">
-<!ENTITY subscription.lastDownload.invalidData "Chyba, stažený soubor není souborem filtrů Adblock Plus">
+<!ENTITY subscription.lastDownload.invalidData "Chyba, stažený soubor není souborem filtrů Adblock Edge">
 <!ENTITY subscription.lastDownload.checksumMismatch "Chyba, neodpovídá kontrolní součet">
 <!ENTITY subscription.lastDownload.success "Úspěch">
 <!ENTITY subscription.minVersion.warning "Tato cizí sada filtrů vyžaduje novější verzi Adblocku Plus, měli byste jej aktualizovat na nejnovější verzi.">

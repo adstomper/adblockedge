@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus 过滤规则首选项">
+<!ENTITY dialog.title "Adblock Edge 过滤规则首选项">
 <!ENTITY subscriptions.tab.label "过滤规则订阅组">
 <!ENTITY filters.tab.label "自定义过滤规则">
 <!ENTITY addSubscription.label "添加过滤规则订阅组">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "取消">
 <!ENTITY addSubscriptionOther.label "添加其他过滤规则订阅组">
 <!ENTITY noSubscriptions.text "
-您还没有添加过滤规则订阅组。Adblock Plus 没有过滤规则将无法
+您还没有添加过滤规则订阅组。Adblock Edge 没有过滤规则将无法
 进行屏蔽，请使用 “添加过滤规则订阅组” 添加过滤规则。
 ">
 <!ENTITY subscription.homepage.label "主页">
@@ -22,7 +22,7 @@
 <!ENTITY subscription.lastDownload.invalidData "失败，不是有效的过滤规则列表">
 <!ENTITY subscription.lastDownload.checksumMismatch "失败，检验和不匹配">
 <!ENTITY subscription.lastDownload.success "成功">
-<!ENTITY subscription.minVersion.warning "该过滤规则订阅组需要新版本的 Adblock Plus，您应该更新至最新的 Adblock Plus。">
+<!ENTITY subscription.minVersion.warning "该过滤规则订阅组需要新版本的 Adblock Edge，您应该更新至最新的 Adblock Edge。">
 <!ENTITY subscription.disabledFilters.warning "该过滤规则订阅组中的某些过滤规则被禁用。">
 <!ENTITY subscription.disabledFilters.enable "启用已禁用的过滤规则">
 <!ENTITY subscription.actions.label "动作">
@@ -83,10 +83,10 @@
 <!ENTITY backup.complete.title "所有订阅组和自定义规则">
 <!ENTITY backup.custom.title "仅自定义过滤规则">
 <!ENTITY backup.error "将过滤规则写入文件时发生错误。请确认该文件没有写保护或者正在被其他程序使用。">
-<!ENTITY restore.error "无法处理该文件，可能该文件不是 Adblock Plus 备份文件？">
+<!ENTITY restore.error "无法处理该文件，可能该文件不是 Adblock Edge 备份文件？">
 <!ENTITY restore.complete.warning "您所有的过滤规则参数将被选择的文件中的内容所替代。您是否继续？">
 <!ENTITY restore.custom.warning "您所有的自定义规则将被选择的文件中的内容所替代。您是否继续？">
-<!ENTITY restore.minVersion.warning "警告：该文件由新版本的 Adblock Plus 创建。您应该先更新至最新版本的 Adblock Plus 然后再还原该文件。">
+<!ENTITY restore.minVersion.warning "警告：该文件由新版本的 Adblock Edge 创建。您应该先更新至最新版本的 Adblock Edge 然后再还原该文件。">
 <!ENTITY find.label "查找">
 <!ENTITY find.accesskey "n">
 <!ENTITY close.label "关闭">

@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Foegje Adblock Plus filterrigel ta">
+<!ENTITY dialog.title "Foegje Adblock Edge filterrigel ta">
 <!ENTITY accept.label "Filter tafoegje">
 <!ENTITY advanced.label "Avansearre byld">
 <!ENTITY basic.label "Basisbyld">
-<!ENTITY disabled.warning "Adblock Plus is op dit stuit útskeakele. Jo kinne noch hieltyd filters tafoegje, mar dy sille net earder aktyf wêze as jo [link]Adblock Plus ynskeakelje[/link].">
+<!ENTITY disabled.warning "Adblock Edge is op dit stuit útskeakele. Jo kinne noch hieltyd filters tafoegje, mar dy sille net earder aktyf wêze as jo [link]Adblock Edge ynskeakelje[/link].">
 <!ENTITY filter.label "Nij filter:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Toan besteande filters...">

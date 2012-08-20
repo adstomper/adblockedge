@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Preferințe filtre Adblock Plus">
+<!ENTITY dialog.title "Preferințe filtre Adblock Edge">
 <!ENTITY subscriptions.tab.label "Abonamente filtre">
 <!ENTITY filters.tab.label "Filtre proprii">
 <!ENTITY addSubscription.label "Adaugă abonament filtru">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Adaugă">
 <!ENTITY addSubscriptionCancel.label "Anulează">
 <!ENTITY addSubscriptionOther.label "Adaugă alt abonament">
-<!ENTITY noSubscriptions.text "Nu aţi adăugat nici un abonament de filtre. Adblock Plus nu blochează nimic dacă nu are filtre. Puteţi folosi butonul Adaugă abonament filtre pentru a vă abona la câteva liste de filtre.">
+<!ENTITY noSubscriptions.text "Nu aţi adăugat nici un abonament de filtre. Adblock Edge nu blochează nimic dacă nu are filtre. Puteţi folosi butonul Adaugă abonament filtre pentru a vă abona la câteva liste de filtre.">
 <!ENTITY subscription.homepage.label "Pagina de start">
 <!ENTITY subscription.external.label "Actualizat de altă extensie">
 <!ENTITY subscription.source.label "Listă de filtre">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Eşuat, lista nu este validă">
 <!ENTITY subscription.lastDownload.checksumMismatch "Eşuat, suma de control nu se potriveşte.">
 <!ENTITY subscription.lastDownload.success "Succes">
-<!ENTITY subscription.minVersion.warning "Acest abonament necesită o versiune mai nouă de Adblock Plus. Se recomandă utilizarea celei mai noi versiuni.">
+<!ENTITY subscription.minVersion.warning "Acest abonament necesită o versiune mai nouă de Adblock Edge. Se recomandă utilizarea celei mai noi versiuni.">
 <!ENTITY subscription.disabledFilters.warning "Unele filtre din acest abonament sunt dezactivate.">
 <!ENTITY subscription.disabledFilters.enable "Activează filtrele inactive">
 <!ENTITY subscription.actions.label "Acțiuni">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Toate filtrele și abonamentele">
 <!ENTITY backup.custom.title "Doar filtre proprii">
 <!ENTITY backup.error "O eroare a apărut la scrierea fişierului. Asiguraţi-vă că fişierul nu este protejat la scriere sau folosit de către altă aplicaţie.">
-<!ENTITY restore.error "Datele din fişier nu pot fi folosite. Verificaţi dacă fişierul a fost într-adevăr create de către Adblock Plus.">
+<!ENTITY restore.error "Datele din fişier nu pot fi folosite. Verificaţi dacă fişierul a fost într-adevăr create de către Adblock Edge.">
 <!ENTITY restore.complete.warning "Toate opţiunile filtrelor vor fi înlocuite de către conţinutul fişierului ales. Doriţi să continuaţi?">
 <!ENTITY restore.custom.warning "Toate filtrele proprii vor fi înlocuite de către conţinutul fişierului ales. Doriţi să continuaţi?">
-<!ENTITY restore.minVersion.warning "Avertisment: acest fişier a fost creat de către o versiune mai nouă de Adblock Plus. Se recomandă utilizarea celei mai noi versiuni.">
+<!ENTITY restore.minVersion.warning "Avertisment: acest fişier a fost creat de către o versiune mai nouă de Adblock Edge. Se recomandă utilizarea celei mai noi versiuni.">
 <!ENTITY find.label "Caută">
 <!ENTITY find.accesskey "C">
 <!ENTITY close.label "Închide">

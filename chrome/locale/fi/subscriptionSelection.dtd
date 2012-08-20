@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Lisää Adblock Plus -suodatintilaus">
+<!ENTITY dialog.title "Lisää Adblock Edge -suodatintilaus">
 <!ENTITY subscriptionSelector.label "Valitse suodatintilaus listasta:">
 <!ENTITY viewList.label "Näytä suodattimet">
 <!ENTITY visitHomepage.label "Vieraile kotisivulla">
 <!ENTITY addSubscription.label "Lisää suodatintilaus">
-<!ENTITY list.download.failed "Adblock Plus ei kyennyt hakemaan suodatinlistaa.">
+<!ENTITY list.download.failed "Adblock Edge ei kyennyt hakemaan suodatinlistaa.">
 <!ENTITY list.download.retry "Kokeile uudestaan">
 <!ENTITY list.download.website "Näytä verkkosivu">
 <!ENTITY fromWeb.description "Varmista tämän suodatintilauksen lisääminen. Ennen tilauksen lisäämistä voit muuttaa tilauksen nimen ja sijainnin.">

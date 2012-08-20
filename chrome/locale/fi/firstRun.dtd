@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Adblock Plussan asennus on valmis">
+<!ENTITY dialog.title "Adblock Edgesan asennus on valmis">
 <!ENTITY confirmation "
- Kiitos Adblock Plussan asentamisesta. Mainokset estetään tästä lähtien.
+ Kiitos Adblock Edgesan asentamisesta. Mainokset estetään tästä lähtien.
  Nauti!">
 <!ENTITY advancedSection "Lisäasetukset">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "Ei suodatinlistaa">
 <!ENTITY visitHomepage.label "Vieraile kotisivuilla">
 <!ENTITY acceptableAds2 "
- Adblock Plus on aseteltu sallimaan osa ei-häiritsevästä mainonnasta.
+ Adblock Edge on aseteltu sallimaan osa ei-häiritsevästä mainonnasta.
 ">
 <!ENTITY viewList.label "Näytä lista">
 <!ENTITY readMore.label "Lue tästä lisää">

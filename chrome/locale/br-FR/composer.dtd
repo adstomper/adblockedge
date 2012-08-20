@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Ouzhpenn ur reolenn silabl Adblock Plus">
+<!ENTITY dialog.title "Ouzhpenn ur reolenn silabl Adblock Edge">
 <!ENTITY accept.label "Ouzhpenn ar sil">
 <!ENTITY advanced.label "Diskouez ouzhpenn">
 <!ENTITY basic.label "Diskouez a-reizh">
-<!ENTITY disabled.warning "Diweredekaet eo Adblock Plus a-vremañ. Gallout a rit kenderc'hel ouzhpenn siloù met ne labourint ket kement ne vo ket gweredekaet [link]Adblock Plus[/link].">
+<!ENTITY disabled.warning "Diweredekaet eo Adblock Edge a-vremañ. Gallout a rit kenderc'hel ouzhpenn siloù met ne labourint ket kement ne vo ket gweredekaet [link]Adblock Edge[/link].">
 <!ENTITY filter.label "Sil nevez :">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Diskouez ar siloù a zo...">

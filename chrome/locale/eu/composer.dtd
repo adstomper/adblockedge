@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Gehitu Adblock Plus iragazki araua">
+<!ENTITY dialog.title "Gehitu Adblock Edge iragazki araua">
 <!ENTITY accept.label "Gehitu iragazkia">
 <!ENTITY advanced.label "Ikuspegi aurreratua">
 <!ENTITY basic.label "Oinarrizko ikuspegia">
-<!ENTITY disabled.warning "Adblock plus orain desgaituta dago. Iragazkiak gehitu ditzakezu, baina ez dira aplikatuko ez baduzu [link]Adblock Plus gaitzen[/link].">
+<!ENTITY disabled.warning "Adblock Edge orain desgaituta dago. Iragazkiak gehitu ditzakezu, baina ez dira aplikatuko ez baduzu [link]Adblock Edge gaitzen[/link].">
 <!ENTITY filter.label "Iragazki berria:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Erakutsi dauden iragazkiak...">
@@ -13,8 +13,8 @@
 <!ENTITY type.whitelist.accesskey "x">
 <!ENTITY pattern.label "Eredua bilatu">
 <!ENTITY pattern.explanation "Eredua helbidearen edozein atal izan daiteke; asteriskoa (*) komodin bezala erabili daiteke. Iragazkia soilik aplikatuko da ereduarekin bat datozen helbideetan.">
-<!ENTITY regexp.warning "Sartu duzun eredua espresio erregulartzat hartuko da, Adblock Plusek ezin ditu azkar prozesatu eta honek zure nabigazioa moteldu dezake. Zure asmoa ez bazen espresio erregular bat erabiltzea, gehitu asterisko bat (*) ereduaren bukaeran.">
-<!ENTITY shortpattern.warning "Sartu duzun eredua laburregia da optimizatu ahal izateko eta zure nabigazioa moteldu dezake. Testu kate luzeago bat aukeratzea aholkatzen da Adblock Plusek azkarrago prozesatu dezan.">
+<!ENTITY regexp.warning "Sartu duzun eredua espresio erregulartzat hartuko da, Adblock Edgeek ezin ditu azkar prozesatu eta honek zure nabigazioa moteldu dezake. Zure asmoa ez bazen espresio erregular bat erabiltzea, gehitu asterisko bat (*) ereduaren bukaeran.">
+<!ENTITY shortpattern.warning "Sartu duzun eredua laburregia da optimizatu ahal izateko eta zure nabigazioa moteldu dezake. Testu kate luzeago bat aukeratzea aholkatzen da Adblock Edgeek azkarrago prozesatu dezan.">
 <!ENTITY match.warning "Sartu duzun eredua ez du jada blokeatu/desblokeatu nahi duzun helbidearekin bat egiten eta ez du inolako eraginik izango.">
 <!ENTITY custom.pattern.label "Pertsonala:">
 <!ENTITY custom.pattern.accesskey "C">

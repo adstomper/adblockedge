@@ -1,9 +1,9 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Zablokowane elementy na tej stronie:">
 <!ENTITY filters.tooltip "Najczęściej stosowane filtry:">
-<!ENTITY menuitem.label "Adblock Plus - ustawienia">
+<!ENTITY menuitem.label "Adblock Edge - ustawienia">
 <!ENTITY menuitem.accesskey "A">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Zablokuj obrazek">
 <!ENTITY context.object.label "Zablokuj obiekt">
 <!ENTITY context.frame.label "Zablokuj ramkę">
@@ -23,12 +23,12 @@
 <!ENTITY disable.label "Wyłącz wszędzie">
 <!ENTITY options.label "Opcje">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Wspomóż Adblock Plusa">
-<!ENTITY showintoolbar.label "Wyświetlaj ikonę Adblock Plusa na pasku narzędzi">
+<!ENTITY contribute.label "Wspomóż Adblock Edgea">
+<!ENTITY showintoolbar.label "Wyświetlaj ikonę Adblock Edgea na pasku narzędzi">
 <!ENTITY showintoolbar.accesskey "R">
-<!ENTITY showinstatusbar.label "Wyświetlaj ikonę Adblock Plusa na pasku stanu">
+<!ENTITY showinstatusbar.label "Wyświetlaj ikonę Adblock Edgea na pasku stanu">
 <!ENTITY showinstatusbar.accesskey "W">
-<!ENTITY showinaddonbar.label "Wyświetlaj ikonę Adblock Plusa na pasku dodatków">
+<!ENTITY showinaddonbar.label "Wyświetlaj ikonę Adblock Edgea na pasku dodatków">
 <!ENTITY showinaddonbar.accesskey "T">
 <!ENTITY objecttabs.label "Wyświetlaj przyciski blokowania na elementach Flasha i Javy">
 <!ENTITY objecttabs.accesskey "K">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "M">
 <!ENTITY counthits.label "Zliczaj użycie filtra">
 <!ENTITY counthits.accesskey "C">
-<!ENTITY sync.label "Synchronizuj ustawienia Adblock Plusa">
+<!ENTITY sync.label "Synchronizuj ustawienia Adblock Edgea">
 <!ENTITY sync.accesskey "S">
 <!ENTITY objecttab.title "Zablokuj">
 <!ENTITY objecttab.tooltip "Kliknij tutaj, aby zablokować ten obiekt">

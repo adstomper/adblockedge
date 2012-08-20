@@ -2,36 +2,36 @@
 <!ENTITY privacyPolicy.label            "Правила конфиденциальности">
 
 <!ENTITY dataCollector.heading          "Добро пожаловать в мастер отправки сообщения">
-<!ENTITY dataCollector.description      "Пожалуйста, подождите несколько секунд, пока Adblock Plus собирает нужные данные.">
+<!ENTITY dataCollector.description      "Пожалуйста, подождите несколько секунд, пока Adblock Edge собирает нужные данные.">
 
 <!-- Please keep typeSelector.heading short - it is shown in the progress bar, not much space there -->
 <!ENTITY typeSelector.heading           "Выбор типа проблемы">
 
 <!ENTITY typeSelector.description       "
-  Мастер поможет вам отправить сообщение о проблеме с Adblock Plus.
+  Мастер поможет вам отправить сообщение о проблеме с Adblock Edge.
   Пожалуйста, укажите на этой странице тип проблемы, с которой вы столкнулись:
 ">
 
-<!ENTITY typeSelector.falsePositive.label       "Adblock Plus блокирует слишком многое">
+<!ENTITY typeSelector.falsePositive.label       "Adblock Edge блокирует слишком многое">
 <!ENTITY typeSelector.falsePositive.accesskey   "м">
 <!ENTITY typeSelector.falsePositive.description "
   Если на странице отсутствуют важные части содержимого, а также если она
   отображается или функционирует неправильно, то следует выбрать этот вариант.
-  Вы можете проверить, является ли Adblock Plus источником проблемы, временно
+  Вы можете проверить, является ли Adblock Edge источником проблемы, временно
   отключив его.
 ">
 
-<!ENTITY typeSelector.falseNegative.label       "Adblock Plus не блокирует рекламу">
+<!ENTITY typeSelector.falseNegative.label       "Adblock Edge не блокирует рекламу">
 <!ENTITY typeSelector.falseNegative.accesskey   "р">
 <!ENTITY typeSelector.falseNegative.description "
-  Если несмотря на то, что Adblock Plus включен, на странице отображается реклама,
+  Если несмотря на то, что Adblock Edge включен, на странице отображается реклама,
   то следует выбрать этот вариант.
 ">
 
 <!ENTITY typeSelector.other.label               "Другая проблема">
 <!ENTITY typeSelector.other.accesskey           "Д">
 <!ENTITY typeSelector.other.description         "
-  Если вы подозреваете, что проблема в самом расширении Adblock Plus,
+  Если вы подозреваете, что проблема в самом расширении Adblock Edge,
   а не в его фильтрах, то выберите этот вариант.
 ">
 
@@ -41,7 +41,7 @@
 <!ENTITY recentReports.clear.accesskey          "л">
 
 <!ENTITY update.inProgress.description          "
-  Adblock Plus должен обновить ваши подписки на фильтры, чтобы удостовериться,
+  Adblock Edge должен обновить ваши подписки на фильтры, чтобы удостовериться,
   что проблема еще не была решена. Подождите, пожалуйста...
 ">
 
@@ -60,25 +60,25 @@
 <!ENTITY update.start.label                     "Обновить подписки">
 
 <!ENTITY issues.description                     "
-  Adblock Plus обнаружил проблемы в ваших настройках, которые, возможно, вызвали
+  Adblock Edge обнаружил проблемы в ваших настройках, которые, возможно, вызвали
   данную проблему или усложнят рассмотрение вашего сообщения.
 ">
 
 <!ENTITY issues.whitelist.description           "
-  Adblock Plus отключен на странице, о которой вы собираетесь сообщить. Пожалуйста,
-  включите Adblock Plus и обновите страницу, прежде чем посылать сообщение.
+  Adblock Edge отключен на странице, о которой вы собираетесь сообщить. Пожалуйста,
+  включите Adblock Edge и обновите страницу, прежде чем посылать сообщение.
   Это поможет рассмотрению вашего сообщения.
 ">
-<!ENTITY issues.whitelist.remove.label          "Включить Adblock Plus на этой странице">
+<!ENTITY issues.whitelist.remove.label          "Включить Adblock Edge на этой странице">
 
 <!ENTITY issues.disabled.description            "
-  Adblock Plus отключен и ничего не блокирует в этом состоянии.
+  Adblock Edge отключен и ничего не блокирует в этом состоянии.
 ">
-<!ENTITY issues.disabled.enable.label           "Включить Adblock Plus">
+<!ENTITY issues.disabled.enable.label           "Включить Adblock Edge">
 
 <!ENTITY issues.nofilters.description           "
-  Adblock Plus ничего не блокирует на этой странице. Скорее всего, проблема,
-  которую вы наблюдаете, не связана с Adblock Plus.
+  Adblock Edge ничего не блокирует на этой странице. Скорее всего, проблема,
+  которую вы наблюдаете, не связана с Adblock Edge.
 ">
 
 <!ENTITY issues.nosubscriptions.description     "
@@ -120,9 +120,9 @@
 ">
 
 <!ENTITY typeWarning.description                "
-  Вы указали, что хотите сообщить о проблеме в Adblock Plus, а не в его фильтрах.
+  Вы указали, что хотите сообщить о проблеме в Adblock Edge, а не в его фильтрах.
   Пожалуйста, учтите, что о таких проблемах лучше сообщать на
-  [link]форуме Adblock Plus[/link]. Мастер отправки сообщения следует
+  [link]форуме Adblock Edge[/link]. Мастер отправки сообщения следует
   использовать лишь для добавления информации к обсуждению на форуме, поскольку
   никто не увидит ваше сообщение, если не оставить на него ссылку. Вы
   получите автоматически созданную ссылку после отправки сообщения.
@@ -181,7 +181,7 @@
 
 <!-- Please keep sendPage.heading short - it is shown in the progress bar, not much space there -->
 <!ENTITY sendPage.heading             "Отправка сообщения">
-<!ENTITY sendPage.waitMessage         "Пожалуйста, подождите, пока Adblock Plus отправляет ваше сообщение.">
+<!ENTITY sendPage.waitMessage         "Пожалуйста, подождите, пока Adblock Edge отправляет ваше сообщение.">
 <!ENTITY sendPage.confirmation        "Сообщение отправлено и сохранено. Вы можете просмотреть его по следующей ссылке:">
 <!ENTITY sendPage.knownIssue          "Возможно, что проблема, о которой вы сообщили, уже известна. Дополнительная информация:">
 
@@ -189,7 +189,7 @@
 <!ENTITY sendPage.errorMessage        "
   Ошибка отправки сообщения: «?1?». Пожалуйста,
   удостоверьтесь, что ваше соединение с сетью Интернет работает, и попробуйте еще раз.
-  Если проблема остается, обратитесь в [link]форум Adblock Plus[/link].
+  Если проблема остается, обратитесь в [link]форум Adblock Edge[/link].
 ">
 <!ENTITY sendPage.retry.label         "Отправить еще раз">
 

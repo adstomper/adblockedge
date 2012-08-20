@@ -1,34 +1,34 @@
 <!ENTITY wizard.title "问题报告">
 <!ENTITY privacyPolicy.label "隐私策略">
 <!ENTITY dataCollector.heading "欢迎使用问题报告系统">
-<!ENTITY dataCollector.description "Adblock Plus 收集所需数据, 请稍等片刻.">
+<!ENTITY dataCollector.description "Adblock Edge 收集所需数据, 请稍等片刻.">
 <!ENTITY typeSelector.heading "选择问题类型">
-<!ENTITY typeSelector.description "本窗口将通过一系列的步骤来引导您提交 Adblock Plus 问题报告。
+<!ENTITY typeSelector.description "本窗口将通过一系列的步骤来引导您提交 Adblock Edge 问题报告。
 首先，请选择本页上出现的问题类型:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus 屏蔽了太多元素">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge 屏蔽了太多元素">
 <!ENTITY typeSelector.falsePositive.accesskey "m">
 <!ENTITY typeSelector.falsePositive.description "如果页面缺少重要内容、显示不正常或者功能不正常，请选择此选项。
-您可以通过临时禁用 Adblock Plus 来检测问题是否为 Adblock Plus 所致。">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus 无法屏蔽广告">
+您可以通过临时禁用 Adblock Edge 来检测问题是否为 Adblock Edge 所致。">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge 无法屏蔽广告">
 <!ENTITY typeSelector.falseNegative.accesskey "v">
-<!ENTITY typeSelector.falseNegative.description "如果 Adblock Plus 处于启用状态，却仍然有显示广告，请选择此选项。">
+<!ENTITY typeSelector.falseNegative.description "如果 Adblock Edge 处于启用状态，却仍然有显示广告，请选择此选项。">
 <!ENTITY typeSelector.other.label "其他问题">
 <!ENTITY typeSelector.other.accesskey "t">
-<!ENTITY typeSelector.other.description "如果您怀疑问题出在 Adblock Plus 自身而不是过滤规则，请选择此选项。">
+<!ENTITY typeSelector.other.description "如果您怀疑问题出在 Adblock Edge 自身而不是过滤规则，请选择此选项。">
 <!ENTITY showRecentReports.label "显示目前已提交的报告">
 <!ENTITY recentReports.label "您目前已提交的报告">
 <!ENTITY recentReports.clear.label "移除所有报告">
 <!ENTITY recentReports.clear.accesskey "R">
-<!ENTITY update.inProgress.description "Adblock Plus 需要更新您的过滤规则订阅组以确保问题已被解决。请稍候……">
+<!ENTITY update.inProgress.description "Adblock Edge 需要更新您的过滤规则订阅组以确保问题已被解决。请稍候……">
 <!ENTITY update.fixed.description "更新的过滤规则订阅组应该解决了您报告的问题。请重新载入页面并重试，如果问题仍然存在，请您继续报告问题。">
 <!ENTITY outdatedSubscriptions.description "如下过滤规则订阅组已经至少两周没有更新了。请在提交报告之前先更新这些过滤规则订阅组，也许问题已经解决。">
 <!ENTITY update.start.label "现在开始更新">
-<!ENTITY issues.description "Adblock Plus 已经检测出您的设置可能导致该问题或致使报告难于调研。">
-<!ENTITY issues.whitelist.description "Adblock Plus 在您正在报告的页面上是禁用的。请在提交报告来帮助调研该问题之前重新启用 Adblock Plus 并重新载入该页面。">
-<!ENTITY issues.whitelist.remove.label "在该页上重新启用 Adblock Plus">
-<!ENTITY issues.disabled.description "Adblock Plus 已禁用，当前状态下 Adblock Plus 不会屏蔽任何元素。">
-<!ENTITY issues.disabled.enable.label "启用 Adblock Plus">
-<!ENTITY issues.nofilters.description "Adblock Plus 在当前页面上未屏蔽任何元素。您遇到的问题很可能与 Adblock Plus 无关。">
+<!ENTITY issues.description "Adblock Edge 已经检测出您的设置可能导致该问题或致使报告难于调研。">
+<!ENTITY issues.whitelist.description "Adblock Edge 在您正在报告的页面上是禁用的。请在提交报告来帮助调研该问题之前重新启用 Adblock Edge 并重新载入该页面。">
+<!ENTITY issues.whitelist.remove.label "在该页上重新启用 Adblock Edge">
+<!ENTITY issues.disabled.description "Adblock Edge 已禁用，当前状态下 Adblock Edge 不会屏蔽任何元素。">
+<!ENTITY issues.disabled.enable.label "启用 Adblock Edge">
+<!ENTITY issues.nofilters.description "Adblock Edge 在当前页面上未屏蔽任何元素。您遇到的问题很可能与 Adblock Edge 无关。">
 <!ENTITY issues.nosubscriptions.description "您不能显示已订阅的任何预置过滤规则列表。">
 <!ENTITY issues.nosubscriptions.add.label "添加过滤规则订阅组">
 <!ENTITY issues.subscriptionCount.description "您有太多的过滤规则订阅组。我们不推荐使用过多的过滤规则订阅组，因为这可能会带来很多问题。
@@ -46,8 +46,8 @@
 <!ENTITY issues.override.accesskey "c">
 <!ENTITY issues.change.description "您的设置已更改。请重新载入页面来测试
 更改，如果问题依旧没有解决请提交报告。">
-<!ENTITY typeWarning.description "您已经明确您想要报告 Adblock Plus 的通用问题而不是过滤规则的问题。
-请注意这类问题最好报告至 [link]Adblock Plus 论坛[/link]。您应该仅仅使用
+<!ENTITY typeWarning.description "您已经明确您想要报告 Adblock Edge 的通用问题而不是过滤规则的问题。
+请注意这类问题最好报告至 [link]Adblock Edge 论坛[/link]。您应该仅仅使用
 问题报告系统来补充一个存在的讨论，如果您不提供链接，很可能没人会
 注意到您的报告。提交报告之后会提供给您自动创建的链接。">
 <!ENTITY typeWarning.override.label "我了解并仍然希望提交报告">
@@ -88,12 +88,12 @@
 <!ENTITY data.label "报告数据:">
 <!ENTITY data.accesskey "p">
 <!ENTITY sendPage.heading "发送报告">
-<!ENTITY sendPage.waitMessage "Adblock Plus 正在提交您的报告，请稍等。">
+<!ENTITY sendPage.waitMessage "Adblock Edge 正在提交您的报告，请稍等。">
 <!ENTITY sendPage.confirmation "您的报告已保存。您可以通过如下地址访问:">
 <!ENTITY sendPage.knownIssue "您提交的问题可能是个已知问题。详情:">
 <!ENTITY sendPage.errorMessage "
 发送报告失败，错误码 &quot;?1?&quot;。请确保您已连接互联网并重试。
-如果问题依旧，请到 [link]Adblock Plus 论坛[/link]寻求帮助。
+如果问题依旧，请到 [link]Adblock Edge 论坛[/link]寻求帮助。
 ">
 <!ENTITY sendPage.retry.label "再次发送">
 <!ENTITY copyLink.label "复制报告链接">

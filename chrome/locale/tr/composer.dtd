@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Adblock Plus süzgeç kuralı ekle">
+<!ENTITY dialog.title "Adblock Edge süzgeç kuralı ekle">
 <!ENTITY accept.label "Süzgeç ekle">
 <!ENTITY advanced.label "Gelişmiş görünüm">
 <!ENTITY basic.label "Temel görünüm">
-<!ENTITY disabled.warning "Adblock Plus şu an devre dışı. Yine de süzgeç ekleyebilirsiniz, ancak bunlar [link]Adblock Plus etkinleştirilene kadar[/link]uygulanmayacaktır.">
+<!ENTITY disabled.warning "Adblock Edge şu an devre dışı. Yine de süzgeç ekleyebilirsiniz, ancak bunlar [link]Adblock Edge etkinleştirilene kadar[/link]uygulanmayacaktır.">
 <!ENTITY filter.label "Yeni süzgeç:">
 <!ENTITY filter.accesskey "y">
 <!ENTITY preferences.label "Mevcut süzgeçleri göster...">

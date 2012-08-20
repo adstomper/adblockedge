@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Помилка, не список фільтрів">
 <!ENTITY subscription.lastDownload.checksumMismatch "Помилка, не збіглась контрольна сума">
 <!ENTITY subscription.lastDownload.success "Успіх">
-<!ENTITY subscription.minVersion.warning "Ця фільтрова підписка потребує новішої версії Adblock Plus. Вам слід оновитись до останньої версії Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Ця фільтрова підписка потребує новішої версії Adblock Edge. Вам слід оновитись до останньої версії Adblock Edge.">
 <!ENTITY subscription.disabledFilters.warning "Деякі фільтри у цій підписці вимкнено.">
 <!ENTITY subscription.disabledFilters.enable "Увімкнути вимкнені фільтри">
 <!ENTITY subscription.actions.label "Дії">
@@ -79,7 +79,7 @@
 <!ENTITY restore.error "Дані з файла неможливо обробити — може, це не є Адблоківська резервна копія?">
 <!ENTITY restore.complete.warning "Всі ваші налаштування фільтрів будуть замінені вмістом вибраного файла. Продовжити?">
 <!ENTITY restore.custom.warning "Всі ваші власні фільтри будуть замінені вмістом вибраного файла. Продовжити?">
-<!ENTITY restore.minVersion.warning "Увага: файл було створено новішою версією Adblock Plus.Вам слід оновити Adblock Plus до останньої версії перш ніж відновлюватись з цього файла.">
+<!ENTITY restore.minVersion.warning "Увага: файл було створено новішою версією Adblock Edge.Вам слід оновити Adblock Edge до останньої версії перш ніж відновлюватись з цього файла.">
 <!ENTITY find.label "Знайти фільтр">
 <!ENTITY find.accesskey "н">
 <!ENTITY close.label "Закрити">

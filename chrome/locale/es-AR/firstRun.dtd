@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Instalación de Adblock Plus completa">
+<!ENTITY dialog.title "Instalación de Adblock Edge completa">
 <!ENTITY confirmation "
- Gracias por instalar Adblock Plus. A partir de este momento, las publicidades serán bloqueadas.
+ Gracias por instalar Adblock Edge. A partir de este momento, las publicidades serán bloqueadas.
  ¡A disfrutar!">
 <!ENTITY advancedSection "Opciones avanzadas">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "Sin lista de filtros">
 <!ENTITY visitHomepage.label "Visitar la página web de la lista">
 <!ENTITY acceptableAds2 "
- Adblock Plus fue configurado para permitir publicidad no hostigadora.
+ Adblock Edge fue configurado para permitir publicidad no hostigadora.
 ">
 <!ENTITY viewList.label "Ver lista">
 <!ENTITY readMore.label "Leer más acerca de esto">

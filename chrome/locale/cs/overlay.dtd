@@ -1,15 +1,15 @@
 <!ENTITY status.tooltip "Stav:">
 <!ENTITY blocked.tooltip "Blokované prvky na této stránce:">
 <!ENTITY filters.tooltip "Nejúčinnější filtry:">
-<!ENTITY menuitem.label "Předvolby Adblock Plus">
+<!ENTITY menuitem.label "Předvolby Adblock Edge">
 <!ENTITY menuitem.accesskey "B">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Blokovat obrázek">
 <!ENTITY context.object.label "Blokovat objekt">
 <!ENTITY context.frame.label "Blokovat rámec">
-<!ENTITY context.media.label "Adblock Plus: Blokovat audio/video">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Znovu povolit na této stránce">
-<!ENTITY sidebar.title "Adblock Plus: Blokovatelné objekty na zobrazené stránce">
+<!ENTITY context.media.label "Adblock Edge: Blokovat audio/video">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Znovu povolit na této stránce">
+<!ENTITY sidebar.title "Adblock Edge: Blokovatelné objekty na zobrazené stránce">
 <!ENTITY sendReport.label "Nahlásit problém na této stránce">
 <!ENTITY sendReport.accesskey "N">
 <!ENTITY filters.label "Předvolby filtrů">
@@ -39,4 +39,4 @@
 <!ENTITY sync.label "Nastavení synchronizace Adblocku Plus">
 <!ENTITY sync.accesskey "s">
 <!ENTITY objecttab.title "Blokovat">
-<!ENTITY objecttab.tooltip "Klepněte zde pro blokování tohoto objektu pomocí Adblock Plus">
+<!ENTITY objecttab.tooltip "Klepněte zde pro blokování tohoto objektu pomocí Adblock Edge">

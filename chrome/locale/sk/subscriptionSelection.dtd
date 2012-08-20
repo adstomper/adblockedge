@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Odoberanie Add Adblock Plus filtrov">
+<!ENTITY dialog.title "Odoberanie Add Adblock Edge filtrov">
 <!ENTITY subscriptionSelector.label "Prosím, zvoľte odber zo zoznamu:">
 <!ENTITY viewList.label "Zobraziť filtre">
 <!ENTITY visitHomepage.label "Navštíviť domovskú stránku">
 <!ENTITY addSubscription.label "Pridať odber">
-<!ENTITY list.download.failed "Adblock Plus zlyhal pri získavaní zoznamu odberov.">
+<!ENTITY list.download.failed "Adblock Edge zlyhal pri získavaní zoznamu odberov.">
 <!ENTITY list.download.retry "Skúsiť znova">
 <!ENTITY list.download.website "Zobraziť webovú stránku">
 <!ENTITY fromWeb.description "Prosím, potvrďte, že chcete pridať tento filter odberu.">

@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Adicionar inscrição de filtros do Adblock Plus">
+<!ENTITY dialog.title "Adicionar inscrição de filtros do Adblock Edge">
 <!ENTITY subscriptionSelector.label "Por favor, escolha uma inscrição de filtros da lista:">
 <!ENTITY viewList.label "Visualizar filtros">
 <!ENTITY visitHomepage.label "Abrir página da inscrição">
 <!ENTITY addSubscription.label "Adicionar inscrição">
-<!ENTITY list.download.failed "O Adblock Plus não conseguiu obter a lista de inscrições.">
+<!ENTITY list.download.failed "O Adblock Edge não conseguiu obter a lista de inscrições.">
 <!ENTITY list.download.retry "Tentar novamente">
 <!ENTITY list.download.website "Abrir página da lista de inscrições">
 <!ENTITY fromWeb.description "Por favor, confirme que você deseja adicionar essa inscrição de filtros. Você pode alterar o título ou o endereço da inscrição antes de adicionar.">

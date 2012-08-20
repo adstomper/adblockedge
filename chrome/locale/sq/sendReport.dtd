@@ -1,28 +1,28 @@
 <!ENTITY wizard.title "Raportuesi i problemeve">
 <!ENTITY privacyPolicy.label "Rregulli i te dhenave vetjake">
 <!ENTITY dataCollector.heading "Mire se vini ne raportuesin e problemeve">
-<!ENTITY dataCollector.description "Ju lutem prisni disa momente deri sa Adblock Plus te mbledhe te gjitha te dhenat e nevojshme.">
+<!ENTITY dataCollector.description "Ju lutem prisni disa momente deri sa Adblock Edge te mbledhe te gjitha te dhenat e nevojshme.">
 <!ENTITY typeSelector.heading "Lloji i problemit">
-<!ENTITY typeSelector.description "Kjo dritare do ju udhezoje neper gjithe hapat e nevojshem per dergimin e raportit te problemeve me Adblock Plus. Si fillim, ju lutem zgjidhni tipin e problemit qe ju vereni me kete faqe:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus po bllokon shume">
+<!ENTITY typeSelector.description "Kjo dritare do ju udhezoje neper gjithe hapat e nevojshem per dergimin e raportit te problemeve me Adblock Edge. Si fillim, ju lutem zgjidhni tipin e problemit qe ju vereni me kete faqe:">
+<!ENTITY typeSelector.falsePositive.label "Adblock Edge po bllokon shume">
 <!ENTITY typeSelector.falsePositive.accesskey "m">
-<!ENTITY typeSelector.falsePositive.description "Zgjidhni kete mundesi nese faqes i mungon permbajtja e rendesishme, shfaqet gabim ose nuk funksionon ne rregull. Ju mund te percaktoni nese problemi eshte Adblock Plus duke e fikur ate perkohesisht.">
-<!ENTITY typeSelector.falseNegative.label "Adblock Plus nuk po bllokon nje reklame">
+<!ENTITY typeSelector.falsePositive.description "Zgjidhni kete mundesi nese faqes i mungon permbajtja e rendesishme, shfaqet gabim ose nuk funksionon ne rregull. Ju mund te percaktoni nese problemi eshte Adblock Edge duke e fikur ate perkohesisht.">
+<!ENTITY typeSelector.falseNegative.label "Adblock Edge nuk po bllokon nje reklame">
 <!ENTITY typeSelector.falseNegative.accesskey "v">
-<!ENTITY typeSelector.falseNegative.description "Zgjidhni kete mundesi nese nje reklame shfaqet edhe pse Adblock Plus eshte aktiv.">
+<!ENTITY typeSelector.falseNegative.description "Zgjidhni kete mundesi nese nje reklame shfaqet edhe pse Adblock Edge eshte aktiv.">
 <!ENTITY typeSelector.other.label "Problem tjeter">
 <!ENTITY typeSelector.other.accesskey "t">
-<!ENTITY typeSelector.other.description "Zgjidhni kete mundesi nese ju dyshoni se eshte nje problem me vete Adblock Plus ne vend te filtrave te tij.">
+<!ENTITY typeSelector.other.description "Zgjidhni kete mundesi nese ju dyshoni se eshte nje problem me vete Adblock Edge ne vend te filtrave te tij.">
 <!ENTITY showRecentReports.label "Afisho raportimet e derguara se fundmi">
 <!ENTITY recentReports.label "Raportimet tuaja me te fundit">
 <!ENTITY recentReports.clear.label "Hiq gjithe raportimet">
 <!ENTITY recentReports.clear.accesskey "R">
-<!ENTITY issues.description "Adblock Plus ka dalluar probleme me konfigurimin tuaj i cili mund te jete pergjegjes per kete problem ose do te veshtiresoje hetimin e raportit.">
-<!ENTITY issues.whitelist.description "Adblock Plus eshte aktualisht jo-aktiv ne faqen ne te cilen ju po raportoni. Ju lutem ri-aktivizojeni ate dhe ringarkoni faqen perpara se te dergoni raportin i cili do te ndihmoje ne hetimin e metejshem te ketij problemi.">
-<!ENTITY issues.whitelist.remove.label "Ri-aktivizo Adblock Plus ne kete faqe">
-<!ENTITY issues.disabled.description "Adblock Plus eshte jo-aktiv, ai nuk do te bllokoje asnje gje ne gjendjen aktuale.">
-<!ENTITY issues.disabled.enable.label "Aktivizo Adblock Plus">
-<!ENTITY issues.nofilters.description "Adblock Plus nuk eshte duke bllokuar asgje ne faqen aktuale. Ky problem qe ju po vereni ka shume mundesi qe nuk ka fare lidhje me Adblock Plus.">
+<!ENTITY issues.description "Adblock Edge ka dalluar probleme me konfigurimin tuaj i cili mund te jete pergjegjes per kete problem ose do te veshtiresoje hetimin e raportit.">
+<!ENTITY issues.whitelist.description "Adblock Edge eshte aktualisht jo-aktiv ne faqen ne te cilen ju po raportoni. Ju lutem ri-aktivizojeni ate dhe ringarkoni faqen perpara se te dergoni raportin i cili do te ndihmoje ne hetimin e metejshem te ketij problemi.">
+<!ENTITY issues.whitelist.remove.label "Ri-aktivizo Adblock Edge ne kete faqe">
+<!ENTITY issues.disabled.description "Adblock Edge eshte jo-aktiv, ai nuk do te bllokoje asnje gje ne gjendjen aktuale.">
+<!ENTITY issues.disabled.enable.label "Aktivizo Adblock Edge">
+<!ENTITY issues.nofilters.description "Adblock Edge nuk eshte duke bllokuar asgje ne faqen aktuale. Ky problem qe ju po vereni ka shume mundesi qe nuk ka fare lidhje me Adblock Edge.">
 <!ENTITY issues.nosubscriptions.description "Duket sikur ju nuk keni asnje abonim ne filtrat e gatshem te cilet heqin automatikisht permbajtjen e padeshiruar nga faqet web.">
 <!ENTITY issues.nosubscriptions.add.label "Shto abonim ne filtra">
 <!ENTITY issues.subscriptionCount.description "Duket sikur ju jeni abonuar ne shume filtra. Ky konfigurim nuk rekomandohet sepse to te shtoje rastet e problemeve te njejta. Gjithashtu ne nuk mund te pranojme raportimin tuaj te problemeve sepse eshet i paqarte se me ke abonim filtri autori duhet te veproje. Ju lutem hiqni te gjithe abonimet ne filtra perveç atyre te nevojshem dhe provoni nese problemi do te jete perseri.">
@@ -36,7 +36,7 @@
 <!ENTITY issues.override.label "Konfigurimi eshte i sakte, vazhdoni me raportimin">
 <!ENTITY issues.override.accesskey "c">
 <!ENTITY issues.change.description "Konfigurimi juaj ka ndryshuar. Ju lutem ri-ngarkoni faqen per te provuar ndryshimet dhe per te derguar nje raportim nese problemi nuk eshte zgjidhur nga ndryshimet ne konfigurim.">
-<!ENTITY typeWarning.description "Ju keni treguar se deshironi te raportoni nje problem te pergjithshem me Adblock Plus ne vend te nje problemi me filtrat. Ju lutem kini parasysh se keto probleme raportohen me mire ne [link]forumin Adblock Plus[/link]. Ju duhet te perdorni raportimin e problemeve vetem si shtese te nje diskutimi ekzistues, sepse askush nuk do ta vere re raportimin tuaj, vetem nese ju jepni nje adrese te problemit. Adrese e krijuar automatikisht do ju jepet pasi ju te keni derguar raportin.">
+<!ENTITY typeWarning.description "Ju keni treguar se deshironi te raportoni nje problem te pergjithshem me Adblock Edge ne vend te nje problemi me filtrat. Ju lutem kini parasysh se keto probleme raportohen me mire ne [link]forumin Adblock Edge[/link]. Ju duhet te perdorni raportimin e problemeve vetem si shtese te nje diskutimi ekzistues, sepse askush nuk do ta vere re raportimin tuaj, vetem nese ju jepni nje adrese te problemit. Adrese e krijuar automatikisht do ju jepet pasi ju te keni derguar raportin.">
 <!ENTITY typeWarning.override.label "Une kuptoj dhe deshiroj te dergoj raportin gjithsesi">
 <!ENTITY typeWarning.override.accesskey "s">
 <!ENTITY reloadButton.label "Ringarko faqen">
@@ -66,10 +66,10 @@
 <!ENTITY data.label "Permbajtja e raportit:">
 <!ENTITY data.accesskey "p">
 <!ENTITY sendPage.heading "Dergo raportin">
-<!ENTITY sendPage.waitMessage "Ju lutem prisni sa Adblock Plus te dergoje raportin tuaj.">
+<!ENTITY sendPage.waitMessage "Ju lutem prisni sa Adblock Edge te dergoje raportin tuaj.">
 <!ENTITY sendPage.confirmation "Raporti juaj eshte ruajtur. Ju mund ta shikoni ate ne kete adrese:">
 <!ENTITY sendPage.knownIssue "Problemi qe ju keni raportuar ka shume mundesi te jete i njohur. Per me shume informacion:">
-<!ENTITY sendPage.errorMessage "Tentativa per te derguar raportin ngeci me kodin e gabimit &quot;?1?&quot;. Ju lutem sigurohuni qe jeni te lidhur ne internet dhe provoni perseri. Nese ky problem perseritet kerkoni ndihme ne [link]forumin e Adblock Plus[/link].">
+<!ENTITY sendPage.errorMessage "Tentativa per te derguar raportin ngeci me kodin e gabimit &quot;?1?&quot;. Ju lutem sigurohuni qe jeni te lidhur ne internet dhe provoni perseri. Nese ky problem perseritet kerkoni ndihme ne [link]forumin e Adblock Edge[/link].">
 <!ENTITY sendPage.retry.label "Dergo perseri">
 <!ENTITY copyLink.label "KOpjo adresen e raportit">
 <!ENTITY copyLink.accesskey "C">

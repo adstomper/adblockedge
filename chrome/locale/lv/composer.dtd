@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Pievienot Adblock Plus filtra nosacījumu">
+<!ENTITY dialog.title "Pievienot Adblock Edge filtra nosacījumu">
 <!ENTITY accept.label "Pievienot filtru">
 <!ENTITY advanced.label "Paplašināts skatījums">
 <!ENTITY basic.label "Pamata skatījums">
-<!ENTITY disabled.warning "Adblock Plus šobrīd ir atspējots. Jūs joprojām varat pievienot filtrus, bet tie netiks piemēroti tik ilgi, kamēr jūs [link]neiespējosiet Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge šobrīd ir atspējots. Jūs joprojām varat pievienot filtrus, bet tie netiks piemēroti tik ilgi, kamēr jūs [link]neiespējosiet Adblock Edge[/link].">
 <!ENTITY filter.label "Jauns filtrs:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Rādīt esošos filtrus...">
@@ -13,8 +13,8 @@
 <!ENTITY type.whitelist.accesskey "x">
 <!ENTITY pattern.label "Meklēt paraugu">
 <!ENTITY pattern.explanation "Paraugs var būt jebkura daļa no adreses, zvaigznīte (*) darbojas kā aizstājējzīme. Filtrs var tikt piemērots tikai adresei, kas atbilst paredzētajam modelim.">
-<!ENTITY regexp.warning "Modelis jūs ievadījāt tiks interpretēts kā regulāra izteiksme, ko Adblock Plus nevar efektīvi apstrādāt un tas var palēnināt jūsu pārlūkošanu. Ja jūs neplānojat izmantot regulāra izteiksmi, pievienojiet zvaigznīti (*) parauga beigās.">
-<!ENTITY shortpattern.warning "Paraugs, kuru jūs ievadījāt, ir pārāk īss, lai būtu optimizēts un tas var palēnināt jūsu pārlūkošanu. Ieteicams izvēlēties garāku virkni šim filtram, lai Adblock Plus varētu apstrādāt filtru efektīvāk.">
+<!ENTITY regexp.warning "Modelis jūs ievadījāt tiks interpretēts kā regulāra izteiksme, ko Adblock Edge nevar efektīvi apstrādāt un tas var palēnināt jūsu pārlūkošanu. Ja jūs neplānojat izmantot regulāra izteiksmi, pievienojiet zvaigznīti (*) parauga beigās.">
+<!ENTITY shortpattern.warning "Paraugs, kuru jūs ievadījāt, ir pārāk īss, lai būtu optimizēts un tas var palēnināt jūsu pārlūkošanu. Ieteicams izvēlēties garāku virkni šim filtram, lai Adblock Edge varētu apstrādāt filtru efektīvāk.">
 <!ENTITY custom.pattern.label "Pielāgots:">
 <!ENTITY custom.pattern.accesskey "C">
 <!ENTITY anchors.label "Apstiprināt tiaki paraugus:">

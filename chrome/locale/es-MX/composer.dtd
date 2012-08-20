@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Agregar una regla de filtro de Adblock Plus">
+<!ENTITY dialog.title "Agregar una regla de filtro de Adblock Edge">
 <!ENTITY accept.label "Agregar filtro">
 <!ENTITY advanced.label "Vista Avanzada">
 <!ENTITY basic.label "Vista básica">
-<!ENTITY disabled.warning "Adblock Plus se encuentra desactivado. Puedes continuar agregando filtros pero no serán aplicados hasta que [link]habilites Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge se encuentra desactivado. Puedes continuar agregando filtros pero no serán aplicados hasta que [link]habilites Adblock Edge[/link].">
 <!ENTITY filter.label "Nuevo filtro:">
 <!ENTITY filter.accesskey "N">
 <!ENTITY preferences.label "Mostrar filtros existentes...">
@@ -13,8 +13,8 @@
 <!ENTITY type.whitelist.accesskey "x">
 <!ENTITY pattern.label "Buscar un patrón">
 <!ENTITY pattern.explanation "El patrón puede ser cualquier parte de una dirección; asteriscos(*) actuan como comodines. El filtro solo se aplicara a direcciones que igualen el patrón proporcionado.">
-<!ENTITY regexp.warning "El patrón que ha digitado se interpretará como una expresión regular la cual no puede ser eficientemente procesada por Adblock Plus y podria ralentizar su experiencia al navegar. Si no tenía la intención de de usar una expresión regular, agregue un asterisco (*) al final del patrón.">
-<!ENTITY shortpattern.warning "El patrón que ha ingresado es muy corto para ser optimizado y podria relentizar su experiencia al navegar. Es recomendable que elija una cadena mas larga para este filtro para permitir a Adblock Plus procesar el filtro con mayor eficacia.">
+<!ENTITY regexp.warning "El patrón que ha digitado se interpretará como una expresión regular la cual no puede ser eficientemente procesada por Adblock Edge y podria ralentizar su experiencia al navegar. Si no tenía la intención de de usar una expresión regular, agregue un asterisco (*) al final del patrón.">
+<!ENTITY shortpattern.warning "El patrón que ha ingresado es muy corto para ser optimizado y podria relentizar su experiencia al navegar. Es recomendable que elija una cadena mas larga para este filtro para permitir a Adblock Edge procesar el filtro con mayor eficacia.">
 <!ENTITY match.warning "El patrón que ha ingresado ya no concuerda con la dirección a ser Bloqueada/Permitida y no tendra efecto en la misma.">
 <!ENTITY custom.pattern.label "Personalizado:">
 <!ENTITY custom.pattern.accesskey "P">

@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "ステータス:">
 <!ENTITY blocked.tooltip "ブロック済み項目:">
 <!ENTITY filters.tooltip "有効なフィルタ:">
-<!ENTITY menuitem.label "Adblock Plus 設定">
+<!ENTITY menuitem.label "Adblock Edge 設定">
 <!ENTITY menuitem.accesskey "b">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus:画像をブロック">
-<!ENTITY context.object.label "Adblock Plus:オブジェクトをブロック">
-<!ENTITY context.frame.label "Adblock Plus:フレームをブロック">
-<!ENTITY context.media.label "Adblock Plus:ビデオ／オーディオをブロック">
-<!ENTITY context.removeWhitelist.label "Adblock Plus:このページで有効に戻す">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge:画像をブロック">
+<!ENTITY context.object.label "Adblock Edge:オブジェクトをブロック">
+<!ENTITY context.frame.label "Adblock Edge:フレームをブロック">
+<!ENTITY context.media.label "Adblock Edge:ビデオ／オーディオをブロック">
+<!ENTITY context.removeWhitelist.label "Adblock Edge:このページで有効に戻す">
 <!ENTITY sidebar.title "このページでブロック可能な項目">
 <!ENTITY sendReport.label "このページでの不具合を報告">
 <!ENTITY sendReport.accesskey "R">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "全ページで無効">
 <!ENTITY options.label "オプション">
 <!ENTITY options.accesskey "O">
-<!ENTITY contribute.label "Adblock Plus に貢献する">
+<!ENTITY contribute.label "Adblock Edge に貢献する">
 <!ENTITY showintoolbar.label "ツールバーに表示">
 <!ENTITY showintoolbar.accesskey "b">
 <!ENTITY showinstatusbar.label "ステータスバーに表示">
@@ -39,4 +39,4 @@
 <!ENTITY sync.label "同期設定">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "ブロックする">
-<!ENTITY objecttab.tooltip "クリックして Adblock Plus でオブジェクトをブロック">
+<!ENTITY objecttab.tooltip "クリックして Adblock Edge でオブジェクトをブロック">

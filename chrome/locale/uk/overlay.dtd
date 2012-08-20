@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Статус:">
 <!ENTITY blocked.tooltip "Заблоковані елементи на цій сторінці:">
 <!ENTITY filters.tooltip "Найбільш часто застосовані фільтри:">
-<!ENTITY menuitem.label "Налаштування Adblock Plus">
+<!ENTITY menuitem.label "Налаштування Adblock Edge">
 <!ENTITY menuitem.accesskey "A">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: заблокувати зображення">
-<!ENTITY context.object.label "Adblock Plus: заблокувати об’єкт">
-<!ENTITY context.frame.label "Adblock Plus: заблокувати фрейм">
-<!ENTITY context.media.label "Adblock Plus: Блокувати аудіо/відео">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Знов увімкнути для цієї сторінки">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: заблокувати зображення">
+<!ENTITY context.object.label "Adblock Edge: заблокувати об’єкт">
+<!ENTITY context.frame.label "Adblock Edge: заблокувати фрейм">
+<!ENTITY context.media.label "Adblock Edge: Блокувати аудіо/відео">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Знов увімкнути для цієї сторінки">
 <!ENTITY sidebar.title "Елементи відкритої сторінки">
 <!ENTITY sendReport.label "Повідомити про проблеми на сторінці">
 <!ENTITY sendReport.accesskey "с">

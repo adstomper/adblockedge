@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus - filtrowe nastajenja">
+<!ENTITY dialog.title "Adblock Edge - filtrowe nastajenja">
 <!ENTITY subscriptions.tab.label "Filtrowe abonementy">
 <!ENTITY filters.tab.label "Swójske filtry">
 <!ENTITY addSubscription.label "Filtrowy abonement přidać">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Přidać">
 <!ENTITY addSubscriptionCancel.label "Přetorhnyć">
 <!ENTITY addSubscriptionOther.label "Druhi abonement přidać">
-<!ENTITY noSubscriptions.text "Njejsće hišće žane filtrowe abonementy přidał. Adblock Plus njebudźe bjez filtrow ničo blokować, prošu wužijće &quot;Filtrowy abonement přidać&quot;, zo byšće filter přidać.">
+<!ENTITY noSubscriptions.text "Njejsće hišće žane filtrowe abonementy přidał. Adblock Edge njebudźe bjez filtrow ničo blokować, prošu wužijće &quot;Filtrowy abonement přidać&quot;, zo byšće filter přidać.">
 <!ENTITY subscription.homepage.label "Startowa strona">
 <!ENTITY subscription.external.label "Přez druhe rozšěrjenje zaktualizowany">
 <!ENTITY subscription.source.label "Filtrowa lisćina">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Njeporadźiło, žana płaćiwa filtrowa lisćina">
 <!ENTITY subscription.lastDownload.checksumMismatch "Njeporadźiło, wopačna kontrolna suma">
 <!ENTITY subscription.lastDownload.success "Wuspěch">
-<!ENTITY subscription.minVersion.warning "Tutón filtrowy abonement wužaduje sej nowšu wersiju Adblock Plus, wy měł na najnowšu wersiju Adblock Plus aktualizować.">
+<!ENTITY subscription.minVersion.warning "Tutón filtrowy abonement wužaduje sej nowšu wersiju Adblock Edge, wy měł na najnowšu wersiju Adblock Edge aktualizować.">
 <!ENTITY subscription.disabledFilters.warning "Někotre filtry w tutym abonemenće su znjemóžnjene.">
 <!ENTITY subscription.disabledFilters.enable "Znjemóžnjene filtry zmóžnić">
 <!ENTITY subscription.actions.label "Akcije">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Wšě filtry a abonementy">
 <!ENTITY backup.custom.title "Jenož swójske filtry">
 <!ENTITY backup.error "Při pisanju filtrow do dataje je zmylk wustupił. Zawěsćće, zo dataja njeje přećiwo pisanju škitana abo so přez druhi program njewužiwa.">
-<!ENTITY restore.error "Daty dataje njedadźa so předźěłać, je móžno, zo wona zawěsćenska dataja Adblock Plus njeje?">
+<!ENTITY restore.error "Daty dataje njedadźa so předźěłać, je móžno, zo wona zawěsćenska dataja Adblock Edge njeje?">
 <!ENTITY restore.complete.warning "Wšě waše filtrowe nastajenja budu so přez wobsah wubraneje dataje narunować. Chceće pokročować?">
 <!ENTITY restore.custom.warning "Wšě waše swójske filtry budu so přez wobsah wubraneje dataje narunować. Chceće pokročować?">
-<!ENTITY restore.minVersion.warning "Warnowanje: Dataja je so přez nowšu wersiju Adblock Plus wutworiła. Wy měł na najnowšu wersiju Adblock Plus aktualizować, prjedy hač tutu dataju wobnowiće.">
+<!ENTITY restore.minVersion.warning "Warnowanje: Dataja je so přez nowšu wersiju Adblock Edge wutworiła. Wy měł na najnowšu wersiju Adblock Edge aktualizować, prjedy hač tutu dataju wobnowiće.">
 <!ENTITY find.label "Pytać">
 <!ENTITY find.accesskey "P">
 <!ENTITY close.label "Začinić">

@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Κατάσταση:">
 <!ENTITY blocked.tooltip "Στοιχεία που έχουν φραχθεί σε αυτή τη σελίδα:">
 <!ENTITY filters.tooltip "Φίλτρα με τις περισσότερες επιτυχίες:">
-<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.label "Adblock Edge">
 <!ENTITY menuitem.accesskey "B">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: φραγή εικόνας">
-<!ENTITY context.object.label "Adblock Plus: φραγή αντικειμένου">
-<!ENTITY context.frame.label "Adblock Plus: φραγή πλαισίου">
-<!ENTITY context.media.label "Adblock Plus: φραγή ήχου/βίντεο">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Ενεργοποίηση σ' αυτή την σελίδα">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: φραγή εικόνας">
+<!ENTITY context.object.label "Adblock Edge: φραγή αντικειμένου">
+<!ENTITY context.frame.label "Adblock Edge: φραγή πλαισίου">
+<!ENTITY context.media.label "Adblock Edge: φραγή ήχου/βίντεο">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Ενεργοποίηση σ' αυτή την σελίδα">
 <!ENTITY sidebar.title "Στοιχεία προς φιλτράρισμα στην τρέχουσα σελίδα">
 <!ENTITY sendReport.label "Αναφορά προβλήματος σε αυτή την σελίδα">
 <!ENTITY sendReport.accesskey "ρ">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Απενεργοποίηση παντού">
 <!ENTITY options.label "Επιλογές">
 <!ENTITY options.accesskey "λ">
-<!ENTITY contribute.label "Συνεισφέρετε στο Adblock Plus">
+<!ENTITY contribute.label "Συνεισφέρετε στο Adblock Edge">
 <!ENTITY showintoolbar.label "Εμφάνιση στην εργαλειοθήκη">
 <!ENTITY showintoolbar.accesskey "θ">
 <!ENTITY showinstatusbar.label "Εμφάνιση στην γραμμή κατάστασης">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "ι">
 <!ENTITY counthits.label "Καταμέτρηση επιτυχιών φίλτρων">
 <!ENTITY counthits.accesskey "τ">
-<!ENTITY sync.label "Συγχρονισμός των ρυθμίσεων του Adblock Plus">
+<!ENTITY sync.label "Συγχρονισμός των ρυθμίσεων του Adblock Edge">
 <!ENTITY sync.accesskey "χ">
 <!ENTITY objecttab.title "Φραγή">
-<!ENTITY objecttab.tooltip "Κλικ εδώ για να φιλτράρετε αυτό το αντικείμενο με το Adblock Plus">
+<!ENTITY objecttab.tooltip "Κλικ εδώ για να φιλτράρετε αυτό το αντικείμενο με το Adblock Edge">

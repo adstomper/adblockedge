@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus iragazki hobespenak">
+<!ENTITY dialog.title "Adblock Edge iragazki hobespenak">
 <!ENTITY subscriptions.tab.label "Iragazki harpidetzak">
 <!ENTITY filters.tab.label "Pertsonalizatutako iragazkiak">
 <!ENTITY addSubscription.label "Gehitu iragazki harpidetza">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Ezeztatu">
 <!ENTITY addSubscriptionOther.label "Gehitu harpidetza desberdin bat">
 <!ENTITY noSubscriptions.text "
-	Ez duzu harpidetzarik gehitu oraindik. Adblock Plusek du ezer blokeatuko iragazki gabe, mesedez erabili &quot;Gehitu iragazki harpidetza&quot; 
+	Ez duzu harpidetzarik gehitu oraindik. Adblock Edgeek du ezer blokeatuko iragazki gabe, mesedez erabili &quot;Gehitu iragazki harpidetza&quot; 
  iragazkiak gehitzeko.
 ">
 <!ENTITY subscription.homepage.label "Hasiera orria">
@@ -22,7 +22,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Kale, ez da iragazki zerrenda baliagarria">
 <!ENTITY subscription.lastDownload.checksumMismatch "Kale, egiaztapeneko batura ez dator bat">
 <!ENTITY subscription.lastDownload.success "Arrakasta">
-<!ENTITY subscription.minVersion.warning "Iragazki harpidetzak Adblock Plus bertsio berria behar du, azken bertsiora eguneratu beharko zenuke Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Iragazki harpidetzak Adblock Edge bertsio berria behar du, azken bertsiora eguneratu beharko zenuke Adblock Edge.">
 <!ENTITY subscription.disabledFilters.warning "Harpidetza honetako iragazki batzuk desgaituta daude">
 <!ENTITY subscription.disabledFilters.enable "Gaitu desgaitutako iragazkiak">
 <!ENTITY subscription.actions.label "Ekintzak">
@@ -81,10 +81,10 @@
 <!ENTITY backup.complete.title "Iragazki eta harpidetza guztiak">
 <!ENTITY backup.custom.title "Iragazki pertsonalak soilik">
 <!ENTITY backup.error "Iragazkiak fitxategira idazteak errore bat gertatu da. Egiaztatu fitxategian idaztea dagoela eta ez duela beste aplikazio batek blokeatu.">
-<!ENTITY restore.error "Fitxategiko datuak ezin dira prozesatu, agian ez da Adblock Plus segurtasun kopia bat?">
+<!ENTITY restore.error "Fitxategiko datuak ezin dira prozesatu, agian ez da Adblock Edge segurtasun kopia bat?">
 <!ENTITY restore.complete.warning "Zure iragazki hobespen guztiak aukeratutako fitxategiko edukiarekin ordeztuko dira. Aurrera jarraitu nahi duzu?">
 <!ENTITY restore.custom.warning "Zure iragazki pertsonal guztiak aukeratutako fitxategiko edukiarekin ordeztuko dira. Aurrera jarraitu nahi duzu?">
-<!ENTITY restore.minVersion.warning "Oharra: fitxategi hau Adblock Plusen bertsio berriago batekin sortu da. Adblock Plus azken bertsiora eguneratu beharko zenuke fitxategi hau berrezarri aurretik.">
+<!ENTITY restore.minVersion.warning "Oharra: fitxategi hau Adblock Edgeen bertsio berriago batekin sortu da. Adblock Edge azken bertsiora eguneratu beharko zenuke fitxategi hau berrezarri aurretik.">
 <!ENTITY find.label "Bilatu">
 <!ENTITY find.accesskey "n">
 <!ENTITY close.label "Itxi">

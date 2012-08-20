@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Installatie Adblock Plus compleet">
+<!ENTITY dialog.title "Installatie Adblock Edge compleet">
 <!ENTITY confirmation "
-Bedankt voor het installeren van Adblock Plus. Vanaf nu worden advertenties geblokkeerd.
+Bedankt voor het installeren van Adblock Edge. Vanaf nu worden advertenties geblokkeerd.
 Veel plezier!">
 <!ENTITY advancedSection "Geavanceerde opties">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@ De volgende lijst is ingesteld om advertenties te blokkeren:
 <!ENTITY noList "Geen filterlijst">
 <!ENTITY visitHomepage.label "Bezoek de lijststartpagina">
 <!ENTITY acceptableAds2 "
-Adblock Plus is ook geconfigureerd om enkele niet-opdringerige reclames toe te staan.
+Adblock Edge is ook geconfigureerd om enkele niet-opdringerige reclames toe te staan.
 ">
 <!ENTITY viewList.label "Lijst bekijken">
 <!ENTITY readMore.label "Meer hierover">

@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Inštalácia Adblock Plus kompletná">
+<!ENTITY dialog.title "Inštalácia Adblock Edge kompletná">
 <!ENTITY confirmation "
- Ďakujeme za nainštalovanie Adblock Plus. Reklamy teraz budú blokované.
+ Ďakujeme za nainštalovanie Adblock Edge. Reklamy teraz budú blokované.
  Príjemnú zábavu!">
 <!ENTITY advancedSection "Pokročilé možnosti">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "Žiadny zoznam filtrov">
 <!ENTITY visitHomepage.label "Navštíviť domovskú stránku zoznamu">
 <!ENTITY acceptableAds2 "
- Adblock Plus bol tiež nakonfigurovaný na povolenie niektorých nevtieravých reklám.
+ Adblock Edge bol tiež nakonfigurovaný na povolenie niektorých nevtieravých reklám.
 ">
 <!ENTITY viewList.label "Zobraziť zoznam">
 <!ENTITY readMore.label "Zistiť viac">

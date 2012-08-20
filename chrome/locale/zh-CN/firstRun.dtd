@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Adblock Plus 安装完成">
+<!ENTITY dialog.title "Adblock Edge 安装完成">
 <!ENTITY confirmation "
- 感谢您安装 Adblock Plus。从今往后，广告将被屏蔽。
+ 感谢您安装 Adblock Edge。从今往后，广告将被屏蔽。
  尽情享受吧！">
 <!ENTITY advancedSection "高级选项">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "无过滤规则列表">
 <!ENTITY visitHomepage.label "访问列表主页">
 <!ENTITY acceptableAds2 "
- Adblock Plus 已经配置为允许一些非侵入式广告。
+ Adblock Edge 已经配置为允许一些非侵入式广告。
 ">
 <!ENTITY viewList.label "查看列表">
 <!ENTITY readMore.label "深入了解">

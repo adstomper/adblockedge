@@ -1,7 +1,7 @@
 <!ENTITY status.tooltip "სტატუსი:">
 <!ENTITY blocked.tooltip "ამ web-გვერდზე ბლოკირებული ელემენტები:">
 <!ENTITY filters.tooltip "ყველაზე აქტიური ფილტრები:">
-<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.label "Adblock Edge">
 <!ENTITY menuitem.accesskey "B">
 <!ENTITY context.image.label "დაბლოკე სურათი">
 <!ENTITY context.object.label "დაბლოკე ობიექტი">

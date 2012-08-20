@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Dodaj Adblock Plus pravilo filtera">
+<!ENTITY dialog.title "Dodaj Adblock Edge pravilo filtera">
 <!ENTITY accept.label "Dodaj filter">
 <!ENTITY advanced.label "Napredni pregled">
 <!ENTITY basic.label "Osnovni pregled">
-<!ENTITY disabled.warning "Adblock Plus je trenutno onemogućen. Možete dodavati filtere ali oni se neće primjenjivati ako ne [link]omogućite Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge je trenutno onemogućen. Možete dodavati filtere ali oni se neće primjenjivati ako ne [link]omogućite Adblock Edge[/link].">
 <!ENTITY filter.label "Novi filter:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Prikaži postojeće filtere...">
@@ -13,8 +13,8 @@
 <!ENTITY type.whitelist.accesskey "i">
 <!ENTITY pattern.label "Traži ponavljajući uzorak">
 <!ENTITY pattern.explanation "Uzorak može biti bilo koji dio adrese, asterisk (*) služi kao zamjena. Filter će biti samo primjenjen na adrese koje se podudaraju sa naznačenim uzorkom.">
-<!ENTITY regexp.warning "Uzorak koji ste unijeli biti će protumačen kao obični izraz kojeg Adblock Plus ne može efikasno obraditi i može usporiti vaše surfanje. Ako niste namjeravali koristiti obični izraz, dodajte asterisk (*) na kraju uzorka.">
-<!ENTITY shortpattern.warning "Uneseni uzorak je prekratak za optimizaciju i može usporiti vaše surfanje. Preporučamo da odaberete duži niz za ovaj filter kako biste omogućili da Adblock Plus efikasnije obradi taj filter.">
+<!ENTITY regexp.warning "Uzorak koji ste unijeli biti će protumačen kao obični izraz kojeg Adblock Edge ne može efikasno obraditi i može usporiti vaše surfanje. Ako niste namjeravali koristiti obični izraz, dodajte asterisk (*) na kraju uzorka.">
+<!ENTITY shortpattern.warning "Uneseni uzorak je prekratak za optimizaciju i može usporiti vaše surfanje. Preporučamo da odaberete duži niz za ovaj filter kako biste omogućili da Adblock Edge efikasnije obradi taj filter.">
 <!ENTITY match.warning "Uneseni uzorak više se ne poklapa sa adresom za blokeiranje/odblokiranje i neće imati nikakvog utjecaja na nju.">
 <!ENTITY custom.pattern.label "Prilagođeno:">
 <!ENTITY custom.pattern.accesskey "g">

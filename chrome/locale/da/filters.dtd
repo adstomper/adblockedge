@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus filterpræferencer">
+<!ENTITY dialog.title "Adblock Edge filterpræferencer">
 <!ENTITY subscriptions.tab.label "Filterabonnementer">
 <!ENTITY filters.tab.label "Tilpassede filtre">
 <!ENTITY addSubscription.label "Tilføj filterabonnement">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Annuller">
 <!ENTITY addSubscriptionOther.label "Tilføj endnu et abonnement">
 <!ENTITY noSubscriptions.text "
- Du har endnu ikke tilføjet Filterabonnementer. Adblock Plus blokerer ikke
+ Du har endnu ikke tilføjet Filterabonnementer. Adblock Edge blokerer ikke
  noget uden filtre, så brug &quot;Tilføj Filterabonnementer;
  for at tilføje nogen.
 ">
@@ -23,7 +23,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Fejlede, ikke en gyldig liste over filtre">
 <!ENTITY subscription.lastDownload.checksumMismatch "Fejlede, checksum matcher ikke">
 <!ENTITY subscription.lastDownload.success "Succes">
-<!ENTITY subscription.minVersion.warning "Dette Filterabonnement kræver en nyere udgave af Adblock Plus. Opdater venligst.">
+<!ENTITY subscription.minVersion.warning "Dette Filterabonnement kræver en nyere udgave af Adblock Edge. Opdater venligst.">
 <!ENTITY subscription.disabledFilters.warning "Dette abonnement indeholder deaktiverede filtre.">
 <!ENTITY subscription.disabledFilters.enable "Aktiver deaktiverede filtre">
 <!ENTITY subscription.actions.label "Handlinger">
@@ -84,10 +84,10 @@
 <!ENTITY backup.complete.title "Alle filtre og abonnementer">
 <!ENTITY backup.custom.title "Kun tilpassede filtre">
 <!ENTITY backup.error "Der opstod en skrivefejl. Kontroller at filen ikke er skrivebeskyttet eller åben i et andet program.">
-<!ENTITY restore.error "Filen kunne ikke åbnes, måske er det ikke en Adblock Plus backupfil?">
+<!ENTITY restore.error "Filen kunne ikke åbnes, måske er det ikke en Adblock Edge backupfil?">
 <!ENTITY restore.complete.warning "Alle dine filterpræferencer erstattes af indholdet i den valgte fil. Vil du fortsætte?">
 <!ENTITY restore.custom.warning "Alle dine tilpassede filtre erstattes af indholdet i den valgte fil. Vil du fortsætte?">
-<!ENTITY restore.minVersion.warning "Advarsel: Filen er oprettet med en nyere Adblock Plus. Du bør opdatere Adblock Plus før du gendanner fra denne fil.">
+<!ENTITY restore.minVersion.warning "Advarsel: Filen er oprettet med en nyere Adblock Edge. Du bør opdatere Adblock Edge før du gendanner fra denne fil.">
 <!ENTITY find.label "Find">
 <!ENTITY find.accesskey "n">
 <!ENTITY close.label "Luk">

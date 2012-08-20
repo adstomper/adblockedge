@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Dodaj pravilo filtra Adblock Plus">
+<!ENTITY dialog.title "Dodaj pravilo filtra Adblock Edge">
 <!ENTITY accept.label "Dodaj filter">
 <!ENTITY advanced.label "Napredni pogled">
 <!ENTITY basic.label "Osnovni pogled">
-<!ENTITY disabled.warning "Adblock Plus je trenutno onemogočen. Še vedno lahko dodajate filtre, vendar ne bodo veljali, če ne [link]omogočite Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge je trenutno onemogočen. Še vedno lahko dodajate filtre, vendar ne bodo veljali, če ne [link]omogočite Adblock Edge[/link].">
 <!ENTITY filter.label "Nov filter:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Pokaži obstoječe filtre ...">

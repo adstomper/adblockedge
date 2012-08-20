@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "เพิ่มกฎตัวกรอง Adblock Plus">
+<!ENTITY dialog.title "เพิ่มกฎตัวกรอง Adblock Edge">
 <!ENTITY accept.label "เพิ่มตัวกรอง">
 <!ENTITY advanced.label "มุมมองละเอียด">
 <!ENTITY basic.label "มุมมองพื้นฐาน">
-<!ENTITY disabled.warning "Adblock Plus ถูกปิดใช้งานอยู่ คุณยังคงสามารถเพิ่มตัวกรองได้แต่จะไม่ถูกใช้งานจนกว่าคุณ[link]เปิดใช้งาน Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Edge ถูกปิดใช้งานอยู่ คุณยังคงสามารถเพิ่มตัวกรองได้แต่จะไม่ถูกใช้งานจนกว่าคุณ[link]เปิดใช้งาน Adblock Edge[/link].">
 <!ENTITY filter.label "ตัวกรองใหม่:">
 <!ENTITY filter.accesskey "ต">
 <!ENTITY preferences.label "แสดงตัวกรองที่มีอยู่...">

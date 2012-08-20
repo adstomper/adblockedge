@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus szűrő beállítások">
+<!ENTITY dialog.title "Adblock Edge szűrő beállítások">
 <!ENTITY subscriptions.tab.label "Külső szűrők">
 <!ENTITY filters.tab.label "Saját szűrők">
 <!ENTITY addSubscription.label "Külső szűrő hozzáadása">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Hozzáadás">
 <!ENTITY addSubscriptionCancel.label "Mégse">
 <!ENTITY addSubscriptionOther.label "Külső szűrő hozzáadása">
-<!ENTITY noSubscriptions.text "Nincs felvéve egyetlen külső szűrőt sem. Az Adblock Plus nem fog semmit szűrni szűrők nélkül. Kérem használja a &quot;Külső szűrő felvétele&quot; funkciót új szűrők felvételéhez.">
+<!ENTITY noSubscriptions.text "Nincs felvéve egyetlen külső szűrőt sem. Az Adblock Edge nem fog semmit szűrni szűrők nélkül. Kérem használja a &quot;Külső szűrő felvétele&quot; funkciót új szűrők felvételéhez.">
 <!ENTITY subscription.homepage.label "Honlap">
 <!ENTITY subscription.external.label "Másik kiterjesztés frissíti">
 <!ENTITY subscription.source.label "Szűrő lista">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Sikertelen, érvénytelen szűrőlista">
 <!ENTITY subscription.lastDownload.checksumMismatch "Sikertelen, érvénytelen ellenőrző összeg">
 <!ENTITY subscription.lastDownload.success "Sikeres">
-<!ENTITY subscription.minVersion.warning "A külső szűrő újabb Adblock Plus verzióhoz készült, frissítenie kell az Adblock Plust a legújabb verzióra.">
+<!ENTITY subscription.minVersion.warning "A külső szűrő újabb Adblock Edge verzióhoz készült, frissítenie kell az Adblock Edget a legújabb verzióra.">
 <!ENTITY subscription.disabledFilters.warning "Néhány szűrő ebben a listában le van tiltva.">
 <!ENTITY subscription.disabledFilters.enable "Letiltott szűrők engedélyezése">
 <!ENTITY subscription.actions.label "Műveletek">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Az összes szűrő és feliratkozás">
 <!ENTITY backup.custom.title "Csak saját szűrők">
 <!ENTITY backup.error "Hiba történt a szűrők fájlba mentésekor. Ellenőrizze, hogy a fájl nem írásvédett vagy nem használja-e egy másik alkalmazás.">
-<!ENTITY restore.error "A fájlt nem sikerült feldolgozni, lehetséges, hogy nem egy Adblock Plus biztonsági mentést tartalmaz.">
+<!ENTITY restore.error "A fájlt nem sikerült feldolgozni, lehetséges, hogy nem egy Adblock Edge biztonsági mentést tartalmaz.">
 <!ENTITY restore.complete.warning "Az összes szűrő beállítása le lesz cserélve a kiválasztott fájlban lévőkre. Biztosan folytatni szeretné?">
 <!ENTITY restore.custom.warning "Az összes saját szűrője le lesz cserélve a kiválasztott fájlban lévőkre. Biztosan folytatni szeretné?">
-<!ENTITY restore.minVersion.warning "Figyelmeztetés: a fájlt az Adblock Plus újabb verziójával készült. Frissítsen az Adblock Plus legújabb verziójára, mielőtt visszaállítaná ezt a fájlt.">
+<!ENTITY restore.minVersion.warning "Figyelmeztetés: a fájlt az Adblock Edge újabb verziójával készült. Frissítsen az Adblock Edge legújabb verziójára, mielőtt visszaállítaná ezt a fájlt.">
 <!ENTITY find.label "Keresés">
 <!ENTITY find.accesskey "k">
 <!ENTITY close.label "Bezárás">

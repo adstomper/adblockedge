@@ -1,4 +1,4 @@
-<!ENTITY dialog.title                         "Настройки фильтров Adblock Plus">
+<!ENTITY dialog.title                         "Настройки фильтров Adblock Edge">
 
 <!ENTITY subscriptions.tab.label              "Подписки">
 <!ENTITY filters.tab.label                    "Собственные фильтры">
@@ -11,7 +11,7 @@
 <!ENTITY addSubscriptionOther.label           "Добавить другую подписку">
 
 <!ENTITY noSubscriptions.text                 "
-  У вас пока нет подписок на фильтры. Без фильтров Adblock Plus ничего не будет
+  У вас пока нет подписок на фильтры. Без фильтров Adblock Edge ничего не будет
   блокировать, пожалуйста воспользуйтесь кнопкой &quot;Добавить подписку&quot;.
 ">
 <!ENTITY subscription.homepage.label          "Домашняя страница">
@@ -26,7 +26,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Ошибка: неверный формат списка фильтров">
 <!ENTITY subscription.lastDownload.checksumMismatch "Ошибка: проверочная сумма не совпадает, возможно произошла ошибка загрузки">
 <!ENTITY subscription.lastDownload.success    "OK">
-<!ENTITY subscription.minVersion.warning      "Этот список фильтров требует более новой версии Adblock Plus, желательно обновить Adblock Plus до последней версии.">
+<!ENTITY subscription.minVersion.warning      "Этот список фильтров требует более новой версии Adblock Edge, желательно обновить Adblock Edge до последней версии.">
 <!ENTITY subscription.disabledFilters.warning "Некоторые фильтры в этой подписке отключены.">
 <!ENTITY subscription.disabledFilters.enable  "Включить отключенные фильтры">
 
@@ -102,10 +102,10 @@
 <!ENTITY backup.custom.title                  "Только собственные фильтры">
 
 <!ENTITY backup.error                         "При записи фильтров в файл произошла ошибка. Проверьте, может этот файл защищен от записи или используется другой программой.">
-<!ENTITY restore.error                        "Ошибка при обработке данных файла, может это не резервная копия, созданная Adblock Plus?">
+<!ENTITY restore.error                        "Ошибка при обработке данных файла, может это не резервная копия, созданная Adblock Edge?">
 <!ENTITY restore.complete.warning             "Все ваши фильтры и подписки будут заменены данными этого файла. Продолжать?">
 <!ENTITY restore.custom.warning               "Все собственные фильтры будут заменены данными этого файла. Продолжать?">
-<!ENTITY restore.minVersion.warning           "Предупреждение: этот файл был записан более новой версией Adblock Plus. Рекомендуется обновить Adblock Plus до последней версии, прежде чем восстанавливать данные из этого файла.">
+<!ENTITY restore.minVersion.warning           "Предупреждение: этот файл был записан более новой версией Adblock Edge. Рекомендуется обновить Adblock Edge до последней версии, прежде чем восстанавливать данные из этого файла.">
 
 <!ENTITY find.label                           "Найти фильтр">
 <!ENTITY find.accesskey                       "Н">

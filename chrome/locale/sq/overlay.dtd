@@ -1,12 +1,12 @@
 <!ENTITY status.tooltip "Gjendja:">
 <!ENTITY filters.tooltip "Filtruesit më aktivë:">
-<!ENTITY menuitem.label "Parapëlqimet e Adblock Plus">
+<!ENTITY menuitem.label "Parapëlqimet e Adblock Edge">
 <!ENTITY menuitem.accesskey "B">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Figurat e bllokuara">
-<!ENTITY context.object.label "Adblock Plus: Objektet e bllokuara">
-<!ENTITY context.frame.label "Adblock Plus: Pjesët e bllokuara">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Rilejo në këtë faqe">
+<!ENTITY toolbarbutton.label "Adblock Edge">
+<!ENTITY context.image.label "Adblock Edge: Figurat e bllokuara">
+<!ENTITY context.object.label "Adblock Edge: Objektet e bllokuara">
+<!ENTITY context.frame.label "Adblock Edge: Pjesët e bllokuara">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Rilejo në këtë faqe">
 <!ENTITY opensidebar.label "Hap elementet bllokuese">
 <!ENTITY opensidebar.accesskey "B">
 <!ENTITY closesidebar.label "Mbyll elementet bllokuese">

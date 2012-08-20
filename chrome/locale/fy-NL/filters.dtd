@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus Filterfoarkarren">
+<!ENTITY dialog.title "Adblock Edge Filterfoarkarren">
 <!ENTITY subscriptions.tab.label "Filterabonneminten">
 <!ENTITY filters.tab.label "Oanpaste filters">
 <!ENTITY addSubscription.label "Filterabonnemint tafoegje">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Annulearje">
 <!ENTITY addSubscriptionOther.label "In oar abonnemint tafoegje">
 <!ENTITY noSubscriptions.text "
-	Jo hawwe gjin ien filter tafoege. Adblock Plus sil neat blokkearje
+	Jo hawwe gjin ien filter tafoege. Adblock Edge sil neat blokkearje
 	sûnder filters, brûk &quot;Filterabonnemint tafoegje&quot; om
 	ta te foegjen.
 ">

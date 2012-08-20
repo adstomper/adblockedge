@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Blokerede emner på denne side:">
 <!ENTITY filters.tooltip "Mest aktive filtre:">
-<!ENTITY menuitem.label "Adblock Plus indstillinger">
+<!ENTITY menuitem.label "Adblock Edge indstillinger">
 <!ENTITY menuitem.accesskey "A">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Adblock billede">
 <!ENTITY context.object.label "Adblock objekt">
 <!ENTITY context.frame.label "Adblock ramme">
-<!ENTITY context.media.label "Adblock Plus: Bloker audio/video">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Genaktivér på denne side">
+<!ENTITY context.media.label "Adblock Edge: Bloker audio/video">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Genaktivér på denne side">
 <!ENTITY sidebar.title "Blokérbare elementer på aktuel side">
 <!ENTITY sendReport.label "Rapporter problem">
 <!ENTITY sendReport.accesskey "R">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Deaktiver overalt">
 <!ENTITY options.label "Indstillinger">
 <!ENTITY options.accesskey "d">
-<!ENTITY contribute.label "Bidrag til Adblock Plus">
+<!ENTITY contribute.label "Bidrag til Adblock Edge">
 <!ENTITY showintoolbar.label "Vis på værktøjslinje">
 <!ENTITY showintoolbar.accesskey "V">
 <!ENTITY showinstatusbar.label "Vis på statuslinje">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Tæl filterhits">
 <!ENTITY counthits.accesskey "h">
-<!ENTITY sync.label "Synk Adblock Plus indstillinger">
+<!ENTITY sync.label "Synk Adblock Edge indstillinger">
 <!ENTITY sync.accesskey "k">
 <!ENTITY objecttab.title "Bloker">
-<!ENTITY objecttab.tooltip "Klik her for at blokere dette objekt med Adblock Plus">
+<!ENTITY objecttab.tooltip "Klik her for at blokere dette objekt med Adblock Edge">

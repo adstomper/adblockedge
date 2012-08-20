@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Opções de Filtros do Adblock Plus">
+<!ENTITY dialog.title "Opções de Filtros do Adblock Edge">
 <!ENTITY subscriptions.tab.label "Inscrições de filtros">
 <!ENTITY filters.tab.label "Filtros personalizados">
 <!ENTITY addSubscription.label "Adicionar inscrição de filtros">
@@ -6,7 +6,7 @@
 <!ENTITY addSubscriptionAdd.label "Adicionar">
 <!ENTITY addSubscriptionCancel.label "Cancelar">
 <!ENTITY addSubscriptionOther.label "Adicionar outra inscrição">
-<!ENTITY noSubscriptions.text "Você ainda não adicionou nenhuma inscrição de filtros. O Adblock Plus não vai bloquear nada sem filtros. Por favor, clique em &quot;Adicionar inscrição de filtros&quot;.">
+<!ENTITY noSubscriptions.text "Você ainda não adicionou nenhuma inscrição de filtros. O Adblock Edge não vai bloquear nada sem filtros. Por favor, clique em &quot;Adicionar inscrição de filtros&quot;.">
 <!ENTITY subscription.homepage.label "página da inscrição">
 <!ENTITY subscription.external.label "Atualizado por outra extensão">
 <!ENTITY subscription.source.label "lista de filtros">
@@ -19,7 +19,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Falhou, não é uma lista de filtros válida">
 <!ENTITY subscription.lastDownload.checksumMismatch "Falhou, checksum deu errado">
 <!ENTITY subscription.lastDownload.success "Êxito">
-<!ENTITY subscription.minVersion.warning "Esta inscrição de filtros exige uma versão mais nova do Adblock Plus. Por favor, atualize o Adblock Plus para a versão mais recente.">
+<!ENTITY subscription.minVersion.warning "Esta inscrição de filtros exige uma versão mais nova do Adblock Edge. Por favor, atualize o Adblock Edge para a versão mais recente.">
 <!ENTITY subscription.disabledFilters.warning "Alguns filtros nesta inscrição estão desativados.">
 <!ENTITY subscription.disabledFilters.enable "Ativar filtros desativados">
 <!ENTITY subscription.actions.label "Ações">
@@ -78,10 +78,10 @@
 <!ENTITY backup.complete.title "Todos os filtros e inscrições">
 <!ENTITY backup.custom.title "Somente filtros personalizados">
 <!ENTITY backup.error "Ocorreu um erro ao gravar os filtros no arquivo. Verifique se o arquivo está protegido contra gravação ou se está em uso por outro programa.">
-<!ENTITY restore.error "Não foi possível processar os dados desse arquivo. Talvez ele não seja um arquivo de backup do Adblock Plus.">
+<!ENTITY restore.error "Não foi possível processar os dados desse arquivo. Talvez ele não seja um arquivo de backup do Adblock Edge.">
 <!ENTITY restore.complete.warning "Todas as suas opções de filtros serão substituídas pelo conteúdo do arquivo selecionado. Você deseja continuar?">
 <!ENTITY restore.custom.warning "Todos os seus filtros personalizados serão substituídos pelo conteúdo do arquivo selecionado. Você deseja continuar?">
-<!ENTITY restore.minVersion.warning "Atenção! O arquivo foi criado com um versão mais nova do Adblock Plus. Por favor, atualize o Adblock Plus para a versão mais recente antes de restaurar esse arquivo.">
+<!ENTITY restore.minVersion.warning "Atenção! O arquivo foi criado com um versão mais nova do Adblock Edge. Por favor, atualize o Adblock Edge para a versão mais recente antes de restaurar esse arquivo.">
 <!ENTITY find.label "Localizar">
 <!ENTITY find.accesskey "L">
 <!ENTITY close.label "Fechar">

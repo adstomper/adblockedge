@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus фильтр баптаулары">
+<!ENTITY dialog.title "Adblock Edge фильтр баптаулары">
 <!ENTITY subscriptions.tab.label "Фильтрлерге жазылулар">
 <!ENTITY filters.tab.label "Пайдаланушы фильтрлері">
 <!ENTITY addSubscription.label "Фильтрге жазылуды қосу">
@@ -8,7 +8,7 @@
 <!ENTITY addSubscriptionOther.label "Басқа жазылуды қосу">
 <!ENTITY noSubscriptions.text "
 	Сіз әлі фильтрге жазылуларды қосқан жоқсыз. Фильтрлерсіз
- Adblock Plus ешнәрсені блоктамайды, оларды қосу үшін
+ Adblock Edge ешнәрсені блоктамайды, оларды қосу үшін
  &quot;Фильтрге жазылуды қосу&quot; қолданыңыз.
 ">
 <!ENTITY subscription.homepage.label "Үй парағы">
@@ -23,7 +23,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Қате, дұрыс сүзгілер файлы емес">
 <!ENTITY subscription.lastDownload.checksumMismatch "Қате, тексеру сомасы сәйкес емес">
 <!ENTITY subscription.lastDownload.success "Сәтті аяқталды">
-<!ENTITY subscription.minVersion.warning "Бұл фильтрге жазылу Adblock Plus-тің жаңа нұсқасын талап етеді, оңы жаңартыңыз.">
+<!ENTITY subscription.minVersion.warning "Бұл фильтрге жазылу Adblock Edge-тің жаңа нұсқасын талап етеді, оңы жаңартыңыз.">
 <!ENTITY subscription.disabledFilters.warning "Бұл жазылудағы кейбір фильтрлер сөндірулі.">
 <!ENTITY subscription.disabledFilters.enable "Сөндірулі фильтрлерді іске қосу">
 <!ENTITY subscription.actions.label "Әрекеттер">
@@ -84,10 +84,10 @@
 <!ENTITY backup.complete.title "Фильтрлер мен жазылуларды қосу">
 <!ENTITY backup.custom.title "Тек пайланушы фильтрлері">
 <!ENTITY backup.error "Фильтрлерді файлға жазу кезінде қате орын алды. Файл жазу үшін қолжетерлік және басқа қолданбаның қолданысында болмағанына көз жеткізіңіз.">
-<!ENTITY restore.error "Файл мәліметін өңдеу мүмкін емес, мүмкін ол Adblock Plus-тің көшірме файлы емес шығар?">
+<!ENTITY restore.error "Файл мәліметін өңдеу мүмкін емес, мүмкін ол Adblock Edge-тің көшірме файлы емес шығар?">
 <!ENTITY restore.complete.warning "Сіздің барлық фильтрлер баптаулары таңдалған файлдың құрамасымен алмастырылады. Жалғастыруды қалайсыз ба?">
 <!ENTITY restore.custom.warning "Сіздің барлық пайдаланушы фильтрлер баптаулары таңдалған файлдың құрамасымен алмастырылады. Жалғастыруды қалайсыз ба?">
-<!ENTITY restore.minVersion.warning "Ескерту: Файл жаңалау Adblock Plus нұсқасымен жасалған. Бұл файлдан қалпына келтіру үшін сізге Adblock Plus-тың соңғы нұсқасын орнату керек.">
+<!ENTITY restore.minVersion.warning "Ескерту: Файл жаңалау Adblock Edge нұсқасымен жасалған. Бұл файлдан қалпына келтіру үшін сізге Adblock Edge-тың соңғы нұсқасын орнату керек.">
 <!ENTITY find.label "Іздеу">
 <!ENTITY find.accesskey "з">
 <!ENTITY close.label "Жабу">

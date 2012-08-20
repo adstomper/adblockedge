@@ -1,6 +1,6 @@
-<!ENTITY dialog.title "Adblock Plus орнату аяқталды">
+<!ENTITY dialog.title "Adblock Edge орнату аяқталды">
 <!ENTITY confirmation "
-	Adblock Plus орнатқаныңыз үшін рахмет. Жарнама қазірден бастап-ақ блокталады.
+	Adblock Edge орнатқаныңыз үшін рахмет. Жарнама қазірден бастап-ақ блокталады.
 	Рахат алыңыз!">
 <!ENTITY advancedSection "Кеңейтілген баптаулар">
 <!ENTITY listSelection1 "
@@ -9,7 +9,7 @@
 <!ENTITY noList "Фильтрлер тізімі жоқ">
 <!ENTITY visitHomepage.label "Тізімнің үй парағын шолу">
 <!ENTITY acceptableAds2 "
-	Сонымен қатар Adblock Plus зиянкес емес жарнаманы көрсетуге бапталған.
+	Сонымен қатар Adblock Edge зиянкес емес жарнаманы көрсетуге бапталған.
 ">
 <!ENTITY viewList.label "Тізімді қарау">
 <!ENTITY readMore.label "Бұл туралы көбірек оқу">

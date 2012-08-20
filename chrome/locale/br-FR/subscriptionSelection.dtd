@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Ouzhpenn ur c'houmanant en ul listenn siloù Adblock Plus">
+<!ENTITY dialog.title "Ouzhpenn ur c'houmanant en ul listenn siloù Adblock Edge">
 <!ENTITY subscriptionSelector.label "Diuzit ur c'houmanant el listenn da heul :">
 <!ENTITY viewList.label "Diskouez ar siloù">
 <!ENTITY visitHomepage.label "Mont el lec'hienn kenrouedad">
 <!ENTITY addSubscription.label "Ouzhpenn ar c'houmanant">
-<!ENTITY list.download.failed "N'hall ket Adblock Plus adtapout al listenn koumanantoù.">
+<!ENTITY list.download.failed "N'hall ket Adblock Edge adtapout al listenn koumanantoù.">
 <!ENTITY list.download.retry "Adober endro">
 <!ENTITY list.download.website "Diskouez al lec'hienn kenrouedad">
 <!ENTITY fromWeb.description "C'hoant hoc'h eus ouzhpenn ar c'houmanant-se. Gallout a rit cheñch an titl hag al lec'hiadur koumanant a-raok ouzhpenn anezhañ.">

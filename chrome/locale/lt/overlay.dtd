@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Būsena:">
 <!ENTITY blocked.tooltip "Šiame tinklalapyje užblokuoti elementai:">
 <!ENTITY filters.tooltip "Aktyviausi filtrai:">
-<!ENTITY menuitem.label "„Adblock Plus“ nustatymai">
+<!ENTITY menuitem.label "„Adblock Edge“ nustatymai">
 <!ENTITY menuitem.accesskey "A">
-<!ENTITY toolbarbutton.label "„Adblock Plus“">
-<!ENTITY context.image.label "„Adblock Plus“: Blokuoti paveikslėlį">
-<!ENTITY context.object.label "„Adblock Plus“: Blokuoti objektą">
-<!ENTITY context.frame.label "„Adblock Plus“: Blokuoti kadrą">
-<!ENTITY context.media.label "„Adblock Plus“: Blokuoti audio/video">
-<!ENTITY context.removeWhitelist.label "„Adblock Plus“: iš naujo įjungti šiame puslapyje">
+<!ENTITY toolbarbutton.label "„Adblock Edge“">
+<!ENTITY context.image.label "„Adblock Edge“: Blokuoti paveikslėlį">
+<!ENTITY context.object.label "„Adblock Edge“: Blokuoti objektą">
+<!ENTITY context.frame.label "„Adblock Edge“: Blokuoti kadrą">
+<!ENTITY context.media.label "„Adblock Edge“: Blokuoti audio/video">
+<!ENTITY context.removeWhitelist.label "„Adblock Edge“: iš naujo įjungti šiame puslapyje">
 <!ENTITY sidebar.title "Blokuojami elementai dabartiniame tinklalapyje">
 <!ENTITY sendReport.label "Pranešti apie problemą šiame puslapyje">
 <!ENTITY sendReport.accesskey "r">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Išjungti visur">
 <!ENTITY options.label "Pasirinktys">
 <!ENTITY options.accesskey "P">
-<!ENTITY contribute.label "Prisidėti prie Adblock Plus">
+<!ENTITY contribute.label "Prisidėti prie Adblock Edge">
 <!ENTITY showintoolbar.label "Rodyti priemonių juostoje">
 <!ENTITY showintoolbar.accesskey "R">
 <!ENTITY showinstatusbar.label "Rodyti būsenos juostoje">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Suskaičiuoti filtro blokavimus">
 <!ENTITY counthits.accesskey "k">
-<!ENTITY sync.label "Adblock Plus Sync nustatymai">
+<!ENTITY sync.label "Adblock Edge Sync nustatymai">
 <!ENTITY sync.accesskey "c">
 <!ENTITY objecttab.title "Blokuoti">
-<!ENTITY objecttab.tooltip "Spragtelėkite čia norėdami užblokuoti šį objektą su „Adblock Plus“">
+<!ENTITY objecttab.tooltip "Spragtelėkite čia norėdami užblokuoti šį objektą su „Adblock Edge“">

@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Bæta við Adblock Plus síu áskrift">
+<!ENTITY dialog.title "Bæta við Adblock Edge síu áskrift">
 <!ENTITY subscriptionSelector.label "Veldu síu áskrift úr listanum:">
 <!ENTITY viewList.label "Skoða síur">
 <!ENTITY visitHomepage.label "Heimsækja heimasíðu">
 <!ENTITY addSubscription.label "Bæta við áskrift">
-<!ENTITY list.download.failed "Adblock Plus gat ekki náð í lista af áskriftum.">
+<!ENTITY list.download.failed "Adblock Edge gat ekki náð í lista af áskriftum.">
 <!ENTITY list.download.retry "Reyndu aftur">
 <!ENTITY list.download.website "Skoða vefsvæði">
 <!ENTITY fromWeb.description "Staðfestu að þú viljir bæta við þessari síu áskrift. Þú getur breytt titlinum eða staðsetningu áður en þú bætir við.">

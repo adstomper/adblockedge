@@ -1,7 +1,7 @@
 <!ENTITY status.tooltip "Status:">
 <!ENTITY blocked.tooltip "Blokkerte elementer på denne siden:">
 <!ENTITY filters.tooltip "Mest aktive filtre:">
-<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.label "Adblock Edge">
 <!ENTITY menuitem.accesskey "B">
 <!ENTITY context.image.label "Adblock Bilde">
 <!ENTITY context.object.label "Adblock Objekt">
@@ -22,4 +22,4 @@
 <!ENTITY objecttabs.label "Vis fliker på Flash og Java">
 <!ENTITY objecttabs.accesskey "f">
 <!ENTITY objecttab.title "Blokkér">
-<!ENTITY objecttab.tooltip "Trykk her for å blokkere dette objektet med Adblock Plus">
+<!ENTITY objecttab.tooltip "Trykk her for å blokkere dette objektet med Adblock Edge">

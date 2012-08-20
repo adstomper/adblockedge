@@ -1,11 +1,11 @@
-<!ENTITY dialog.title               "Filterabonnement für Adblock Plus hinzufügen">
+<!ENTITY dialog.title               "Filterabonnement für Adblock Edge hinzufügen">
 <!ENTITY subscriptionSelector.label "Bitte wählen Sie ein Filterabonnement aus der Liste aus:">
 
 <!ENTITY viewList.label             "Filter ansehen">
 <!ENTITY visitHomepage.label        "Webseite der Filterliste besuchen">
 
 <!ENTITY addSubscription.label      "Filterabonnement hinzufügen">
-<!ENTITY list.download.failed       "Adblock Plus konnte die Liste der Filterabonnements nicht herunterladen.">
+<!ENTITY list.download.failed       "Adblock Edge konnte die Liste der Filterabonnements nicht herunterladen.">
 <!ENTITY list.download.retry        "Nochmal versuchen">
 <!ENTITY list.download.website      "Zur Webseite wechseln">
 <!ENTITY fromWeb.description        "Bitte bestätigen Sie, dass Sie dieses Filterabonnement hinzufügen möchten. Die Bezeichnung und Adresse der Abonnements können vor dem Hinzufügen geändert werden.">

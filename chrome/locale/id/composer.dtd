@@ -2,7 +2,7 @@
 <!ENTITY accept.label "Dodaj filtr">
 <!ENTITY advanced.label "Widok zaawansowany">
 <!ENTITY basic.label "Widok podstawowy">
-<!ENTITY disabled.warning "Adblock Plus jest wyłączony. Można dodawać filtry, ale nie będą one działały do czasu [link]włączenia Adblock Plusa[/link].">
+<!ENTITY disabled.warning "Adblock Edge jest wyłączony. Można dodawać filtry, ale nie będą one działały do czasu [link]włączenia Adblock Edgea[/link].">
 <!ENTITY filter.label "Nowy filtr:">
 <!ENTITY filter.accesskey "F">
 <!ENTITY preferences.label "Wyświetl istniejące filtry…">

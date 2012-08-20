@@ -17,7 +17,7 @@
 <!ENTITY recentReports.label "최근에 제출한 보고서">
 <!ENTITY recentReports.clear.label "모든 보고서 제거">
 <!ENTITY recentReports.clear.accesskey "R">
-<!ENTITY update.inProgress.description "아직 해결되지 않은 이슈로 인해 Adblock Plus가 필터를 업데이트 해야 합니다. 잠시만 기다려 주십시오...">
+<!ENTITY update.inProgress.description "아직 해결되지 않은 이슈로 인해 Adblock Edge가 필터를 업데이트 해야 합니다. 잠시만 기다려 주십시오...">
 <!ENTITY update.fixed.description "업데이트에 의해 보고된 이슈가 해결된 것 같습니다. 페이지 새로 고침을 하신 후 재시도 하십시오. 아직 문제가 더 있으면 다시 보고해 주십시오.">
 <!ENTITY outdatedSubscriptions.description "아래 필터가 적어도 2주 이상 업데이트 되지 않았습니다. 보고하기 이전에 먼저 필터를 업데이트 하여 주십시오. 업데이트를 하면 이슈가 해결될 수도 있습니다.">
 <!ENTITY update.start.label "지금 업데이트 시작하기">

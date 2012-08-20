@@ -1,9 +1,9 @@
-<!ENTITY dialog.title             "Составление фильтра для Adblock Plus">
+<!ENTITY dialog.title             "Составление фильтра для Adblock Edge">
 <!ENTITY accept.label             "Добавить фильтр">
 <!ENTITY advanced.label           "Расширенный вид">
 <!ENTITY basic.label              "Стандартный вид">
 
-<!ENTITY disabled.warning         "Adblock Plus сейчас отключен. Вы можете добавить этот фильтр, но чтобы он применился нужно [link]включить Adblock Plus[/link].">
+<!ENTITY disabled.warning         "Adblock Edge сейчас отключен. Вы можете добавить этот фильтр, но чтобы он применился нужно [link]включить Adblock Edge[/link].">
 
 <!ENTITY filter.label             "Новый фильтр:">
 <!ENTITY filter.accesskey         "ф">

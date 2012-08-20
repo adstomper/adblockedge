@@ -1,4 +1,4 @@
-<!ENTITY dialog.title "Adblock Plus Süzme Tercihleri">
+<!ENTITY dialog.title "Adblock Edge Süzme Tercihleri">
 <!ENTITY subscriptions.tab.label "Süzgeç abonelikleri">
 <!ENTITY filters.tab.label "İsteğe bağlı süzgeçler">
 <!ENTITY addSubscription.label "Süzgeç aboneliği ekle">
@@ -7,7 +7,7 @@
 <!ENTITY addSubscriptionCancel.label "Vazgeç">
 <!ENTITY addSubscriptionOther.label "Başka abonelik ekle">
 <!ENTITY noSubscriptions.text "
-	Henüz hiçbir süzgeç aboneliği eklemediniz. Adblock Plus süzgeç olmadan hiçbir şey
+	Henüz hiçbir süzgeç aboneliği eklemediniz. Adblock Edge süzgeç olmadan hiçbir şey
  engellemeyecektir. Abonelik eklemek için 
  lütfen &quot;Süzgeç aboneliği ekle&quot; düğmesini kullanın.">
 <!ENTITY subscription.homepage.label "Ana sayfa">
@@ -22,7 +22,7 @@
 <!ENTITY subscription.lastDownload.invalidData "Olmadı. Bu düzgün bir süzgeç listesi değil.">
 <!ENTITY subscription.lastDownload.checksumMismatch "Başarısız, checksum eşleşmedi">
 <!ENTITY subscription.lastDownload.success "Eşleme başarılı oldu.">
-<!ENTITY subscription.minVersion.warning "Bu süzgeç aboneliği daha yeni bir Adblock Plus sürümü gerektiriyor. En güncel Adblock Plus sürümüne yükseltmelisiniz.">
+<!ENTITY subscription.minVersion.warning "Bu süzgeç aboneliği daha yeni bir Adblock Edge sürümü gerektiriyor. En güncel Adblock Edge sürümüne yükseltmelisiniz.">
 <!ENTITY subscription.disabledFilters.warning "Bu abonelikteki bazı süzgeçler devre dışı.">
 <!ENTITY subscription.disabledFilters.enable "Devre dışı süzgeçleri devreye sok">
 <!ENTITY subscription.actions.label "Eylemler">
@@ -83,10 +83,10 @@
 <!ENTITY backup.complete.title "Tüm süzgeç ve abonelikler">
 <!ENTITY backup.custom.title "Sadece isteğe bağlı süzgeçler">
 <!ENTITY backup.error "Süzgeçler dosyaya yazılırken bir sorun meydana geldi. Dosyanın yazma korumalı veya başka bir uygulama tarafından kullanılmıyor olduğundan emin olun.">
-<!ENTITY restore.error "Dosya verisi işlenemiyor. Adblock Plus yedeği olmayabilir mi?">
+<!ENTITY restore.error "Dosya verisi işlenemiyor. Adblock Edge yedeği olmayabilir mi?">
 <!ENTITY restore.complete.warning "Tüm süzme tercihleriniz seçilen dosyanın içeriğiyle değiştirilecek. Devam etmek istiyor musunuz?">
 <!ENTITY restore.custom.warning "Tüm isteğe bağlı süzgeçleriniz seçilen dosyanın içeriğiyle değiştirilecek. Devam etmek istiyor musunuz?">
-<!ENTITY restore.minVersion.warning "Uyarı: Dosya Adblock Plus'ın daha yeni bir sürümüyle oluşturulmuş. Bu dosyayı geri getirmeden önce Adblock Plus'ı en güncel sürümüne yükseltmelisiniz.">
+<!ENTITY restore.minVersion.warning "Uyarı: Dosya Adblock Edge'ın daha yeni bir sürümüyle oluşturulmuş. Bu dosyayı geri getirmeden önce Adblock Edge'ı en güncel sürümüne yükseltmelisiniz.">
 <!ENTITY find.label "Bul">
 <!ENTITY find.accesskey "b">
 <!ENTITY close.label "Kapat">

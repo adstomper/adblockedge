@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Tambah langganan penapis Adblock Plus">
+<!ENTITY dialog.title "Tambah langganan penapis Adblock Edge">
 <!ENTITY subscriptionSelector.label "Sila pilih langganan penapis dalam senarai berikut:">
 <!ENTITY viewList.label "Papar penapis">
-<!ENTITY visitHomepage.label "Lawat laman web Adblock Plus">
+<!ENTITY visitHomepage.label "Lawat laman web Adblock Edge">
 <!ENTITY addSubscription.label "Tambah langganan">
-<!ENTITY list.download.failed "Adblock Plus gagal memuat-turun senarai langganan.">
+<!ENTITY list.download.failed "Adblock Edge gagal memuat-turun senarai langganan.">
 <!ENTITY list.download.retry "Cuba lagi">
 <!ENTITY list.download.website "Papar laman web">
 <!ENTITY fromWeb.description "Sila pastikan anda mahu menambah langganan penapis ini. Anda boleh mengubah tajuk langganan atau lokasi sebelum menambahnya.">

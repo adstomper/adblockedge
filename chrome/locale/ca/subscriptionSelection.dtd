@@ -1,9 +1,9 @@
-<!ENTITY dialog.title "Afegeix la subscripció de filtre per a Adblock Plus">
+<!ENTITY dialog.title "Afegeix la subscripció de filtre per a Adblock Edge">
 <!ENTITY subscriptionSelector.label "Si us plau tria una subscripció de filtre a la llista:">
 <!ENTITY viewList.label "Veure filtres">
 <!ENTITY visitHomepage.label "Vista la pàgina web">
 <!ENTITY addSubscription.label "Afegeix subscripció">
-<!ENTITY list.download.failed "Adblock Plus ha fallat en trobar la llista de les subscripcions.">
+<!ENTITY list.download.failed "Adblock Edge ha fallat en trobar la llista de les subscripcions.">
 <!ENTITY list.download.retry "Torna-ho a provar">
 <!ENTITY list.download.website "Veure pàgina web">
 <!ENTITY fromWeb.description "Si us plau confirma que vols afegir aquesta subscripció de filtre.Pots canviar el títol de la subscripció o la localització abans d'afegir-la.">

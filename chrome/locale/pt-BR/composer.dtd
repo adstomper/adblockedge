@@ -1,8 +1,8 @@
-<!ENTITY dialog.title "Adicionar regra de filtro do Adblock Plus">
+<!ENTITY dialog.title "Adicionar regra de filtro do Adblock Edge">
 <!ENTITY accept.label "Adicionar filtro">
 <!ENTITY advanced.label "Visualização avançada">
 <!ENTITY basic.label "Visualização básica">
-<!ENTITY disabled.warning "O Adblock Plus está desativado atualmente. Você pode adicionar filtros mesmo assim, mas eles não serão aplicados até que você [link]ative o Adblock Plus[/link].">
+<!ENTITY disabled.warning "O Adblock Edge está desativado atualmente. Você pode adicionar filtros mesmo assim, mas eles não serão aplicados até que você [link]ative o Adblock Edge[/link].">
 <!ENTITY filter.label "Novo filtro:">
 <!ENTITY filter.accesskey "f">
 <!ENTITY preferences.label "Mostrar filtros existentes...">

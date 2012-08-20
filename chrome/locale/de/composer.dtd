@@ -3,7 +3,7 @@
 <!ENTITY advanced.label           "Erweiterte Ansicht">
 <!ENTITY basic.label              "Standardansicht">
 
-<!ENTITY disabled.warning         "Adblock Plus ist deaktiviert. Sie können trotzdem den Filter hinzufügen, dieser wird jedoch erst angewandt, wenn Sie [link]Adblock Plus aktivieren[/link].">
+<!ENTITY disabled.warning         "Adblock Edge ist deaktiviert. Sie können trotzdem den Filter hinzufügen, dieser wird jedoch erst angewandt, wenn Sie [link]Adblock Edge aktivieren[/link].">
 
 <!ENTITY filter.label             "Neuer Filter:">
 <!ENTITY filter.accesskey         "r">

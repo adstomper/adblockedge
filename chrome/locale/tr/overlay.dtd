@@ -1,14 +1,14 @@
 <!ENTITY status.tooltip "Durum:">
 <!ENTITY blocked.tooltip "Bu sayfada engellenen öğeler:">
 <!ENTITY filters.tooltip "En etkin süzgeçler:">
-<!ENTITY menuitem.label "Adblock Plus">
+<!ENTITY menuitem.label "Adblock Edge">
 <!ENTITY menuitem.accesskey "A">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY toolbarbutton.label "Adblock Edge">
 <!ENTITY context.image.label "Resmi engelle">
 <!ENTITY context.object.label "Nesneyi engelle">
 <!ENTITY context.frame.label "Çerçeveyi engelle">
-<!ENTITY context.media.label "Adblock Plus: Ses/Video engelle">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Bu sayfada devreye sok">
+<!ENTITY context.media.label "Adblock Edge: Ses/Video engelle">
+<!ENTITY context.removeWhitelist.label "Adblock Edge: Bu sayfada devreye sok">
 <!ENTITY sidebar.title "Bu sayfadaki engellenebilecek öğeler">
 <!ENTITY sendReport.label "Bu sayfadaki sorunu bildir">
 <!ENTITY sendReport.accesskey "b">
@@ -23,7 +23,7 @@
 <!ENTITY disable.label "Her yerde devre dışı kal">
 <!ENTITY options.label "Seçenekler">
 <!ENTITY options.accesskey "e">
-<!ENTITY contribute.label "Adblock Plus'a katkıda bulun">
+<!ENTITY contribute.label "Adblock Edge'a katkıda bulun">
 <!ENTITY showintoolbar.label "Araç çubuğunda göster">
 <!ENTITY showintoolbar.accesskey "r">
 <!ENTITY showinstatusbar.label "Durum çubuğunda göster">
@@ -36,7 +36,7 @@
 <!ENTITY hideplaceholders.accesskey "l">
 <!ENTITY counthits.label "Süzgeç isabetini say">
 <!ENTITY counthits.accesskey "b">
-<!ENTITY sync.label "Adblock Plus ayarlarını eşitle">
+<!ENTITY sync.label "Adblock Edge ayarlarını eşitle">
 <!ENTITY sync.accesskey "e">
 <!ENTITY objecttab.title "Engelle">
-<!ENTITY objecttab.tooltip "Bu nesneyi Adblock Plus ile engellemek için buraya tıklayın.">
+<!ENTITY objecttab.tooltip "Bu nesneyi Adblock Edge ile engellemek için buraya tıklayın.">
