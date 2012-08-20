@@ -276,7 +276,8 @@ ListManager.prototype =
 ListManager.init = function()
 {
   new ListManager(E("subscriptions"),
-                  E("subscriptionTemplate"),                  
+                  E("subscriptionTemplate"),
+                  function(s) s instanceof RegularSubscription);                  
   new ListManager(E("groups"),
                   E("groupTemplate"),
                   function(s) s instanceof SpecialSubscription,
