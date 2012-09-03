@@ -12,13 +12,13 @@ const Cu = Components.utils;
 Cu.import("resource://gre/modules/Services.jsm");
 
 /**
- * Imports a module from Adblock Plus core.
+ * Imports a module from Adblock Edge core.
  */
 function require(/**String*/ module)
 {
   let result = {};
   result.wrappedJSObject = result;
-  Services.obs.notifyObservers(result, "adblockplus-require", module);
+  Services.obs.notifyObservers(result, "adblockedge-require", module);
   return result.exports;
 }
 

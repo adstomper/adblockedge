@@ -6,14 +6,14 @@
 
 <?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
 <?xml-stylesheet href="chrome://global/skin/wizard.css" type="text/css"?>
-<?xml-stylesheet href="chrome://adblockplus/skin/sendReport.css" type="text/css"?>
+<?xml-stylesheet href="chrome://adblockedge/skin/sendReport.css" type="text/css"?>
 
 <?xul-overlay href="progressBar.xul"?>
 
 <!DOCTYPE dialog [
-<!ENTITY % reporterDTD SYSTEM "chrome://adblockplus/locale/sendReport.dtd">
+<!ENTITY % reporterDTD SYSTEM "chrome://adblockedge/locale/sendReport.dtd">
 %reporterDTD;
-<!ENTITY % filtersDTD SYSTEM "chrome://adblockplus/locale/filters.dtd">
+<!ENTITY % filtersDTD SYSTEM "chrome://adblockedge/locale/filters.dtd">
 %filtersDTD;
 ]>
 

@@ -5,9 +5,9 @@
    - http://mozilla.org/MPL/2.0/. -->
 
 <?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
-<?xml-stylesheet href="chrome://adblockplus/skin/filters.css" type="text/css"?>
+<?xml-stylesheet href="chrome://adblockedge/skin/filters.css" type="text/css"?>
 
-<!DOCTYPE dialog SYSTEM "chrome://adblockplus/locale/filters.dtd">
+<!DOCTYPE dialog SYSTEM "chrome://adblockedge/locale/filters.dtd">
 
 <dialog
   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"

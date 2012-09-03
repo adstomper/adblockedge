@@ -41,7 +41,7 @@
         let {Services} = Components.utils.import("resource://gre/modules/Services.jsm");
         let result = {};
         result.wrappedJSObject = result;
-        Services.obs.notifyObservers(result, "adblockplus-require", module);
+        Services.obs.notifyObservers(result, "adblockedge-require", module);
         return result.exports;
       }
       let {addonVersion, addonID} = require("info");

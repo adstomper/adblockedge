@@ -1,10 +1,10 @@
 [general]
 id={d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}
-basename=adblockplus
-branchname=ADBLOCK_PLUS
-version=2.1.2
-author=Wladimir Palant
-options=chrome://adblockplus/content/ui/settings.xul
+basename=adblockedge
+branchname=ADBLOCK_EDGE
+version=2.0
+author=Wladimir Palant, Adstomper
+options=chrome://adblockedge/content/ui/settings.xul
 optionsType=2
 
 [contributors]
@@ -30,8 +30,8 @@ zh-CN=https://adblockplus.org/zh_CN/
 zh-TW=https://adblockplus.org/zh_TW/
 
 [compat]
-firefox=8.0/17.0a1
-fennec2=11.0a1/17.0a1
-thunderbird=8.0/17.0a1
+firefox=8.0/18.0a1
+fennec2=11.0a1/18.0a1
+thunderbird=8.0/18.0a1
 seamonkey=2.5/2.14a1
-toolkit=8.0/17.0a1
+toolkit=8.0/18.0a1

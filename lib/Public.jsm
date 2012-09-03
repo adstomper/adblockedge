@@ -5,7 +5,7 @@
  */
 
 /**
- * @fileOverview Public Adblock Plus API.
+ * @fileOverview Public Adblock Edge API.
  */
 
 var EXPORTED_SYMBOLS = ["AdblockPlus"];
@@ -21,7 +21,7 @@ function require(module)
 {
   let result = {};
   result.wrappedJSObject = result;
-  Services.obs.notifyObservers(result, "adblockplus-require", module);
+  Services.obs.notifyObservers(result, "adblockedge-require", module);
   return result.exports;
 }
 

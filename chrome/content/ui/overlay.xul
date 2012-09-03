@@ -5,9 +5,9 @@
    - http://mozilla.org/MPL/2.0/. -->
 
 <!DOCTYPE overlay [
-  <!ENTITY % overlayDTD SYSTEM "chrome://adblockplus/locale/overlay.dtd">
+  <!ENTITY % overlayDTD SYSTEM "chrome://adblockedge/locale/overlay.dtd">
   %overlayDTD;
-  <!ENTITY % subscriptionsDTD SYSTEM "chrome://adblockplus/locale/subscriptionSelection.dtd">
+  <!ENTITY % subscriptionsDTD SYSTEM "chrome://adblockedge/locale/subscriptionSelection.dtd">
   %subscriptionsDTD;
 ]>
 
@@ -102,7 +102,7 @@
           <toolbarbutton id="abp-bottombar-close" command="abp-command-sidebar" tooltiptext="&closesidebar.label;"/>
         </toolbar>
       </toolbox>
-      <iframe id="abp-bottombar-browser" src="chrome://adblockplus/content/ui/sidebar.xul" flex="1"/>
+      <iframe id="abp-bottombar-browser" src="chrome://adblockedge/content/ui/sidebar.xul" flex="1"/>
     </vbox>
   </hbox>
 </overlay>
