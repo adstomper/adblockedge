@@ -14,7 +14,7 @@ pref("extensions.adblockedge.filters_key", "Accel Shift E, Accel Shift F, Accel 
 pref("extensions.adblockedge.enable_key", "");
 pref("extensions.adblockedge.flash_scrolltoitem", true);
 pref("extensions.adblockedge.previewimages", true);
-pref("extensions.adblockedge.data_directory", "adblockplus");
+pref("extensions.adblockedge.data_directory", "adblockedge");
 pref("extensions.adblockedge.patternsbackups", 5);
 pref("extensions.adblockedge.patternsbackupinterval", 24);
 pref("extensions.adblockedge.whitelistschemes", "about chrome file irc moz-safe-about news resource snews x-jsd addbook cid imap mailbox nntp pop data javascript moz-icon");
@@ -23,7 +23,7 @@ pref("extensions.adblockedge.subscriptions_listurl", "https://adblockplus.org/su
 pref("extensions.adblockedge.subscriptions_fallbackurl", "https://adblockplus.org/getSubscription?version=%VERSION%&url=%SUBSCRIPTION%&downloadURL=%URL%&error=%ERROR%&channelStatus=%CHANNELSTATUS%&responseStatus=%RESPONSESTATUS%");
 pref("extensions.adblockedge.subscriptions_fallbackerrors", 5);
 pref("extensions.adblockedge.documentation_link", "https://adblockplus.org/redirect?link=%LINK%&lang=%LANG%");
-pref("extensions.adblockedge.savestats", true);
+pref("extensions.adblockedge.savestats", false);
 pref("extensions.adblockedge.composer_default", 2);
 pref("extensions.adblockedge.clearStatsOnHistoryPurge", true);
 pref("extensions.adblockedge.report_submiturl", "https://reports.adblockplus.org/submitReport?version=1&guid=%GUID%&lang=%LANG%");
