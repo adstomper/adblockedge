@@ -9,7 +9,6 @@ pref("extensions.adblockedge.detachsidebar", false);
 pref("extensions.adblockedge.defaulttoolbaraction", 0);
 pref("extensions.adblockedge.defaultstatusbaraction", 0);
 pref("extensions.adblockedge.sidebar_key", "Accel Shift V, Accel Shift U");
-pref("extensions.adblockedge.sendReport_key", "");
 pref("extensions.adblockedge.filters_key", "Accel Shift E, Accel Shift F, Accel Shift O");
 pref("extensions.adblockedge.enable_key", "");
 pref("extensions.adblockedge.flash_scrolltoitem", true);
@@ -26,7 +25,6 @@ pref("extensions.adblockedge.documentation_link", "https://adblockplus.org/redir
 pref("extensions.adblockedge.savestats", false);
 pref("extensions.adblockedge.composer_default", 2);
 pref("extensions.adblockedge.clearStatsOnHistoryPurge", true);
-pref("extensions.adblockedge.report_submiturl", "https://reports.adblockplus.org/submitReport?version=1&guid=%GUID%&lang=%LANG%");
 pref("extensions.adblockedge.recentReports", []);
 pref("extensions.adblockedge.hideContributeButton", false);
 pref("extensions.adblockedge.blockableItemsSize", {width: 200, height: 200});

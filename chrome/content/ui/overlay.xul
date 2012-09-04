@@ -33,8 +33,7 @@
   </popupset>
 
   <!-- Icon's context menu -->
-  <menupopup id="abp-status-popup" context="">
-    <menuitem id="abp-status-sendReport" label="&sendReport.label;…" accesskey="&sendReport.accesskey;" key="abp-key-sendReport" command="abp-command-sendReport"/>
+  <menupopup id="abp-status-popup" context="">    
     <menuitem id="abp-status-openbottombar" label="&opensidebar.label;" accesskey="&opensidebar.accesskey;" key="abp-key-sidebar" command="abp-command-sidebar"/>
     <menuitem id="abp-status-closebottombar" label="&closesidebar.label;" accesskey="&closesidebar.accesskey;" key="abp-key-sidebar" command="abp-command-sidebar"/>
     <menuitem id="abp-status-filters" label="&filters.label;…" accesskey="&filters.accesskey;" key="abp-key-filters" command="abp-command-filters"/>
@@ -65,8 +64,7 @@
   <keyset id="abp-keyset"/>
 
   <!-- Dummy oncommand attributes are work-arounds for bug 371900 -->
-  <commandset id="abp-commandset">
-    <command id="abp-command-sendReport" oncommand="//"/>
+  <commandset id="abp-commandset">    
     <command id="abp-command-filters" oncommand="//"/>
     <command id="abp-command-settings" oncommand="//"/>
     <command id="abp-command-sidebar" oncommand="//"/>
