@@ -25,6 +25,5 @@ pref("extensions.adblockedge.documentation_link", "https://adblockplus.org/redir
 pref("extensions.adblockedge.savestats", false);
 pref("extensions.adblockedge.composer_default", 2);
 pref("extensions.adblockedge.clearStatsOnHistoryPurge", true);
-pref("extensions.adblockedge.recentReports", []);
 pref("extensions.adblockedge.hideContributeButton", false);
 pref("extensions.adblockedge.blockableItemsSize", {width: 200, height: 200});

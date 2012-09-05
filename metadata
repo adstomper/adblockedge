@@ -3,7 +3,7 @@ id={fe272bd1-5f76-4ea4-8501-a05d35d823fc}
 basename=adblockedge
 branchname=ADBLOCK_EDGE
 version=2.0
-author=Wladimir Palant, Adstomper
+author=Wladimir Palant (Original ABP 2.1.2 Author), Adstomper (Adblock Edge Author)
 options=chrome://adblockedge/content/ui/settings.xul
 optionsType=2
 
@@ -17,7 +17,7 @@ optionsType=2
 additional=chrome/content/ui/subscriptions.xml //subscription/@author
 
 [homepage]
-default=http://adblockplus.org/
+default=http://bitbucket.org/adstomper/adblockedge
 ar=http://adblockplus.org/ar/
 de=http://adblockplus.org/de/
 en=http://adblockplus.org/en/
@@ -30,8 +30,8 @@ zh-CN=https://adblockplus.org/zh_CN/
 zh-TW=https://adblockplus.org/zh_TW/
 
 [compat]
-firefox=8.0/18.0a1
+firefox=10.0/18.0a1
 fennec2=11.0a1/18.0a1
-thunderbird=8.0/18.0a1
+thunderbird=10.0/18.0a1
 seamonkey=2.5/2.14a1
-toolkit=8.0/18.0a1
+toolkit=10.0/18.0a1
