@@ -2,7 +2,7 @@
 id={fe272bd1-5f76-4ea4-8501-a05d35d823fc}
 basename=adblockedge
 branchname=ADBLOCK_EDGE
-version=2.0
+version=2.0.1
 author=Wladimir Palant (Original ABP 2.1.2 Author), Adstomper (Adblock Edge Author)
 options=chrome://adblockedge/content/ui/settings.xul
 optionsType=2
