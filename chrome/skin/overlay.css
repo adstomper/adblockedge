@@ -137,29 +137,3 @@ toolbar[mode="full"] #abp-toolbarbutton[type="menu"]
 #abp-bottombar-close:hover:active {
   -moz-image-region: rect(0px, 42px, 14px, 28px);
 }
-
-.abp-contributebutton
-{
-  margin-top: 20px;
-}
-
-.abp-contributebutton-btn
-{
-  font: -moz-info;
-  margin-left: 40px;
-  margin-right: 40px;
-}
-
-.abp-contributebutton-close
-{
-  border-style: none !important;
-  -moz-user-focus: normal;
-  list-style-image: url("close.png");
-  -moz-appearance: none;
-  -moz-image-region: rect(0px, 14px, 14px, 0px);
-}
-
-.abp-contributebutton-close:hover
-{
-  -moz-image-region: rect(0px, 28px, 14px, 14px);
-}
