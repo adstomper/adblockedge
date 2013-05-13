@@ -848,26 +848,44 @@ var treeView = {
     }
   },
 
-  getColumnProperties: function(col, properties) {
-    col = col.id;
-
-    if ("col-" + col in this.atoms)
-      properties.AppendElement(this.atoms["col-" + col]);
+  generateProperties: function(list, properties)
+  {
+    if (properties)
+    {
+      // Gecko 21 and below: we have an nsISupportsArray parameter, add atoms
+      // to that.
+      for (let i = 0; i < list.length; i++)
+        if (list[i] in this.atoms)
+          properties.AppendElement(this.atoms[list[i]]);
+      return null;
+    }
+    else
+    {
+      // Gecko 22+: no parameter, just return a string
+      return list.join(" ");
+    }
   },
 
-  getRowProperties: function(row, properties) {
+  getColumnProperties: function(col, properties)
+  {
+    return this.generateProperties(["col-" + col.id], properties);
+  },
+
+  getRowProperties: function(row, properties)
+  {
     if (row >= this.rowCount)
-      return;
+      return"";
 
-    properties.AppendElement(this.atoms["selected-" + this.selection.isSelected(row)]);
+    let list = [];
+    list.push("selected-" + this.selection.isSelected(row));
 
-    var state;
+    let state;
     if (this.data && this.data.length) {
-      properties.AppendElement(this.atoms["dummy-false"]);
+      list.push("dummy-false");
 
       let filter = this.data[row].filter;
       if (filter)
-        properties.AppendElement(this.atoms["filter-disabled-" + filter.disabled]);
+        list.push("filter-disabled-" + filter.disabled);
 
       state = "state-regular";
       if (filter && !filter.disabled)
@@ -883,19 +901,19 @@ var treeView = {
       }
     }
     else {
-      properties.AppendElement(this.atoms["dummy-true"]);
+      list.push("dummy-true");
 
       state = "state-filtered";
       if (this.data && Policy.isWindowWhitelisted(window.content))
         state = "state-whitelisted";
     }
-    properties.AppendElement(this.atoms[state]);
+    list.push(state);
+    return this.generateProperties(list, properties);
   },
 
   getCellProperties: function(row, col, properties)
   {
-    this.getColumnProperties(col, properties);
-    this.getRowProperties(row, properties);
+    return this.getRowProperties(row, properties) + " " + this.getColumnProperties(col, properties);
   },
 
   cycleHeader: function(col) {
