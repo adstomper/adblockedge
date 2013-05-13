@@ -693,6 +693,7 @@ var FilterView =
   {
     if (row < 0 || row >= this.data.length)
       return"";
+      
     let list = [];
     let filter = this.data[row].filter;
     list.push("selected-" + this.selection.isSelected(row));
