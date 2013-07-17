@@ -72,7 +72,6 @@
                 specialization="English"
                 url="https://secure.fanboy.co.nz/fanboy-adblock.txt"
                 homepage="https://www.fanboy.co.nz/"
-                prefixes="en"
                 author="fanboy, Nitrox"/>
   <subscription title="Latvian List+EasyList"
                 specialization="latviešu valoda"
