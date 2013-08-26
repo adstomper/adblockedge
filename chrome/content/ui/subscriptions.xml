@@ -56,7 +56,7 @@
   <subscription title="IsraelList+EasyList"
                 specialization="?????"
                 url="https://easylist-downloads.adblockplus.org/israellist+easylist.txt"
-                homepage="https://github.com/rafiw/AdBlockIsraelList"
+                homepage="https://github.com/AdBlockPlusIsrael/EasyListIsrael"
                 prefixes="he"
                 author="BsT, rafiw"/>
   <subscription title="Easy Privacy"
