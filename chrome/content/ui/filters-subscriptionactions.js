@@ -111,7 +111,7 @@ var SubscriptionActions =
     {
       let subscription = FilterStorage.subscriptions[i];
       if (subscription instanceof DownloadableSubscription)
-        Synchronizer.execute(data.subscription, true);
+        Synchronizer.execute(subscription, true);
     }
   },
 
