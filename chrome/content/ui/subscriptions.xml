@@ -64,6 +64,11 @@
                 url="https://easylist-downloads.adblockplus.org/easyprivacy.txt"
                 homepage="https://easylist.adblockplus.org/"                
                 author="fanboy, MonztA, Famlam, Khrin"/>
+  <subscription title="Easy Privacy + EasyList"
+                specialization="EasyList With web tracking blocking"
+                url="https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
+                homepage="https://easylist.adblockplus.org/"                
+                author="fanboy, MonztA, Famlam, Khrin"/>
   <subscription title="Fanboy's Social Blocking List"
                 specialization="Social network blocking"
                 url="https://easylist-downloads.adblockplus.org/fanboy-social.txt"
