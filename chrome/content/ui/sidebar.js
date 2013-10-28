@@ -290,12 +290,31 @@ function fillInTooltip(e) {
       var cacheService = Cc["@mozilla.org/network/cache-service;1"].getService(Ci.nsICacheService);
       cacheSession = cacheService.createSession("HTTP", Ci.nsICache.STORE_ANYWHERE, true);
     }
-
-    try {
-      var descriptor = cacheSession.openCacheEntry(item.location, Ci.nsICache.ACCESS_READ, false);
-      descriptor.close();
-    }
-    catch (e) {
+       var descriptor = null;
+       let cacheListener = {
+          onCacheEntryAvailable: function(desc, accessGranted, status)
+          {
+             if (!desc)
+             {
+                showPreview = false;
+                return;
+             }
+             descriptor = desc;
+             descriptor.close();
+             // Show preview here since this is asynchronous now
+             // and we have a valid descriptor
+             E("tooltipPreview").setAttribute("src", item.location);
+          },
+          onCacheEntryDoomed: function(status) {}
+       };
+       
+       try
+       {
+          cacheSession.asyncOpenCacheEntry(item.location, Ci.nsICache.ACCESS_READ, cacheListener);
+       }
+    catch (e) 
+    {
+      Cu.reportError(e);
       showPreview = false;
     }
   }
@@ -303,7 +322,6 @@ function fillInTooltip(e) {
   if (showPreview) {
     E("tooltipPreviewBox").hidden = false;
     E("tooltipPreview").setAttribute("src", "");
-    E("tooltipPreview").setAttribute("src", item.location);
   }
   else
     E("tooltipPreviewBox").hidden = true;
