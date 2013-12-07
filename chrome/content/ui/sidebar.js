@@ -306,7 +306,9 @@ function fillInTooltip(e) {
           E("tooltipPreview").setAttribute("src", item.location);
           E("tooltipPreviewBox").hidden = false;
        },
-       onCacheEntryDoomed: function(status)       
+       onCacheEntryDoomed: function(status)
+       {
+       }       
     };
     
     try
