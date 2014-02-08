@@ -1,2 +1,2 @@
-Adblock Edge is a fork of the Adblock Plus® version 2.1.2 extension for blocking advertisements on the web.
-Adblock Edge was primarily branched off from Adblock Plus® 2.1.2 source code package "https://adblockplus.org/downloads/adblockplus-2.1.2-source.tgz" created by Wladimir Palant.
+Adblock Edge is a fork of the Adblock Plus(R) version 2.1.2 extension for blocking advertisements on the web.
+Adblock Edge was primarily branched off from Adblock Plus(R) 2.1.2 source code package "https://adblockplus.org/downloads/adblockplus-2.1.2-source.tgz" created by Wladimir Palant.
