@@ -84,10 +84,10 @@ var flasher = {
       }
     }
   },
-
+//Color Set to blue
   switchOn: function()
   {
-    this.setOutline("#CC0000 dotted 2px", "-2px");
+    this.setOutline("#3333FF dotted 2px", "-2px");
   },
 
   switchOff: function()

@@ -112,7 +112,7 @@ function cleanUp() {
 }
 
 /**
- * Tracks preference changes, calls reloadDisabledFilters whenever Adblock Plus
+ * Tracks preference changes, calls reloadDisabledFilters whenever Adblock Edge
  * is enabled/disabled.
  */
 function onPrefChange(name)
