@@ -148,6 +148,32 @@ FilterSearch.fakeBrowser =
     setSelectionModeAndRepaint: function() {},
     collapseSelection: function() {}
   },
+
+  finder:
+  {
+    searchString: null,
+    caseSensitive: false,
+    addResultListener: function(){},
+    removeResultListener: function(){},
+    highlight: function(){},
+    enableSelection: function(){},
+    fastFind: function(searchString, linksOnly)
+    {
+      this.searchString = searchString;
+      return FilterSearch.search(this.searchString, 0, this.caseSensitive);
+    },
+    
+    findAgain: function(findBackwards, linksOnly)
+    {
+      return FilterSearch.search(this.searchString, findBackwards ? -1 : 1, this.caseSensitive);
+    },
+    
+    focusContent: function()
+    {
+      return FilterSearch.fakeBrowser.contentWindow.focus();
+    },
+  },
+  
   currentURI: Utils.makeURI("http://example.com/"),
   contentWindow:
   {
