@@ -148,7 +148,10 @@ FilterSearch.fakeBrowser =
     setSelectionModeAndRepaint: function() {},
     collapseSelection: function() {}
   },
-
+  
+  _finder: null,
+  _lastSearchString: null,
+  
   finder:
   {
     searchString: null,
