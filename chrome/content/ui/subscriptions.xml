@@ -78,12 +78,7 @@
                 specialization="Malware blocking"
                 url="https://easylist-downloads.adblockplus.org/malwaredomains_full.txt"
                 homepage="http://malwaredomains.com/"                
-                author="fanboy, MonztA, Famlam, Khrin"/>                           
-  <subscription title="Fanboy&#39;s List(discontinued)"
-                specialization="English"
-                url="https://secure.fanboy.co.nz/fanboy-adblock.txt"
-                homepage="https://www.fanboy.co.nz/"
-                author="fanboy, Nitrox"/>
+                author="fanboy, MonztA, Famlam, Khrin"/>
   <subscription title="Latvian List+EasyList"
                 specialization="latviešu valoda"
                 url="https://easylist-downloads.adblockplus.org/latvianlist+easylist.txt"
