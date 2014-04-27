@@ -82,7 +82,7 @@ var AdblockPlus =
     subscription.lastDownload = parseInt(new Date().getTime() / 1000);
 
     let newFilters = [];
-    for each (let filter in filters)
+    for (let filter of filters)
     {
       filter = Filter.fromText(Filter.normalize(filter));
       if (filter)
@@ -119,7 +119,7 @@ var AdblockPlus =
    */
   addPatterns: function(/**Array of String*/ filters)
   {
-    for each (let filter in filters)
+    for (let filter of filters)
     {
       filter = Filter.fromText(Filter.normalize(filter));
       if (filter)
@@ -135,7 +135,7 @@ var AdblockPlus =
    */
   removePatterns: function(/**Array of String*/ filters)
   {
-    for each (let filter in filters)
+    for (let filter of filters)
     {
       filter = Filter.fromText(Filter.normalize(filter));
       if (filter)
