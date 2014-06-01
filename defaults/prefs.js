@@ -26,3 +26,4 @@ pref("extensions.adblockedge.savestats", false);
 pref("extensions.adblockedge.composer_default", 2);
 pref("extensions.adblockedge.clearStatsOnHistoryPurge", true);
 pref("extensions.adblockedge.blockableItemsSize", {width: 200, height: 200});
+pref("extensions.adblockedge.disable_startup_delay", true);
