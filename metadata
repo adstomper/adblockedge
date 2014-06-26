@@ -30,8 +30,8 @@ zh-CN=http://bitbucket.org/adstomper/adblockedge
 zh-TW=http://bitbucket.org/adstomper/adblockedge
 
 [compat]
-firefox=20.0/33.0
-fennec2=20.0/33.0
-thunderbird=20.0/33.0
-seamonkey=2.16/2.30
-toolkit=20.0/33.0
+firefox=22.0/33.0
+fennec2=22.0/33.0
+thunderbird=22.0/33.0
+seamonkey=2.19/2.30
+toolkit=22.0/33.0
