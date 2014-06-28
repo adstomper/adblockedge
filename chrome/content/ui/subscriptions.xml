@@ -58,7 +58,13 @@
                 url="https://easylist-downloads.adblockplus.org/easylistitaly+easylist.txt"
                 homepage="https://easylist.adblockplus.org/"
                 prefixes="it"
-                author="Khrin"/>
+                author="Khrin"/>              
+  <subscription title="EasyList Lithuania+EasyList"
+                specialization="lietuvių kalba"
+                url="https://easylist-downloads.adblockplus.org/easylistlithuania+easylist.txt"
+                homepage="http://margevicius.lt/"
+                prefixes="lt"
+                author="Algimantas Margevičius"/>                
   <subscription title="Easy Privacy + EasyList"
                 specialization="EasyList With web tracking blocking"
                 url="https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
