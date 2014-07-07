@@ -17,6 +17,11 @@
                 homepage="http://abpindo.blogspot.com/"
                 prefixes="id"
                 author="heradhis"/>
+  <subscription title="Adblock Warning Removal List"
+                specialization="Bahasa Indonesia"
+                url="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
+                homepage="https://easylist.adblockplus.org/"                
+                author="fanboy, MonztA, Famlam, Khrin"/>
   <subscription title="Bulgarian list+EasyList"
                 specialization="български"
                 url="https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt"
