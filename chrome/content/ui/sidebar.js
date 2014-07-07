@@ -189,6 +189,7 @@ function handleLocationChange()
     if (item)
       treeView.addItem(node, item, scanComplete);
   });
+  cacheStorage = null;
 }
 
 // Fills a box with text splitting it up into multiple lines if necessary
@@ -291,10 +292,13 @@ function fillInTooltip(e) {
     {
       let {Services} = Cu.import("resource://gre/modules/Services.jsm", null);
       // Cache v2 API is enabled by default starting with Gecko 32
-      if (Services.vc.compare(Utils.platformVersion, "32.0") >= 0)
+      if (Services.vc.compare(Utils.platformVersion, "32.0a1") >= 0)
       {
         let {LoadContextInfo} = Cu.import("resource://gre/modules/LoadContextInfo.jsm", null);
-        cacheStorage = Services.cache2.diskCacheStorage(LoadContextInfo.default, true);
+        let loadContext = content.QueryInterface(Ci.nsIInterfaceRequestor)
+                                 .getInterface(Ci.nsIWebNavigation)
+                                 .QueryInterface(Ci.nsILoadContext);
+        cacheStorage = Services.cache2.diskCacheStorage(LoadContextInfo.fromLoadContext(loadContext, false), false);
       }
       else
         cacheStorage = Services.cache.createSession("HTTP", Ci.nsICache.STORE_ANYWHERE, true);
@@ -315,7 +319,8 @@ function fillInTooltip(e) {
           {
             return Ci.nsICacheEntryOpenCallback.ENTRY_WANTED;
           },
-          onCacheEntryAvailable: function (entry, isNew, appCache, status) {
+          onCacheEntryAvailable: function (entry, isNew, appCache, status)
+          {
             if (!isNew)
               showTooltipPreview();
           }
