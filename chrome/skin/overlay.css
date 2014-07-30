@@ -71,7 +71,7 @@ menuitem[default="true"] {
 }
 
 /* Hack: force the label to be displayed below icon for type="menu" */
-#abp-toolbarbutton[type="menu"]
+#abp-toolbarbutton[type="menu"]:not([cui-areatype="menu-panel"])
 {
   -moz-box-orient: horizontal;
 }
