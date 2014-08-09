@@ -18,7 +18,7 @@
                 prefixes="id"
                 author="heradhis"/>
   <subscription title="Adblock Warning Removal List"
-                specialization="Bahasa Indonesia"
+                specialization="Anti Anti-adblock pop-ups"
                 url="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
                 homepage="https://easylist.adblockplus.org/"                
                 author="fanboy, MonztA, Famlam, Khrin"/>
