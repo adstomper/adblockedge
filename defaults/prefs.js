@@ -19,8 +19,6 @@ pref("extensions.adblockedge.patternsbackupinterval", 24);
 pref("extensions.adblockedge.whitelistschemes", "about chrome file irc moz-safe-about news resource snews x-jsd addbook cid imap mailbox nntp pop data javascript moz-icon");
 pref("extensions.adblockedge.subscriptions_autoupdate", true);
 pref("extensions.adblockedge.subscriptions_listurl", "https://rawgit.com/adstomper/subs/master/subscriptions2.xml");
-pref("extensions.adblockedge.subscriptions_fallbackurl", "https://adblockplus.org/getSubscription?version=%VERSION%&url=%SUBSCRIPTION%&downloadURL=%URL%&error=%ERROR%&channelStatus=%CHANNELSTATUS%&responseStatus=%RESPONSESTATUS%");
-pref("extensions.adblockedge.subscriptions_fallbackerrors", 5);
 pref("extensions.adblockedge.documentation_link", "https://adblockplus.org/redirect?link=%LINK%&lang=%LANG%");
 pref("extensions.adblockedge.savestats", false);
 pref("extensions.adblockedge.composer_default", 2);
