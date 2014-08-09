@@ -8,7 +8,7 @@ pref("extensions.adblockedge.showinstatusbar", false);
 pref("extensions.adblockedge.detachsidebar", false);
 pref("extensions.adblockedge.defaulttoolbaraction", 0);
 pref("extensions.adblockedge.defaultstatusbaraction", 0);
-pref("extensions.adblockedge.sidebar_key", "Accel Shift V, Accel Shift U");
+pref("extensions.adblockedge.sidebar_key", "Accel Shift U");
 pref("extensions.adblockedge.filters_key", "Accel Shift E, Accel Shift F, Accel Shift O");
 pref("extensions.adblockedge.enable_key", "");
 pref("extensions.adblockedge.flash_scrolltoitem", true);
